@@ -1,0 +1,40 @@
+---
+import { settings } from "@/config/config.json";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+
+const { post_folder } = settings;
+const posts = sortByDate(await getSinglePage("blog"));
+
+const currentPostIndex = posts.findIndex(
+  (post) => post.slug === Astro.params.slug
+);
+
+const lastIndex = posts.length - 1;
+const prev =
+  currentPostIndex == 0 ? undefined : posts[currentPostIndex - 1]?.slug;
+const next =
+  currentPostIndex == lastIndex ? undefined : posts[currentPostIndex + 1]?.slug;
+---
+
+<div class="row">
+  <span class="col">
+    {
+      prev && (
+        <a href={`/${post_folder}/${prev}`} class={"btn btn-primary"}>
+          Prev
+        </a>
+      )
+    }
+  </span>
+  <span class="col-8"></span>
+  <span class="col">
+    {
+      next && (
+        <a href={`/${post_folder}/${next}`} class={"btn btn-primary"}>
+          Next
+        </a>
+      )
+    }
+  </span>
+</div>

@@ -1,0 +1,72 @@
+---
+import { settings } from "@/config/config.json";
+import DynamicIcon from "@/helpers/DynamicIcon";
+import dateFormat from "@/lib/utils/dateFormat";
+import { markdownify, slugify } from "@/lib/utils/textConverter";
+import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
+const { post_folder } = settings;
+const { summary_length } = settings;
+
+type Props = CollectionEntry<"blog">;
+const { heroImage, title, pubDate, categories } = Astro.props.data;
+const { body, slug } = Astro.props;
+---
+
+<div class="post">
+  <div class="relative">
+    {
+      heroImage && (
+        <Image
+          class="rounded"
+          src={heroImage}
+          alt={title || ""}
+          width={405}
+          height={208}
+          format="webp"
+          loading="lazy"
+        />
+      )
+    }
+  </div>
+  {
+    (categories ?? []).length > 0 && (
+      <ul class="mt-4 flex flex-wrap items-center gap-2">
+        {categories.map((tag) => (
+          <li class="inline-flex h-7 rounded-[35px] bg-primary px-3 text-white">
+            <a
+              aria-label="categories"
+              class="capitalize"
+              href={`/${post_folder}/categories/${slugify(tag)}`}>
+              {tag}
+            </a>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+  <h3 class="h5 mb-2 mt-4">
+    <a
+      href={`/${post_folder}/${slug}`}
+      class="block py-0.5 hover:text-primary dark:hover:text-darkmode-primary">
+      {title}
+    </a>
+  </h3>
+  <ul class="flex items-center space-x-4 mb-2">
+    <li class="inline-flex items-center font-secondary text-xs leading-3">
+      <DynamicIcon className="mr-1.5" icon="FaRegCalendar" />
+      {dateFormat(pubDate!)}
+    </li>
+  </ul>
+  <p set:html={markdownify(body!.slice(0, summary_length))} />
+  <div class="mt-4 flex flex-col items-start gap-3">
+    <a
+      title={title}
+      aria-label={title}
+      class="btn btn-outline-primary"
+      href={`/${post_folder}/${slug}`}>
+      <span class="sr-only">{title}</span>
+      Read More
+    </a>
+  </div>
+</div>

@@ -31,10 +31,13 @@ const blog = defineCollection({
 		z.object({
 			title: z.string(),
 			description: z.string().optional(),
+			meta_title: z.string().optional(),
 			pubDate: dateField,
 			updatedDate: optionalDateField,
 			heroImage: image().optional(),
 			categories: categoriesField,
+			draft: z.boolean().optional(),
+			featured: z.boolean().optional(),
 		}),
 });
 

@@ -9,15 +9,7 @@ import HeaderLink from './HeaderLink.astro';
 		<div class="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/pages">Pages</HeaderLink>
-			<HeaderLink href="/blog">Blog</HeaderLink>
-		</div>
-		<div class="external-links">
-			<a class="youtube-link" href="https://www.youtube.com/@asteriondaedalus6859" target="_blank" rel="noopener">
-				<span class="sr-only">YouTube</span>
-			</a>
-			<a class="github-link" href="https://github.com/bazmundi" target="_blank" rel="noopener">
-				<span class="sr-only">GitHub</span>
-			</a>
+			<HeaderLink href="/blog/">Blog</HeaderLink>
 		</div>
 	</nav>
 </header>
@@ -91,7 +83,7 @@ import HeaderLink from './HeaderLink.astro';
 		font-family: "Alef", "Atkinson", system-ui, sans-serif;
 		font-weight: 700;
 		letter-spacing: 0.08em;
-		color: var(--site-title-color, #f28c28);
+		color: var(--site-title-color, #C13610);
 	}
 
 	h2 a,
@@ -109,17 +101,22 @@ import HeaderLink from './HeaderLink.astro';
 		justify-self: start;
 	}
 	nav a {
-		padding: 1em 0.5em;
+		padding: 0.45em 1em;
 		color: inherit;
-		border-bottom: 4px solid transparent;
+		border-radius: 999px;
 		text-decoration: none;
+		transition: background-color 0.2s ease, color 0.2s ease;
 	}
 	nav a.site-title {
-		color: var(--site-title-color, #f28c28);
+		color: var(--site-title-color, #C13610);
+	}
+	nav a:hover,
+	nav a.active {
+		background: var(--site-title-color, #C13610);
+		color: #fff;
 	}
 	nav a.active {
 		text-decoration: none;
-		border-bottom-color: var(--accent);
 	}
 	.internal-links,
 	.external-links {

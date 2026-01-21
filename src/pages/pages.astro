@@ -1,53 +1,58 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
+import Base from '@/layouts/Base.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 ---
 
-<!doctype html>
-<html lang="en">
-	<head>
-		<BaseHead title={`${SITE_TITLE} - Pages`} description={SITE_DESCRIPTION} />
-	</head>
-	<body class="dark-page">
-		<Header />
-		<main class="pages-shell">
-			<h1>GitHub Repos and Pages Index</h1>
-			<p>References to published docs and experiments, collected over time.</p>
-			<table class="pages-table">
-				<thead>
-					<tr>
-						<th scope="col">Repo</th>
-						<th scope="col">GH Pages</th>
-						<th scope="col">Description</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>PickPlaz ESP32-C3 Port</td>
-						<td><a href="/PickPlaz-ESP32-C3-Port/">Docs</a></td>
-						<td>Reference docs for PickPlaz ESP32-C3 Port.</td>
-					</tr>
-					<tr>
-						<td>repo2</td>
-						<td><a href="/repo2/">Docs</a></td>
-						<td>Reference docs for repo2.</td>
-					</tr>
-				</tbody>
-			</table>
-		</main>
-		<Footer />
-	</body>
-</html>
+<Base
+	title={`${SITE_TITLE} - Pages`}
+	description={SITE_DESCRIPTION}
+	bodyClass="pages-page"
+>
+	<div class="section">
+		<div class="container">
+			<div class="pages-shell">
+				<h1>GitHub Repos and Pages Index</h1>
+				<p>References to published docs and experiments, collected over time.</p>
+				<table class="pages-table">
+					<thead>
+						<tr>
+							<th scope="col">Repo</th>
+							<th scope="col">GH Pages</th>
+							<th scope="col">Description</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>PickPlaz ESP32-C3 Port</td>
+							<td><a href="/PickPlaz-ESP32-C3-Port/">Docs</a></td>
+							<td>Reference docs for PickPlaz ESP32-C3 Port.</td>
+						</tr>
+						<tr>
+							<td>repo2</td>
+							<td><a href="/repo2/">Docs</a></td>
+							<td>Reference docs for repo2.</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</Base>
 
 <style>
-	body.dark-page {
+	body.pages-page {
 		background: #000;
 		color: #f4f1e8;
-		--header-bg: #000;
-		--header-fg: #f4f1e8;
-		--header-border: transparent;
+	}
+	body.dark-page .nav-link,
+	body.dark-page .nav-dropdown-link {
+		color: var(--color-darkmode-text-light);
+	}
+	body.dark-page .nav-link:hover,
+	body.dark-page .nav-link.active,
+	body.dark-page .nav-dropdown-link:hover,
+	body.dark-page .nav-dropdown-link.active {
+		color: var(--color-darkmode-text-light);
 	}
 
 	.pages-shell {
@@ -56,7 +61,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 	}
 	.pages-shell h1 {
 		font-size: 2.25rem;
-		color: var(--site-title-color, #f28c28);
+		color: var(--site-title-color, #C13610);
 		font-weight: 600;
 		text-align: center;
 	}

@@ -1,0 +1,74 @@
+{
+  "site": {
+    "title": "organic~monkey~motion",
+    "base_url": "https://bazmundi.github.io",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/favicon.svg",
+    "logo": "/images/logo.png",
+    "logo_darkmode": "/images/logo.png",
+    "logo_width": "150",
+    "logo_height": "39",
+    "logo_text": "organic~monkey~motion"
+  },
+
+  "settings": {
+    "search": false,
+    "sticky_header": false,
+    "theme_switcher": false,
+    "default_theme": "dark",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "post_folder": "blog"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "footer_content": "Hub for experiments, documentation, and scratchings.",
+    "copyright": "© organic\\~monkey\\~motion"
+  },
+
+  "widgets": {
+    "about": {
+      "enable": false,
+      "content": "Hub for experiments, documentation, and scratchings."
+    },
+    "featured_posts": {
+      "enable": false,
+      "title": "Categories",
+      "showPost": 0
+    },
+    "categories": {
+      "enable": true,
+      "title": "Categories"
+    },
+    "newsletter": {
+      "enable": false,
+      "title": "Newsletter",
+      "content": "",
+      "privacy_policy_page": "/privacy-policy",
+      "malichipm_url": ""
+    }
+  },
+  "navigation_button": {
+    "enable": false,
+    "label": "Get Started",
+    "link": "https://example.com"
+  },
+
+  "metadata": {
+    "meta_author": "asterion",
+    "meta_image": "/images/OMM-IDEA.png",
+    "meta_description": "Hub for experiments, documentation, and scratchings."
+  },
+
+  "disqus": {
+    "enable": false,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}

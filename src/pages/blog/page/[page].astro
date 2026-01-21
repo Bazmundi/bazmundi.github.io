@@ -1,0 +1,49 @@
+---
+import Pagination from "@/components/Pagination.astro";
+import PostsList from "@/components/PostsList.astro";
+import { settings } from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const pageSize = Math.max(1, Number(settings.pagination ?? 1));
+  const posts =
+    (await getCollection(
+      "blog",
+      ({ data, id }) => !id.startsWith("-") && !data.draft
+    )) ?? [];
+  const totalPages = Math.ceil(posts.length / pageSize);
+  const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
+
+  return pages
+    .slice(1)
+    .map((page) => ({ params: { page: page.toString() } }));
+}
+
+const pageSize = Math.max(1, Number(settings.pagination ?? 1));
+const currentPage = Number.parseInt(Astro.params.page ?? "1", 10);
+const posts =
+  (await getCollection(
+    "blog",
+    ({ data, id }) => !id.startsWith("-") && !data.draft
+  )) ?? [];
+const sortedPosts = sortByDate(posts);
+const totalPages = Math.ceil(sortedPosts.length / pageSize);
+const start = (currentPage - 1) * pageSize;
+const pagedPosts = sortedPosts.slice(start, start + pageSize);
+const pageTitle = `Blog - Page ${currentPage}`;
+---
+
+<Base title={pageTitle}>
+  <div class="section">
+    <div class="container">
+      <PostsList posts={pagedPosts} />
+      <Pagination
+        section={settings.post_folder}
+        currentPage={currentPage}
+        totalPages={totalPages}
+      />
+    </div>
+  </div>
+</Base>
