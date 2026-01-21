@@ -1,0 +1,223 @@
+---
+import { SITE_TITLE } from '../consts';
+import HeaderLink from './HeaderLink.astro';
+---
+
+<header>
+	<nav>
+		<h2><a class="site-title" href="/">{SITE_TITLE}</a></h2>
+		<div class="internal-links">
+			<HeaderLink href="/">Home</HeaderLink>
+			<HeaderLink href="/pages">Pages</HeaderLink>
+			<HeaderLink href="/blog">Blog</HeaderLink>
+		</div>
+		<div class="external-links">
+			<a class="youtube-link" href="https://www.youtube.com/@asteriondaedalus6859" target="_blank" rel="noopener">
+				<span class="sr-only">YouTube</span>
+			</a>
+			<a class="github-link" href="https://github.com/bazmundi" target="_blank" rel="noopener">
+				<span class="sr-only">GitHub</span>
+			</a>
+		</div>
+	</nav>
+</header>
+<div class="tweet-overlay" data-tweet-overlay aria-hidden="true">
+	<span>Tweet!</span>
+</div>
+<div class="mastodon-overlay" data-mastodon-overlay aria-hidden="true">
+	<img src="/images/Mastodon_color.jpg" alt="" loading="lazy" decoding="async" />
+</div>
+<audio data-tweet-audio preload="auto">
+	<source src="/media/audio/flock-of-crows-ravens-cawing-129073.mp3" type="audio/mpeg" />
+</audio>
+<audio data-mastodon-audio preload="auto">
+	<source src="/media/audio/10l2pqogqc2-elephant-sfx-9.mp3" type="audio/mpeg" />
+</audio>
+<script>
+	const setupFlash = (triggers, overlay, audio) => {
+		if (!overlay || !triggers || triggers.length === 0) {
+			return;
+		}
+
+		let timer;
+		const flash = () => {
+			overlay.classList.remove('is-active');
+			void overlay.offsetWidth;
+			overlay.classList.add('is-active');
+			if (audio instanceof HTMLAudioElement) {
+				audio.currentTime = 0;
+				audio.play().catch(() => {});
+			}
+			clearTimeout(timer);
+			timer = window.setTimeout(() => {
+				overlay.classList.remove('is-active');
+			}, 500);
+		};
+
+		triggers.forEach((trigger) => {
+			trigger.addEventListener('click', (event) => {
+				event.preventDefault();
+				flash();
+			});
+		});
+	};
+
+	setupFlash(
+		document.querySelectorAll('[data-tweet-trigger]'),
+		document.querySelector('[data-tweet-overlay]'),
+		document.querySelector('[data-tweet-audio]')
+	);
+
+	setupFlash(
+		document.querySelectorAll('[data-mastodon-trigger]'),
+		document.querySelector('[data-mastodon-overlay]'),
+		document.querySelector('[data-mastodon-audio]')
+	);
+</script>
+<style>
+	header {
+		margin: 0;
+		padding: 0 1em;
+		background: var(--header-bg);
+		color: var(--header-fg);
+		border-bottom: 1px solid var(--header-border);
+	}
+	h2 {
+		margin: 0;
+		font-size: 1em;
+	}
+
+	.site-title {
+		font-family: "Alef", "Atkinson", system-ui, sans-serif;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		color: var(--site-title-color, #f28c28);
+	}
+
+	h2 a,
+	h2 a.active {
+		text-decoration: none;
+	}
+	nav {
+		display: grid;
+		grid-template-columns: minmax(160px, 1fr) auto minmax(160px, 1fr);
+		align-items: center;
+		justify-content: space-between;
+		gap: 1rem;
+	}
+	h2 {
+		justify-self: start;
+	}
+	nav a {
+		padding: 1em 0.5em;
+		color: inherit;
+		border-bottom: 4px solid transparent;
+		text-decoration: none;
+	}
+	nav a.site-title {
+		color: var(--site-title-color, #f28c28);
+	}
+	nav a.active {
+		text-decoration: none;
+		border-bottom-color: var(--accent);
+	}
+	.internal-links,
+	.external-links {
+		display: flex;
+		gap: 0.5rem;
+		flex-wrap: wrap;
+	}
+	.internal-links {
+		justify-content: center;
+	}
+	.external-links {
+		justify-content: flex-end;
+	}
+	.github-link {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.github-link::before {
+		content: "";
+		width: 20px;
+		height: 20px;
+		background: url("/icons/github-mark-white.png") center / contain no-repeat;
+		display: block;
+	}
+	.youtube-link {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.youtube-link::before {
+		content: "";
+		width: 20px;
+		height: 20px;
+		background: url("/icons/youtube.gif") center / contain no-repeat;
+		display: block;
+	}
+	.tweet-overlay {
+		position: fixed;
+		inset: 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: rgba(255, 0, 0, 0.96);
+		color: #ffcc4d;
+		font-family: "Alef", "Atkinson", system-ui, sans-serif;
+		font-size: clamp(2.5rem, 10vw, 6rem);
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		opacity: 0;
+		visibility: hidden;
+		pointer-events: none;
+		z-index: 9999;
+	}
+	.mastodon-overlay {
+		position: fixed;
+		inset: 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: #000;
+		opacity: 0;
+		visibility: hidden;
+		pointer-events: none;
+		z-index: 9999;
+	}
+	.mastodon-overlay img {
+		width: min(60vw, 420px);
+		height: auto;
+	}
+	.tweet-overlay.is-active {
+		visibility: visible;
+		animation: tweet-flash 0.5s ease;
+	}
+	.mastodon-overlay.is-active {
+		visibility: visible;
+		animation: tweet-flash 0.5s ease;
+	}
+	@keyframes tweet-flash {
+		0% {
+			opacity: 0;
+		}
+		10% {
+			opacity: 1;
+		}
+		90% {
+			opacity: 1;
+		}
+		100% {
+			opacity: 0;
+		}
+	}
+	@media (max-width: 720px) {
+		nav {
+			grid-template-columns: 1fr;
+			justify-content: start;
+			justify-items: start;
+		}
+	}
+</style>

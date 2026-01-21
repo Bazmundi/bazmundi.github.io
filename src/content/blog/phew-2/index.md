@@ -1,0 +1,10 @@
+---
+title: "Phew!"
+pubDate: 2015-05-17 04:36:24
+---
+Niggly problems when setting up the [Blackwidow](https://organicmonkeymotion.wordpress.com/2015/05/15/esp4/ "In hind sight") to talk to home wifi router but, go figure, I wasn't paying attention. When setting ssid[] and security\_passphrase[] arrays one need use you local ssid and passphrase for your router as opposed to the ssid set in the code example AND remember to set "security\_type = 3" for WPA2 - obviously had a newbie moment ;) The other curl ball thrown is that the board seems to take a couple minutes to connect to the router (into which does not appear to turn up on any site I have perused).  I thought it had not worked but McAfee piped up (after a few minutes) and warned "192.168.0.112" had connected to network (which was the static IP address I gave the Blackwidow).  Once Blackwidow is connected to router it appears more reactive. Next step to integrate in the Arduino mqtt library.  4 relay shield on order from China ($6) and I have already cracked open the current watering controller to look at swapping out the signals to the new board.  They are only 12volt signals with a common to all watering solenoids - too easy drill sergeant!
+POST SCRIPT
+Go figure, some work to port MQTT library as it uses Ethernet library (or Wifi library) not compatible in first instance with WiShield library for BlackWidow.  However, I do note deep in the Client class used in the MQTT client we have buffer marshalling for sending on sockets.  Problem is the BlackWidow examples are using UDP.
+One interesting discovery however was the way BlackWidow example built the UDP example it was not intuitive but it clicked they are using virtual methods in the library for user to define.  More than that it introduced be to PT\_THREADS for Arduino.  A neat way to do limited threads on Arduino.
+I may dabble a little with a MQTT port I can simply stick with HTTP or UDP examples (we are only talking about toggling 4 relays after all).  OpenHAB can work with HTTP or UDP (as well as MQTT) so no show stoppers.
+PT\_THREADS are, however, interesting.

@@ -1,0 +1,22 @@
+---
+title: "Are we there yet?"
+pubDate: 2023-02-04 02:53:55
+---
+Nope.
+
+
+
+I'm still getting bitten by not properly planning BOM etc.
+
+
+
+Still getting blocked by problems popping up, again, with me Flashforge Finder.
+
+
+
+
+https://youtu.be/wO\_8aVqpdMc
+
+
+
+[![](./temp.png)](./temp.png)

@@ -1,0 +1,219 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const recentPosts = posts.slice(0, 5);
+const archiveFormatter = new Intl.DateTimeFormat('en', { month: 'long', year: 'numeric' });
+const getArchiveKey = (date) =>
+	`${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+const archiveItems = [];
+const archiveIndex = new Map();
+
+for (const post of posts) {
+	const key = getArchiveKey(post.data.pubDate);
+	let item = archiveIndex.get(key);
+	if (!item) {
+		item = { key, label: archiveFormatter.format(post.data.pubDate), count: 0 };
+		archiveIndex.set(key, item);
+		archiveItems.push(item);
+	}
+	item.count += 1;
+}
+
+const seenArchiveKeys = new Set();
+const postsWithArchive = posts.map((post) => {
+	const key = getArchiveKey(post.data.pubDate);
+	const isFirstInMonth = !seenArchiveKeys.has(key);
+	if (isFirstInMonth) {
+		seenArchiveKeys.add(key);
+	}
+	return { post, archiveKey: key, isFirstInMonth };
+});
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				width: min(1200px, 100%);
+				margin: 0 auto;
+				padding: 0 1.5rem 2rem;
+			}
+			.blog-layout {
+				display: grid;
+				grid-template-columns: minmax(0, 1fr) 260px;
+				gap: 2.5rem;
+				align-items: start;
+			}
+			.post-list {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 2rem;
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			.post-card {
+				width: calc(50% - 1rem);
+			}
+			.post-card * {
+				text-decoration: none;
+				transition: 0.2s ease;
+			}
+			.post-list > .post-card:first-child {
+				width: 100%;
+				margin-bottom: 1rem;
+				text-align: center;
+			}
+			.post-list > .post-card:first-child img {
+				width: 100%;
+			}
+			.post-list > .post-card:first-child .title {
+				font-size: 2.369rem;
+			}
+			.post-card img {
+				margin-bottom: 0.5rem;
+				border-radius: 12px;
+			}
+			.post-card a {
+				display: block;
+			}
+			.title {
+				margin: 0;
+				color: rgb(var(--black));
+				line-height: 1;
+			}
+			.date {
+				margin: 0;
+				color: rgb(var(--gray));
+			}
+			.post-card a:hover h4,
+			.post-card a:hover .date {
+				color: rgb(var(--accent));
+			}
+			.post-card a:hover img {
+				box-shadow: var(--box-shadow);
+			}
+			.sidebar {
+				display: flex;
+				flex-direction: column;
+				gap: 2rem;
+			}
+			.sidebar-block h3 {
+				margin: 0 0 0.75rem;
+				font-size: 0.95rem;
+				letter-spacing: 0.08em;
+				text-transform: uppercase;
+				color: rgb(var(--gray-dark));
+			}
+			.sidebar-list {
+				list-style: none;
+				margin: 0;
+				padding: 0;
+				display: flex;
+				flex-direction: column;
+				gap: 0.5rem;
+			}
+			.sidebar-list li {
+				display: flex;
+				justify-content: space-between;
+				gap: 0.75rem;
+			}
+			.sidebar-list a {
+				color: rgb(var(--black));
+				text-decoration: none;
+			}
+			.sidebar-list a:hover {
+				color: rgb(var(--accent));
+			}
+			.sidebar-list .count {
+				color: rgb(var(--gray));
+				font-size: 0.85em;
+				white-space: nowrap;
+			}
+			@media (max-width: 1024px) {
+				.blog-layout {
+					grid-template-columns: 1fr;
+				}
+			}
+			@media (max-width: 720px) {
+				.post-list {
+					gap: 0.5em;
+				}
+				.post-card {
+					width: 100%;
+					text-align: center;
+				}
+				.post-list > .post-card:first-child {
+					margin-bottom: 0;
+				}
+				.post-list > .post-card:first-child .title {
+					font-size: 1.563em;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="blog-layout">
+				<section>
+					<ul class="post-list">
+						{
+							postsWithArchive.map(({ post, archiveKey, isFirstInMonth }) => (
+								<li
+									class="post-card"
+									id={isFirstInMonth ? `archive-${archiveKey}` : undefined}
+								>
+									<a href={`/blog/${post.id}/`}>
+										{post.data.heroImage && (
+											<Image width={720} height={360} src={post.data.heroImage} alt="" />
+										)}
+										<h4 class="title">{post.data.title}</h4>
+										<p class="date">
+											<FormattedDate date={post.data.pubDate} />
+										</p>
+									</a>
+								</li>
+							))
+						}
+					</ul>
+				</section>
+				<aside class="sidebar">
+					<div class="sidebar-block">
+						<h3>Meanderings</h3>
+						<ul class="sidebar-list">
+							{recentPosts.map((post) => (
+								<li>
+									<a href={`/blog/${post.id}/`}>{post.data.title}</a>
+								</li>
+							))}
+						</ul>
+					</div>
+					<div class="sidebar-block">
+						<h3>Archaeological Drival</h3>
+						<ul class="sidebar-list">
+							{archiveItems.map((archive) => (
+								<li>
+									<a href={`#archive-${archive.key}`}>{archive.label}</a>
+									<span class="count">{archive.count}</span>
+								</li>
+							))}
+						</ul>
+					</div>
+				</aside>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

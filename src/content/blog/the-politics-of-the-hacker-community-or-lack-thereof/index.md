@@ -1,0 +1,23 @@
+---
+title: "The politics of the hacker community  ... or lack thereof"
+pubDate: 2013-06-23 05:41:00
+---
+[Ah hem](http://www.scribd.com/doc/95282643/Backdoors-Embedded-in-DoD-Microchips-From-China "Back door in silicon targeted at US/NATO defense systems") plus the Internet of Things ([US bodies, going to China to develop technology to take back to US](http://www.seeedstudio.com/depot/preorder-spark-core-p-1495.html?cPath=6_7 "Out of the mouth of babes")).
+Isn't it funny.
+Now this idea of China providing back doors into chips it was producing, as a way of turning off weapons and internet driven things, was always the meat of speculation towards being thought of as "conspiracy theory".
+Now, how things are downplayed often has to do with a lack of evidence of where the "theory" comes from.
+The notion of "conspiracy" is likely caused in no small part by what I call "reporting distance", turning fact into "opinion" by passing on the information over and over again via websites - possibly verbatim, possibly with a "twist".  Many fail to do things like point to (first hyperlink) the peer reviewed scientific research that shows that a US design secure chip, manufactured in China, has been compromised.
+
+Now I used scribd as my link source also to make the point that the original is at the author's web site at <http://www.cl.cam.ac.uk/~sps32/Silicon_scan_draft.pdf> so why on earth websites like sribd exist I can't fathom as people seem to pay for material at a "reporting distance" > 1 when you can get the thing from the author's site, for free, why on earth do we need to copy junk over and over and over ... sort of feeds the notion that things are "conspiracy theory" doesn't it ... and it defeats the point of having an Internet since the whole point of the Internet was to you could to to any computer from another other computer.  Anyway, that is just my side bar rant.
+
+Back to the plot. The second hyperlink above is not an accusation mind you, just an observation.  The observation that DoD can't get it right defending it's Defense systems from hacker back doors while ironically 1) bragging in places about doing the same thing to other countries (ref tbd) and 2) going to a lot of trouble to stop US technology getting into the wrong hands ([ITAR](http://pmddtc.state.gov/regulations_laws/itar_official.html "Ah ah ah!!")) and still still farming out technological IP out to China via chip manufacturing arrangements and also flooding the US with Chinese chips via consumer goods etc.
+Now, oddly, this is likely to end up with the same the same ring to it as US gun laws as US hacker community will likely argue that they have an inalienable right to Hack blah blah blah ad nauseum.  Although, this is more like giving your enemy a gun rather than you having a gun to defend against your enemy.
+That's not to say that I am not guilty of funding the Chinese war machine myself.  However, I  am banking on them actually just having been around so long that they understand what the US does not seem to, and that is what the Roman's\Russians didn't work out but we all know - once you expand your regime past certain geographical/political limits it soon collapses on itself as it runs itself into the ground because you cannot fund it any longer.
+Before you respond, at least read this ([DoD Cyber Threat](http://www.acq.osd.mil/dsb/reports/ResilientMilitarySystems.CyberThreat.pdf "Big money spinner")).
+And again, before you respond go educate yourself on Software Security Assurance ([CC](http://www.commoncriteriaportal.org/products/ "Educated yourself")) and tell me again why having more or less none of the systems flooding into the Internet of Things having third party certification of Software/Hardware Security Assurance will be a good thing?  It is history repeating itself.  The Internet is already known to be a flawed design when it comes to security.  It was design by a bunch of hippy computer scientists who had naive "trust" in one another.
+Even CC is wrong in as far as it is trying to police the flawed design of the Internet ([one example of many](http://en.wikipedia.org/wiki/Dan_Kaminsky "Most trusted security dude apparently sneaks around hacking into sites without telling people")) - and CC was put in place partly to certify online financial transactions, and if [banks can't get it right](http://cups.cs.cmu.edu/soups/2008/proceedings/p117Falk.pdf "\"Reporting distance\" = 1") then what hope the Internet of Things?
+Still, we place Hacking above privacy, national defense yadda et cetera.
+So be it!
+Won't solve anything my little own self.
+So I am waiting for the Spark Core to come out on the market.
+Wretched isn't it.

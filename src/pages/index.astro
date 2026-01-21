@@ -1,0 +1,94 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body class="home">
+		<Header />
+		<main class="home-shell">
+			<div class="home-logo-frame">
+				<img
+					class="home-logo"
+					src="/images/logo-nobackground-1000-clipped.png"
+					alt={`${SITE_TITLE} logo`}
+					loading="eager"
+					decoding="async"
+				/>
+			</div>
+			<p class="home-tagline">{SITE_DESCRIPTION}</p>
+			<img
+				class="home-gif"
+				src="/images/OOM-FROZEN_jetblack.gif"
+				alt=""
+				loading="lazy"
+				decoding="async"
+			/>
+		</main>
+		<style is:global>
+		body.home {
+			margin: 0;
+			min-height: 100vh;
+			background: #000;
+			color: #f4f1e8;
+			--header-bg: #000;
+			--header-fg: #f4f1e8;
+			--header-border: transparent;
+		}
+
+		body.home .site-title {
+			visibility: hidden;
+			pointer-events: none;
+		}
+
+		body.home main.home-shell {
+			min-height: 100vh;
+			width: min(900px, 100%);
+			max-width: 900px;
+			margin: 0 auto;
+			padding: 72px 24px 48px;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			gap: 24px;
+		}
+
+		.home-logo-frame {
+			width: min(45vw, 490px);
+			height: clamp(100px, 15vw, 180px);
+			overflow: hidden;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		.home-logo {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			object-position: center 50%;
+			transform: scale(0.95);
+			transform-origin: center;
+			border-radius: 0;
+		}
+
+		.home-tagline {
+			margin: 0;
+			text-align: center;
+			font-size: 1.1rem;
+			color: rgba(244, 241, 232, 0.78);
+			max-width: 640px;
+		}
+
+		.home-gif {
+			width: min(60vw, 480px);
+			height: auto;
+		}
+	</style>
+	</body>
+</html>

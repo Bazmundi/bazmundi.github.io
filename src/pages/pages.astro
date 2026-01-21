@@ -1,0 +1,89 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`${SITE_TITLE} - Pages`} description={SITE_DESCRIPTION} />
+	</head>
+	<body class="dark-page">
+		<Header />
+		<main class="pages-shell">
+			<h1>GitHub Repos and Pages Index</h1>
+			<p>References to published docs and experiments, collected over time.</p>
+			<table class="pages-table">
+				<thead>
+					<tr>
+						<th scope="col">Repo</th>
+						<th scope="col">GH Pages</th>
+						<th scope="col">Description</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>PickPlaz ESP32-C3 Port</td>
+						<td><a href="/PickPlaz-ESP32-C3-Port/">Docs</a></td>
+						<td>Reference docs for PickPlaz ESP32-C3 Port.</td>
+					</tr>
+					<tr>
+						<td>repo2</td>
+						<td><a href="/repo2/">Docs</a></td>
+						<td>Reference docs for repo2.</td>
+					</tr>
+				</tbody>
+			</table>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	body.dark-page {
+		background: #000;
+		color: #f4f1e8;
+		--header-bg: #000;
+		--header-fg: #f4f1e8;
+		--header-border: transparent;
+	}
+
+	.pages-shell {
+		display: grid;
+		gap: 1rem;
+	}
+	.pages-shell h1 {
+		font-size: 2.25rem;
+		color: var(--site-title-color, #f28c28);
+		font-weight: 600;
+		text-align: center;
+	}
+	.pages-table {
+		width: 100%;
+		border-collapse: collapse;
+		font-size: 1rem;
+	}
+	.pages-table thead th {
+		text-align: left;
+		font-size: 0.85rem;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		color: rgba(244, 241, 232, 0.7);
+		padding: 0.75rem 0;
+		border-bottom: 1px solid rgba(244, 241, 232, 0.2);
+	}
+	.pages-table tbody td {
+		padding: 0.75rem 0;
+		border-bottom: 1px solid rgba(244, 241, 232, 0.12);
+		vertical-align: top;
+	}
+	.pages-table tbody td:nth-child(2) a {
+		white-space: nowrap;
+	}
+	.pages-note {
+		color: rgba(244, 241, 232, 0.6);
+		font-size: 0.9rem;
+	}
+</style>
