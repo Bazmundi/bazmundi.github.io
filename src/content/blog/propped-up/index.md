@@ -1,6 +1,10 @@
 ---
 title: "Propped up!"
 pubDate: 2020-05-31 04:10:51
+categories:
+  - 3d-printing
+  - hardware
+  - robotics
 ---
 ![](./drmadthrust.jpg)
 

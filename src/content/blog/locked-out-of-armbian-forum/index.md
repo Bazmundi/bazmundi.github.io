@@ -1,6 +1,9 @@
 ---
 title: "Locked out of Armbian forum!!"
 pubDate: 2017-06-30 11:55:49
+categories:
+  - armbian
+  - orange-pi
 ---
 ![adminbully](./adminbully.jpg)
 I am locked out of Armbian forum now??

@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.1"
 pubDate: 2014-03-26 13:23:15
+categories:
+  - cyclone-ii-experiments
 ---
 [![Little Baby Steps](./20140326.jpeg)](./20140326.jpeg)
  

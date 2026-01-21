@@ -1,6 +1,8 @@
 ---
 title: "Quality Control"
 pubDate: 2017-05-13 23:21:10
+categories:
+  - sensing
 ---
 So, I decided to put a dispute into Aliexpress to get half my $5 back on the [lens I ordered](https://organicmonkeymotion.wordpress.com/2017/05/10/arrrrrrrrrrrrrrrrrrrrrrrrrrrrr/).
 No markings so you can't easily tell what focal length it is supposed to be.  Go figure, I pinged the vendor and asked how they know what lens to send if there are no markings and they "apologized" as they couldn't tell me what focal length it was.

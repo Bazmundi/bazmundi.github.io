@@ -1,6 +1,10 @@
 ---
 title: "NERF anyone?"
 pubDate: 2023-04-30 03:51:12
+categories:
+  - ai
+  - ai-generated-animations
+  - vision
 ---
 So, [NERF](https://docs.nerf.studio/en/latest/extensions/blender_addon.html) looks like a great way to build a virtual world of my laboratory, mwahahahahahahaha!
 

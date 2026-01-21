@@ -1,6 +1,8 @@
 ---
 title: "In fact ..."
 pubDate: 2019-01-12 09:15:02
+categories:
+  - 3d-printing
 ---
 No need to bother my sister with requests for prints over 140mm cubic.
 

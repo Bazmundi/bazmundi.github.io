@@ -1,6 +1,8 @@
 ---
 title: "DUD NFC Tag and reliability dunce"
 pubDate: 2020-06-10 09:47:36
+categories:
+  - 3d-printing
 ---
 I have been looking for tags to 1) manage my filament spools and 2) look at what I need do to better manage all the food we stash in the freezer.
 

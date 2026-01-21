@@ -1,6 +1,8 @@
 ---
 title: "Phew"
 pubDate: 2014-03-23 07:36:50
+categories:
+  - development
 ---
 So, last assignment for Master's done save for re-reading and touching up references.  Two weeks ahead of when it has to be handed in so plenty of study time before exam.
 In the meantime, some dusting off of projects in order I think.

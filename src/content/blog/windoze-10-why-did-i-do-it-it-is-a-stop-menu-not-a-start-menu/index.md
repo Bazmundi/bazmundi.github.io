@@ -1,6 +1,8 @@
 ---
 title: "Windoze 10, NO IDEA"
 pubDate: 2015-08-24 12:25:24
+categories:
+  - windoze10
 ---
 What on earth is this thing they call a "**Start Menu**".  I am a software developer come system engineer come safety engineer and I have loaded my machine with, well, stuff.
 I take a deep breath and install Windows 10 over my Windows 7 install.  How bad can it be right, they have to run all the older software or go out of business right AND I hear that they brought the start menu back.

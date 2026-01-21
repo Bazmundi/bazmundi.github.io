@@ -1,6 +1,11 @@
 ---
 title: "ESP32-(K)NOW how?"
 pubDate: 2022-12-12 10:32:10
+categories:
+  - esp32
+  - manual-pnp
+  - pnp
+  - wireless-manual-pnp-pump
 ---
 ![](./doh.png)
 

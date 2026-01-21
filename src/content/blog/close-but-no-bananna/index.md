@@ -1,6 +1,11 @@
 ---
 title: "Close but no bananna"
 pubDate: 2017-06-14 06:43:42
+categories:
+  - mqtt
+  - orange-pi
+  - rant
+  - the-downside-of-opensource
 ---
 So here is where I got to getting emqttd to start as a service on Armbian Debian server running on OPiZ:
 

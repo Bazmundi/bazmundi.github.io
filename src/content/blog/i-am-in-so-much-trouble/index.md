@@ -1,6 +1,11 @@
 ---
 title: "I am in so much trouble ..."
 pubDate: 2017-01-18 11:14:15
+categories:
+  - linux
+  - nostalgia
+  - parallel-talk
+  - the-after-market
 ---
 ... wife will kill me!
 Look what I bid on!

@@ -1,6 +1,8 @@
 ---
 title: "One step closer"
 pubDate: 2018-04-09 13:10:34
+categories:
+  - home-made-lidar
 ---
 Here is the gimbal board blinking.
 What it took was a bit of work to sort a [driver](https://learn.adafruit.com/usbtinyisp/drivers) for a [USBtinyISP programmer](https://core-electronics.com.au/usbtinyisp-arduino-bootloader-programmer.html).

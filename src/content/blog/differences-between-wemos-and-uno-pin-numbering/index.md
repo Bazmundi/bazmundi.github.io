@@ -1,6 +1,12 @@
 ---
 title: "Differences between WeMOS and UNO pin numbering"
 pubDate: 2016-06-29 13:20:56
+categories:
+  - embedded
+  - esp8266
+  - iot
+  - lua
+  - opensprinklette
 ---
 The table below shows the mapping between the UNO pins, the pins on generic 4 relay shields, the ESP8266, and the WeMOS UNO clone for you info.
 

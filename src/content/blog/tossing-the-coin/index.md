@@ -1,6 +1,10 @@
 ---
 title: "Tossing the coin ..."
 pubDate: 2015-12-02 12:11:02
+categories:
+  - esp8266
+  - lua
+  - mqtt
 ---
 ... is it the hardware or the software?
 Not having any luck with the ESP8266 (as an ESP-01).

@@ -1,6 +1,9 @@
 ---
 title: "Yeah well"
 pubDate: 2012-06-25 13:07:45
+categories:
+  - sensing
+  - software
 ---
 I have looked at two AHRS for the razor.  One of then doesn't appear to have  a means to calibrate but also appears to claim it isn't needed.  The nuisance, the yaw setting (compass) didn't seem to behave the way I would have expected.
 It appeared that the north-south axis wasn't 90degrees with the east-west.

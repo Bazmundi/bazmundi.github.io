@@ -1,6 +1,9 @@
 ---
 title: "Farming small crayfish"
 pubDate: 2022-01-04 06:22:44
+categories:
+  - aquaponics-and-the-like
+  - vblog
 ---
 Here's the idea.
 

@@ -1,6 +1,8 @@
 ---
 title: "Potentially upgrading my Cyclone II setup"
 pubDate: 2014-04-23 14:21:12
+categories:
+  - cyclone-ii-experiments
 ---
 [caption id="attachment\_1202" align="aligncenter" width="450"][![Bigger is better](./bigger.png)](./bigger.png) Bigger is better[/caption]
 May have to upgrade my Cyclone experiment board.  For twice the price you get VGA output, stepper motor control, A/D and D/A, Infrared control, I2C, etc.

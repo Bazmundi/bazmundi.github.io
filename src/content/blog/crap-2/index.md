@@ -1,6 +1,10 @@
 ---
 title: "Crap"
 pubDate: 2021-04-09 01:35:17
+categories:
+  - bad-vendor-aliexpress
+  - pnp
+  - rant
 ---
 So, a package arrived from Aliexpress.
 

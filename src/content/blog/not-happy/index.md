@@ -1,6 +1,8 @@
 ---
 title: "Not Happy"
 pubDate: 2024-06-28 18:51:27
+categories:
+  - windoze10
 ---
 Up until recently the Windows 11 prompts made it clear that a Windows 11 install was offered, to which I declined.
 

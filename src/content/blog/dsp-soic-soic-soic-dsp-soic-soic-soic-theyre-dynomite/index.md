@@ -1,6 +1,9 @@
 ---
 title: "DSP soic soic soic DSP soic soic soic they're dynomite"
 pubDate: 2014-06-07 02:06:35
+categories:
+  - cheap-obsolete-tech
+  - hardware
 ---
 [caption id="attachment\_1416" align="aligncenter" width="450"][![Motor control DSP chips](./20140607_112157.jpeg)](./20140607_112157.jpeg) Motor control DSP chips[/caption]
 So I splurged and go a strip of the [admcf32x](http://pdf.datasheetcatalog.com/datasheet/analogdevices/ADMC328TR.pdf "21xx buried inside").

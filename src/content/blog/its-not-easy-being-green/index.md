@@ -1,6 +1,10 @@
 ---
 title: "It's not easy being green ..."
 pubDate: 2021-08-07 08:33:20
+categories:
+  - 3d-printing
+  - pnp
+  - pushpullfeeder
 ---
 ... at least green 1.75mm PLA from FlashForge.
 

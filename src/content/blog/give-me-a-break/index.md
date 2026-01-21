@@ -1,6 +1,9 @@
 ---
 title: "GIVE ME A BREAK!"
 pubDate: 2017-05-30 13:36:46
+categories:
+  - orange-pi
+  - rant
 ---
 FFRRRRRRRRRRRRAAAAAAAAAAAAAAAAAACCCCCCCCCCCCCCCCCCKKKKKKKKK!!!!
 Now I have node-red running on the Orange Pi Zero (OPiZ) I thought I would try something to sort the problem I was having on the ODROID-C1 in any event.

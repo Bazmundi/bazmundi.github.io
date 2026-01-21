@@ -1,6 +1,9 @@
 ---
 title: "Hot plates for Finders part 1"
 pubDate: 2022-08-17 04:15:13
+categories:
+  - 3d-printing
+  - flashforge-finder-mods
 ---
 [![](./20220817_125611.jpg)](./20220817_125611.jpg)
 

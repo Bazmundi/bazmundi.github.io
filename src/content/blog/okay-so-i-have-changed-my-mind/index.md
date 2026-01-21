@@ -1,6 +1,10 @@
 ---
 title: "Okay, so I have changed my mind ..."
 pubDate: 2017-06-17 02:03:03
+categories:
+  - arduino
+  - esp8266
+  - open-source-can-be-professional
 ---
 ... it was fun for a while but ...
 So, dabbling in Lua on the ESP8266 was interesting.

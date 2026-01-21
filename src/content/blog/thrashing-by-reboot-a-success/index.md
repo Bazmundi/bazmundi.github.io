@@ -1,6 +1,9 @@
 ---
 title: "Thrashing by reboot a success"
 pubDate: 2017-07-29 21:53:57
+categories:
+  - linux
+  - orange-pi
 ---
 So, I have left the OPiZ running for 24 hours, node-red and emqttd running, and rebooting every 5 minutes.
 All is running.

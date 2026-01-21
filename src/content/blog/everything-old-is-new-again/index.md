@@ -1,6 +1,8 @@
 ---
 title: "Everything old is new again..."
 pubDate: 2016-07-28 13:01:04
+categories:
+  - doodling
 ---
 I just downloaded a free book from O'Rielly press: Free ebook: [Object-Oriented vs. Functional Programming](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp).
 Sad really.

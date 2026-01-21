@@ -1,6 +1,8 @@
 ---
 title: "It's finally happening!"
 pubDate: 2018-10-01 03:47:18
+categories:
+  - opensprinklette
 ---
 So, I have been running around in circles, trying to get a red-node server running on an OPiZ. The OPiZ would, however, keep spitting it's LAN connection after a week or so.
 I almost went back to waste one of my ODROID C1 on the task.

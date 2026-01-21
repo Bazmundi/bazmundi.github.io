@@ -1,6 +1,9 @@
 ---
 title: "Slight adjustment"
 pubDate: 2021-10-27 08:55:48
+categories:
+  - 3d-printing
+  - design-musings
 ---
 [![](./ustepper-mod.png)](./ustepper-mod.png)
 

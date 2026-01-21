@@ -1,6 +1,8 @@
 ---
 title: "Branded!"
 pubDate: 2023-05-20 08:58:25
+categories:
+  - manual-pnp
 ---
 ![](./20230520_1826455117702965040061877.jpg)
 

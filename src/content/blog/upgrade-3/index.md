@@ -1,6 +1,9 @@
 ---
 title: "Upgrade"
 pubDate: 2024-08-16 07:07:54
+categories:
+  - manual-pnp
+  - pnp
 ---
 So I updated me larger manual PnP machine with the [slide end mods I did for the mini version](https://www.thingiverse.com/thing:6011574).
 

@@ -1,6 +1,8 @@
 ---
 title: "Broom! Broom!"
 pubDate: 2022-02-10 21:51:14
+categories:
+  - ai-generated-animations
 ---
 https://www.youtube.com/watch?v=ZlE0zg1W69s
 

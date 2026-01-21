@@ -1,6 +1,9 @@
 ---
 title: "Winding down"
 pubDate: 2016-11-22 12:49:07
+categories:
+  - open-source-can-be-professional
+  - python-rules
 ---
 ![ipython](./ipython.png)
 Now this is what I am talking about.

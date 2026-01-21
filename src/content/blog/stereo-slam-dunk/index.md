@@ -1,6 +1,11 @@
 ---
 title: "Stereo slam dunk"
 pubDate: 2017-06-11 04:01:13
+categories:
+  - python-rules
+  - sensing
+  - the-downside-of-software-development
+  - vision
 ---
 With some pain I got the stereo camera that turned up the other day, from aliexpress, to work (provisionally).
 ![stereo_slam1](./stereo_slam1.png)

@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.10"
 pubDate: 2014-04-23 17:02:58
+categories:
+  - cyclone-ii-experiments
 ---
 Okay, so there are two more interesting ones left after all, the first I skipped over was a state machine example.
 Nothing flash.

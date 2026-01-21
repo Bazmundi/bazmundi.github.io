@@ -1,6 +1,8 @@
 ---
 title: "DSP and all that jazz"
 pubDate: 2014-05-18 14:13:07
+categories:
+  - nostalgia
 ---
 [Further to ...](http://organicmonkeymotion.wordpress.com/2014/05/10/call-me-sentimental/ "Call me sentimental")
 It turns out Analog Devices buried their 21xx DSP mcu into motor controller version in a SOIC-28 package.

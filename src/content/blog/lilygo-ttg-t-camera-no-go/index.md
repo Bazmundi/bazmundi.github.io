@@ -1,6 +1,11 @@
 ---
 title: "LilyGO TTG T-Camera no-go"
 pubDate: 2021-03-06 23:53:32
+categories:
+  - buyer-beware
+  - esp32
+  - esphome
+  - the-downside-of-opensource
 ---
 So, unhappy to report no go as yet for t-cameras v1.6.2 I bought.
 

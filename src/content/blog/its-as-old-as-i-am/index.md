@@ -1,6 +1,8 @@
 ---
 title: "It's as old as I am!"
 pubDate: 2020-03-28 09:15:39
+categories:
+  - apl
 ---
 I was thinking about additional languages to play with in jupyter. I found they have elixir and a few others, including chapel. Both elixir and chapel need be set up on my linux box. I was hoping for Windoze 10.
 

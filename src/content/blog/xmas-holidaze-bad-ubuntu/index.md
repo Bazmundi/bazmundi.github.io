@@ -1,6 +1,8 @@
 ---
 title: "Xmas holidaze - bad Ubuntu"
 pubDate: 2013-01-01 09:39:01
+categories:
+  - the-downside-of-software-development
 ---
 So, a couple of things sorted so that they are on hand.
 [![P144149](./p144149.jpg)](http://organicmonkeymotion.wordpress.com/2013/01/01/xmas-holidaze-bad-ubuntu/p144149/)

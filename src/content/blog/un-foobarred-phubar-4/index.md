@@ -1,6 +1,8 @@
 ---
 title: "Un-Foobarred Phubar 4"
 pubDate: 2021-03-20 12:50:06
+categories:
+  - phubar
 ---
 [![](./screenshot-from-2016-12-21-20-26-05-1.png)](./screenshot-from-2016-12-21-20-26-05-1.png)
 

@@ -1,6 +1,10 @@
 ---
 title: "Cylone II-Exp.11 - the saga continues"
 pubDate: 2014-05-04 01:46:49
+categories:
+  - cyclone-ii-experiments
+  - nios-ii-experiments
+  - the-downside-of-software-development
 ---
 Can't clear the screaming board, software loads but board screams.
 I did a compare between the hand built and example project \*.ptf and nothing jumps out.

@@ -1,6 +1,8 @@
 ---
 title: "DOH di DOH di DOH!"
 pubDate: 2016-12-18 00:41:11
+categories:
+  - sucky-service-providers
 ---
 My wife complained that her Google Chrome browser wasn't working.  So in typical IT support almost but not quite help I said, well goodness gracious me uninstall it and reinstall it.
 DOH!

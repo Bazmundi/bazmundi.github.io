@@ -1,6 +1,11 @@
 ---
 title: "While I wait on parts"
 pubDate: 2022-08-20 03:10:22
+categories:
+  - 3d-printing
+  - klipper
+  - octoprint
+  - raspingbreathburrydoodlepi
 ---
 So, I thought I would set up a Pi with my BIGTREETECH SKR Mini e3 v2.0 with Klipper and started poking around, looking for guides etc.
 

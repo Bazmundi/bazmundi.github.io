@@ -1,6 +1,8 @@
 ---
 title: "Okay, okay, so I am dawdling..."
 pubDate: 2013-12-07 23:43:28
+categories:
+  - hardware
 ---
 Exam in 5 days time.  Studying way too hard so brain exploding.
 Decided to let my self wander the internet.

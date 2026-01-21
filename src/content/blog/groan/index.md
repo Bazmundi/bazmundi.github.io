@@ -1,6 +1,8 @@
 ---
 title: "Groan!"
 pubDate: 2019-04-26 07:34:32
+categories:
+  - 3d-printing
 ---
 All sorts of problems with Flashforge Finder and the USB connection. More often the software cannot connect to the printer.
 

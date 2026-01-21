@@ -1,6 +1,9 @@
 ---
 title: "Remote wireless TENS"
 pubDate: 2014-12-21 08:44:09
+categories:
+  - arduino
+  - wifi
 ---
 For a Zzzzzaappppppping good time.
 [caption id="attachment\_1709" align="aligncenter" width="450"][![TENS](./20141221_160851.jpeg)](./20141221_160851.jpeg) TENS[/caption]

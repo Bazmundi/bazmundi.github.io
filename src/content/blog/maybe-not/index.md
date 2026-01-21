@@ -1,6 +1,8 @@
 ---
 title: "Maybe not ..."
 pubDate: 2021-10-13 08:50:30
+categories:
+  - recycling
 ---
 ... so sad, too bad.
 

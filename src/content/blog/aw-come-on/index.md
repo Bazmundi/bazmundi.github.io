@@ -1,6 +1,9 @@
 ---
 title: "AW COME ON!!"
 pubDate: 2022-08-23 01:10:29
+categories:
+  - 3d-printing
+  - bear-build
 ---
 Yes, I know. Measure twice, cut once.
 

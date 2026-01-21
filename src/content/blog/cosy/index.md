@@ -1,6 +1,8 @@
 ---
 title: "Cosy!"
 pubDate: 2019-03-16 06:56:13
+categories:
+  - 3d-printing
 ---
 So, I was having too much trouble with the extrusions warping and shrinking. Part of the issue was, I suspect, the aircon. So, the room was too cold.
 

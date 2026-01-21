@@ -1,6 +1,8 @@
 ---
 title: "Phew!"
 pubDate: 2023-06-04 01:20:24
+categories:
+  - manual-pnp
 ---
 So, the problem with hacking together the smaller manual PnP is not thinking it through all the way.
 

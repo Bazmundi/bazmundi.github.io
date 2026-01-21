@@ -1,6 +1,8 @@
 ---
 title: "Goddam tiny connectors!"
 pubDate: 2025-08-11 12:26:55
+categories:
+  - tools-for-the-job
 ---
 I've gone through about twenty PH 2.0mm connector pins trying to work out how to crimp those tiny suckers.
 

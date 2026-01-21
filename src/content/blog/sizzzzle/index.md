@@ -1,6 +1,10 @@
 ---
 title: "Sizzzzle!"
 pubDate: 2017-08-10 10:44:46
+categories:
+  - javascript
+  - node-red
+  - opensprinklette
 ---
 Pop!
 A parcel turned up with RaspingbreathburryDoodlePi heatsink kits.

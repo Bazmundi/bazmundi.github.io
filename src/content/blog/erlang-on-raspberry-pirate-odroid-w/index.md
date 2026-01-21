@@ -1,6 +1,9 @@
 ---
 title: "Erlang on Raspberry Pirate ODROID-W"
 pubDate: 2014-10-02 14:58:33
+categories:
+  - odroid-w
+  - raspberry-pirate
 ---
 There is a port of [Erlang for Raspbian](https://www.erlang-solutions.com/downloads/download-erlang-otp#tabs-raspbian "Heavon, I am in heavon") that should run on the ODRIOD-W and some guy has ported [Erlang onto AR-Drone 2](https://github.com/tonyrog/edrone "Doubly in heavon") to run as its flight management system.  So installing a port of that to Erlang running on ODROID-W seems a worthwhile endeavour.  I have a spare 10DOF with a mpu9150 and a air pressure sensor ready.  The problem will be the Broadcom chip only has two PWM channels so I will have to sort that with either a AVR chip or ...
 **POSTSCRIPT**

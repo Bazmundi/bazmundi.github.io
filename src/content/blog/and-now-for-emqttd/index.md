@@ -1,6 +1,10 @@
 ---
 title: "And now for emqttd ..."
 pubDate: 2017-07-08 07:10:12
+categories:
+  - linux
+  - mqtt
+  - orange-pi
 ---
 ... again.
 So, we buzzed out how to install emqttd on a OPiZ that was fragged by insertion of an expansion board so it, for some crazy reason, would not boot from orangepi.org debian server distro but would, but with clapped out device behaviour, using Armbian.com debian server distro.

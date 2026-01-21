@@ -1,6 +1,9 @@
 ---
 title: "WiFi pedal for manual PnPs"
 pubDate: 2022-09-03 05:58:35
+categories:
+  - manual-pnp
+  - pnp
 ---
 Since I am building a second smaller manual PnP, for small short jobs, I am building a battery powered vacuum setup to use on either manual PnP.
 

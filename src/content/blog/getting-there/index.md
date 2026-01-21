@@ -1,6 +1,9 @@
 ---
 title: "Getting there"
 pubDate: 2014-06-29 06:58:15
+categories:
+  - dsp
+  - dsp-laboratory
 ---
 Setting up (slowly) for experiments with the ADSP 21xx based [ADMCF328](http://www.analog.com/static/imported-files/data_sheets/ADMCF328.pdf "Mitt 21xx") chips I grabbed of internet for cheap.
 First step, set up to program them from serial line.

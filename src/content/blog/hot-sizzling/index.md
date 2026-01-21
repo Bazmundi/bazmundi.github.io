@@ -1,6 +1,9 @@
 ---
 title: "Hot plates for Finders part 2"
 pubDate: 2022-10-21 02:27:42
+categories:
+  - 3d-printing
+  - flashforge-finder-mods
 ---
 [Following up part 1](https://organicmonkeymotion.wordpress.com/2022/08/17/hot-plates-for-finders-part-1/). That is, modify a Flashforge Finder to add a heated print bed.
 

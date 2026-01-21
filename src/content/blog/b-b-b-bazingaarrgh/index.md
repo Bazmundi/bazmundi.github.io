@@ -1,6 +1,10 @@
 ---
 title: "B B B BAZINGAARRGH!"
 pubDate: 2024-09-25 02:48:14
+categories:
+  - pneumatics
+  - pnp
+  - solder-paste-robot
 ---
 [![](./mine.png)](./mine.png)
 

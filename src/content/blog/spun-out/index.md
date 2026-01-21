@@ -1,6 +1,8 @@
 ---
 title: "Spun out!"
 pubDate: 2023-11-11 04:27:13
+categories:
+  - pnp-trays
 ---
 So I dug around to find a means to manage assembly of small and also small run surface mount projects, especially when using me Hakko 394.
 

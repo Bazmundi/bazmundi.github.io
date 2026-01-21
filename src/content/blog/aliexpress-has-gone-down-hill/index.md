@@ -1,6 +1,8 @@
 ---
 title: "Aliexpress has gone down hill"
 pubDate: 2017-03-18 08:43:22
+categories:
+  - sucky-service-providers
 ---
 So, last couple of orders from Aliexpress went south.
 I ordered 5 more Wemos D1 Mini with 10 more single relay modules.  Got only one of each in the mail.  Contacted the vendor who then sent 20 RFID readers and chips.  Whoops.  Vendor response was to claim to resend the Wemos stuff but nothing has turned up.

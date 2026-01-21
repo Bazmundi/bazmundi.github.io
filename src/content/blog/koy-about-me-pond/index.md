@@ -1,6 +1,8 @@
 ---
 title: "Coy about me pond"
 pubDate: 2021-02-06 09:45:49
+categories:
+  - aquaponics-and-the-like
 ---
 Ages ago, the wife's gold fish were migrated to a plastic tub, outside under the back awning. Happy enough but the large fish tank filter struggles.
 

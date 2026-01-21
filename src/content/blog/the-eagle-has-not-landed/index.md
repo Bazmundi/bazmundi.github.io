@@ -1,6 +1,8 @@
 ---
 title: "The EAGLE has NOT landed"
 pubDate: 2021-10-30 07:57:17
+categories:
+  - sucky-service-providers
 ---
 Eagle/FUSION 360/Autodesk need sort out their authentication system.
 

@@ -1,6 +1,10 @@
 ---
 title: "Almost there"
 pubDate: 2016-12-17 07:58:45
+categories:
+  - esp8266
+  - opensprinklette
+  - wifi
 ---
 I got a prototype shield today to sit between my WEMOS D1 R2 and the quad relay board to work on my OpenSprinklette design.  I will get a PCB made once I debug the design.  It will need a 24VAC to 5VDC on it to power the WEMOS and the relay board.  The 24VAC will come from the wall plug from the old sprinkler system.
 Not to mention a couple of pesky pullup resistors and an input for flow meters, though that will take some thought, and of cause ports.  So the flow meters might sit on a WEMOS mini as an afterthought.  Still brainstorming that aspect.

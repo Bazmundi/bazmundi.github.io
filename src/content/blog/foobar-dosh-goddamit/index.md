@@ -1,6 +1,8 @@
 ---
 title: "Foobar! Dosh goddamit!"
 pubDate: 2021-03-20 04:38:33
+categories:
+  - phubar
 ---
 Whoops!
 

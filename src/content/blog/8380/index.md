@@ -1,6 +1,11 @@
 ---
 title: "ESP-NOW ... and then"
 pubDate: 2022-12-11 05:44:05
+categories:
+  - esp32
+  - manual-pnp
+  - pnp
+  - wireless-manual-pnp-pump
 ---
 I have tried, unsuccessfully, to get a MQTT broker running on the ESP32, despite some offerings (too many still in work). I did then find articles on ESP-NOW, which is a peer2pear setup over WiFi. Hence, I opted to rewrite my PnP pneumatic setup as ESP-NOW.
 

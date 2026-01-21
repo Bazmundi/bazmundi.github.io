@@ -1,6 +1,14 @@
 ---
 title: "Next steps, XY that is"
 pubDate: 2021-04-18 05:44:30
+categories:
+  - cnc
+  - design-musings
+  - esp8266
+  - freerouting
+  - hardware
+  - kicad
+  - usb-microscope-xy-bed
 ---
 So, as I suspected, there is no schematic component for the MP6500 Pololu board. Not a problem as I have the drv8825 lib so I have just copied it as the MP6500 and made the minor mods required. The Pololu site includes the STEP file for the MP6500 module so all very VERY good.
 

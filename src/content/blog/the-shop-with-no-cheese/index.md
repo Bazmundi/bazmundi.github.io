@@ -1,6 +1,8 @@
 ---
 title: "The shop with no cheese!"
 pubDate: 2022-02-08 10:40:45
+categories:
+  - jokes-as-ai-generated-art
 ---
 A good old Russian joke (meaning that, old - think Cold War vintage).
 

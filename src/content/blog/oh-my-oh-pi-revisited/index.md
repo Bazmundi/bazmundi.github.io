@@ -1,6 +1,9 @@
 ---
 title: "Oh my Oh Pi revisited"
 pubDate: 2021-06-01 10:56:12
+categories:
+  - orange-pi
+  - raspingbreathburrydoodlepi
 ---
 Reminiscing over older posts I did find one where I had got the shitzup with the [Orange Pi zero dropping the network connection](https://organicmonkeymotion.wordpress.com/2019/12/23/oh-my-o-pi/).
 

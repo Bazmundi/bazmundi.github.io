@@ -1,6 +1,9 @@
 ---
 title: "The most fun ..."
 pubDate: 2021-10-04 00:33:29
+categories:
+  - design-musings
+  - pnp
 ---
 ... in the design was always going to be the mating of Z and X Axis.
 

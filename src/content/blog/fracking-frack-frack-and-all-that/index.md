@@ -1,6 +1,8 @@
 ---
 title: "Fracking, frack, frack and all that."
 pubDate: 2023-04-10 06:40:35
+categories:
+  - bear-build
 ---
 [![](./pinda-pic.png)](./pinda-pic.png)
 

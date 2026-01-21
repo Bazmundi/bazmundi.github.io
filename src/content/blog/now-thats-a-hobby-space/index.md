@@ -1,6 +1,8 @@
 ---
 title: "Now that's a hobby space!"
 pubDate: 2016-01-05 11:36:23
+categories:
+  - doodling
 ---
 ![20160105_205105](./20160105_205105.jpg)
 Of course it's a new desk and storage unit.

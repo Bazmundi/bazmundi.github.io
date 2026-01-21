@@ -1,6 +1,9 @@
 ---
 title: "Refurbishing my soldering station"
 pubDate: 2021-04-06 06:01:44
+categories:
+  - hardware
+  - rant
 ---
 With all this work, setting up for building boards with SMD, I had plumb forgotten my old soldering station needed some attention. Not the least is a new soldering iron, for the station, and a collection of new bits.
 

@@ -1,6 +1,8 @@
 ---
 title: "So far, not so good"
 pubDate: 2019-07-14 09:23:49
+categories:
+  - opensprinklette
 ---
 All testing good until I wire in a solenoid.
 

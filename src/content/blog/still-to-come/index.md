@@ -1,6 +1,9 @@
 ---
 title: "Still to come"
 pubDate: 2017-07-03 05:35:38
+categories:
+  - armbian
+  - orange-pi
 ---
 I was right.
 I have had two spanking new OPiZ turn up - so I can at least compare a new board against the apparent fragging of the original.

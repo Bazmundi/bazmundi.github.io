@@ -1,6 +1,8 @@
 ---
 title: "And now, it's on!"
 pubDate: 2019-07-13 01:59:58
+categories:
+  - opensprinklette
 ---
 ![](./20190713_112411.jpg)
 

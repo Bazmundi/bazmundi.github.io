@@ -1,6 +1,10 @@
 ---
 title: "What a great design!"
 pubDate: 2025-08-29 15:19:44
+categories:
+  - cnc
+  - cnc-machining
+  - dremel-cnc-machine
 ---
 https://www.youtube.com/watch?v=I7woln6urVY&t=204s
 

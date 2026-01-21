@@ -1,6 +1,11 @@
 ---
 title: "Now that's an idea!"
 pubDate: 2014-05-02 12:47:18
+categories:
+  - android
+  - arduino
+  - sensing
+  - vision
 ---
 [caption id="attachment\_1272" align="aligncenter" width="450"][![Cyclops!](./rover.jpeg)](./rover.jpeg) Cyclops![/caption]
 Feast your eyes!

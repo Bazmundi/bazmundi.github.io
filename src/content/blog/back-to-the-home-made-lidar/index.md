@@ -1,6 +1,8 @@
 ---
 title: "Back to the home-made LIDAR"
 pubDate: 2018-03-27 12:32:07
+categories:
+  - home-made-lidar
 ---
 So, got my travel approved for the conference I am going to.  I am still waiting on the review comments back before I generate the final paper.
 In the meantime I thought I would dust off the bits I bought for the home-made LIDAR and start fidgeting.

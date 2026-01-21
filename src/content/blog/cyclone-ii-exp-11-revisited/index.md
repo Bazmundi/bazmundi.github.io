@@ -1,6 +1,9 @@
 ---
 title: "Cyclone II-Exp.11- Revisited"
 pubDate: 2014-05-15 13:14:48
+categories:
+  - cyclone-ii-experiments
+  - nios-ii-experiments
 ---
 As mentioned, having uninstalled Quartus ® II 10.1 and installed 11.1, I thought we'd revisit the [initial Nios II experiment](http://organicmonkeymotion.wordpress.com/2014/05/04/cyclone-ii-exp-11-penultimate/ "Cyclone II-Exp.11- Complete").
 So, you will need (at least):

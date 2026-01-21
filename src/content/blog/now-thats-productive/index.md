@@ -1,6 +1,9 @@
 ---
 title: "Now that's productive!"
 pubDate: 2024-11-10 06:54:46
+categories:
+  - bear-build
+  - tools-for-the-job
 ---
 This weekend I got around to knocking up a step cum ramp for our two poor old tired dogs to get up/down from the bed. Then, cleaned out ponds back and front yards. Then sat down to some wiring.
 

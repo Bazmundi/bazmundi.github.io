@@ -1,6 +1,10 @@
 ---
 title: "Stereo slam drunkity dunk"
 pubDate: 2017-06-11 07:18:28
+categories:
+  - python-rules
+  - the-downside-of-opensource
+  - vision
 ---
 Ah well, so some tricks when using the disparity functions for generating stereo depth.  The frame from each camera needs to be converted from color to grayscale.
 ![stereo_slam3](./stereo_slam3.png)

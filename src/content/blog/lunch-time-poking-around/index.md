@@ -1,6 +1,9 @@
 ---
 title: "Lunch time poking around ..."
 pubDate: 2013-08-13 12:43:00
+categories:
+  - agent
+  - python-rules
 ---
 ... it pays to dream.
 I mentioned the idea of using [petri-net based plans](http://organicmonkeymotion.wordpress.com/2013/08/06/well-that-about-wraps-it-up-for-ros/ "Well that about wraps it up for ROS …") as part of mission planning for my vehicles previously.  The idea was based on papers on ways AUV were controlled.  I found a python based petri-net library but there appeared to be some effort to sort out a graphical editor.

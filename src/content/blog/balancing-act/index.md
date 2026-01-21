@@ -1,6 +1,11 @@
 ---
 title: "Balancing Act"
 pubDate: 2019-05-04 09:02:45
+categories:
+  - 3d-printing
+  - ai
+  - hardware
+  - robotics
 ---
 So, I have printed the carcass of a [3d printed balancing robot](https://www.instructables.com/id/Brushless-Gimbal-Balancing-Robot/).
 

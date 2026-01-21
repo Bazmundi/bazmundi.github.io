@@ -1,6 +1,10 @@
 ---
 title: "I've been soo bad!"
 pubDate: 2024-08-02 09:38:22
+categories:
+  - manual-pnp
+  - pnp
+  - solder-paste-robot
 ---
 So, I still have too many projects going.
 

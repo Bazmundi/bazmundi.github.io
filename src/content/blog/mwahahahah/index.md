@@ -1,6 +1,9 @@
 ---
 title: "mwahahahah!"
 pubDate: 2022-08-21 08:48:51
+categories:
+  - 3d-printing
+  - bear-build
 ---
 So, I thought I would try [Raspingdoodleberry Pi disk utility](https://www.raspberrypi.com/software/), if it was happy to set me WIFI and other things.
 

@@ -1,6 +1,8 @@
 ---
 title: "What is going on at Aliexpress?"
 pubDate: 2021-06-04 06:18:50
+categories:
+  - test-bench
 ---
 ![](./20210604_1540208429004078967058662.jpg)
 

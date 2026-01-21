@@ -1,6 +1,8 @@
 ---
 title: "So much for the tutorial"
 pubDate: 2023-12-26 06:04:58
+categories:
+  - animations-for-the-fun-of-it
 ---
 Yeah, so the problem with the tutorial below is that the mesh islands means lower case elements like "i" and "k", and probably "j", are treated like two meshes so when animating by island index the characters have two animate parts. Meaning "abc" is 3 "islands", whereas "ijk" is 6 "islands". There is some reference in the comments to "instance indices" to "delete" characters, that avoids use of "islands", but there is no reference to a specific geometry node nor how it would be weaved through the nodes to get the effect. The effect is essentially the text appears one character at a time.
 

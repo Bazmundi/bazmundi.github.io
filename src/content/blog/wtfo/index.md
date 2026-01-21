@@ -1,6 +1,11 @@
 ---
 title: "WTFO"
 pubDate: 2017-06-28 21:04:46
+categories:
+  - armbian
+  - mqtt
+  - node-red
+  - orange-pi
 ---
 Given my journey here, to have node-red and emqttd running as services on Orange Pi Zero, I have to say the finale was not unexpected.
 Re-burnt SD with Etcher as people were convinced I had caused problems with FS corruption using WIN32DiskImager.

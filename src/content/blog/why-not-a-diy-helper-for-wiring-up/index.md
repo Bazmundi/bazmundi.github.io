@@ -1,6 +1,9 @@
 ---
 title: "Why not a DIY helper for wiring up?"
 pubDate: 2025-08-03 10:31:22
+categories:
+  - bear-build
+  - the-rig
 ---
 When DINning that is, so building a [The RIG](https://www.printables.com/model/837104-the-rig-r11-diy-helper-stand-for-testing-electroni):
 

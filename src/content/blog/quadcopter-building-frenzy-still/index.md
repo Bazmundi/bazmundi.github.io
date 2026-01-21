@@ -1,6 +1,8 @@
 ---
 title: "Quadcopter building frenzy, still!"
 pubDate: 2016-10-02 04:07:29
+categories:
+  - robocatus-maximus
 ---
 ![bssp](./bssp.png)
 Go figure, no real instructions on wiring the thing up.  Yes you have to swap wires on your ESC for CW/CCW motors.  Silver (CCW) straight, black (CW) swapped.  Here is the one and only pic I could find on the net to help out.

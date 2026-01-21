@@ -1,6 +1,10 @@
 ---
 title: "So close!"
 pubDate: 2015-12-31 05:21:01
+categories:
+  - android
+  - linux
+  - the-downside-of-opensource
 ---
 I installed [GnuRoot Debian](https://play.google.com/store/apps/details?id=com.gnuroot.debian&hl=en) on my MANN phone.
 ![mann](./mann.jpg)

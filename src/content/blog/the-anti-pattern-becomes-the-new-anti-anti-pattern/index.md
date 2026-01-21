@@ -1,6 +1,9 @@
 ---
 title: "The anti-pattern becomes the new anti-anti-pattern"
 pubDate: 2014-05-15 13:37:02
+categories:
+  - everything-old-is-new-again
+  - software
 ---
 [Functional thinking](http://shop.oreilly.com/product/0636920029687.do?code=WKFNCTN "here we go again").
 So, I played with lisp years ago, and other functional languages.

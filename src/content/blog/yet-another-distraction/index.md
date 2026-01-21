@@ -1,6 +1,8 @@
 ---
 title: "Yet another distraction"
 pubDate: 2024-11-03 04:37:18
+categories:
+  - solder-paste-robot
 ---
 So I was watching a video on Youtube about a novel Stewart platform, thus:
 

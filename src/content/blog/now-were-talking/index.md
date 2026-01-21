@@ -1,6 +1,10 @@
 ---
 title: "Now we're talking!"
 pubDate: 2026-01-07 10:19:32
+categories:
+  - 3d-modelling
+  - 3d-printing
+  - tools-for-the-job
 ---
 Whenever I truck into the makerspace with me trusty Tactix rolling tool box combo, I may still need juggle pesky extrusions and linear rod too long for even me basket that clicks on top.
 

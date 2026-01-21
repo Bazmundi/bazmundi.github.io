@@ -1,6 +1,8 @@
 ---
 title: "Setting up ModelSim with Quartus II ... how hard can it be?"
 pubDate: 2014-05-09 02:50:45
+categories:
+  - the-downside-of-software-development
 ---
 Starting with the "[Getting Started with Quartus II Simulation Using the ModelSim-Altera Software](http://www.altera.com/literature/ug/ug_gs_msa_qii.pdf "Oh no, not again.")" get straight into trouble.
 You need a "counter.zip" file that is, you guessed it, not in the distro.

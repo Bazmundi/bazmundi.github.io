@@ -1,6 +1,9 @@
 ---
 title: "Latest batch of smt feeders"
 pubDate: 2024-08-23 03:13:29
+categories:
+  - manual-pnp
+  - pnp
 ---
 A couple of options that hold 100mm reels (so you don't need a second rack).
 

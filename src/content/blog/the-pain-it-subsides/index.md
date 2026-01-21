@@ -1,6 +1,10 @@
 ---
 title: "The pain, it subsides?"
 pubDate: 2023-09-08 03:03:07
+categories:
+  - manual-pnp
+  - video-technique
+  - vision
 ---
 Yeah, so no joy really trying to get a camera server running on the ye olde Acer Aspire ONE, the process has been so [Painful!](https://organicmonkeymotion.wordpress.com/2023/06/04/painfull/)
 

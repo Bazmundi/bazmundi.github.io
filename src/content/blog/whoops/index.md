@@ -1,6 +1,8 @@
 ---
 title: "Whoops!"
 pubDate: 2016-10-05 10:39:55
+categories:
+  - robocatus-maximus
 ---
 ![](./20161005_161737.jpeg)
 Dropped me TGY9 and broke a switch.

@@ -1,6 +1,13 @@
 ---
 title: "What the fracking frack fracK!"
 pubDate: 2026-01-02 22:49:22
+categories:
+  - esp32
+  - mqtt
+  - pcb-design
+  - pcbway-sponsored
+  - pick-plaz-port
+  - smt-feeders
 ---
 Yep, so still no joy getting the MonstaPC (Ubuntu linux) to connect properly to the ESP32 C3 supermini.
 

@@ -1,6 +1,9 @@
 ---
 title: "Hypriot 1.12.3 and static ip"
 pubDate: 2020-08-30 09:11:49
+categories:
+  - docker
+  - hypriotos
 ---
 The solution for static IP on [HypriotOS 1.12.3](https://github.com/hypriot/image-builder-rpi/releases/download/v1.12.3/hypriotos-rpi-v1.12.3.img.zip) is:
 

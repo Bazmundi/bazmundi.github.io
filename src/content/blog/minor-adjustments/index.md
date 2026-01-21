@@ -1,6 +1,8 @@
 ---
 title: "Minor adjustments"
 pubDate: 2025-07-30 03:53:18
+categories:
+  - soldering-robot
 ---
 [![](./wp-17538441390225708574885108227497.jpg)](./wp-17538441390225708574885108227497.jpg)
 

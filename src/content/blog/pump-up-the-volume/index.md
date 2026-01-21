@@ -1,6 +1,10 @@
 ---
 title: "Pump up the volume"
 pubDate: 2017-07-22 11:16:12
+categories:
+  - c-h-i-p
+  - embedded
+  - linux
 ---
 So Target had finally dropped prices of sound bars with aux input to AUS$49 so I can deal with the wife's nagging about the BOSE wifi sound system with a $9 C.H.I.P. and a $49 sound bar.
 Voila!

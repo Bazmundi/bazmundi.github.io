@@ -1,6 +1,8 @@
 ---
 title: "Inventory so far - Brains"
 pubDate: 2011-07-24 05:37:23
+categories:
+  - hardware
 ---
 | Board | CPU | Number |
 | --- | --- | --- |

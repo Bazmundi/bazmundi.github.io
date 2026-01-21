@@ -1,6 +1,11 @@
 ---
 title: "Ooo arrrgh, that's forward ... RTFM"
 pubDate: 2020-08-18 10:01:26
+categories:
+  - embedded
+  - linux
+  - open-source-can-be-professional
+  - rant
 ---
 Go figure, for some dang reason I could not get a VNC connection no more no more with my 64 bit Debian machine.
 

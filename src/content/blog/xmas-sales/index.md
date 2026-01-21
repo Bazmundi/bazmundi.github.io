@@ -1,6 +1,8 @@
 ---
 title: "Xmas sales!"
 pubDate: 2016-12-20 10:18:02
+categories:
+  - c-h-i-p
 ---
 Wow, a shield for your [Arduino with Wifi and Airplay and Audio](https://www.jaycar.com.au/wi-fi-ethernet-shield-with-airplay-dlna-audio-for-arduino/p/XC4548), down from AUS$159 to AUS$99 for Xmas!
 Or just ask [Mike Brady](https://github.com/mikebrady/shairport-sync) for Airplay on your US$9 C.H.I.P.!

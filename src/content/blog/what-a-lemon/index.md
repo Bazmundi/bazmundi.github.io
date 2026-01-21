@@ -1,6 +1,8 @@
 ---
 title: "What a lemon"
 pubDate: 2018-11-30 05:06:20
+categories:
+  - rant
 ---
 Samsung J5 Pro.
 

@@ -1,6 +1,8 @@
 ---
 title: "Name calling"
 pubDate: 2020-03-28 00:07:26
+categories:
+  - rant
 ---
 https://www.abc.net.au/news/2020-03-27/trump-indicts-venezuela-nicolas-maduro-narco-terrorist/12094878
 

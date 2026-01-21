@@ -1,6 +1,8 @@
 ---
 title: "Things that go bump in the ..."
 pubDate: 2023-05-16 11:02:55
+categories:
+  - manual-pnp
 ---
 ... prototype manual PnP machine.
 

@@ -1,6 +1,12 @@
 ---
 title: "It's all a matter of timing"
 pubDate: 2017-06-24 03:48:13
+categories:
+  - chapel
+  - elixir
+  - erlang
+  - forth-is-it-dead-or-isnt-it
+  - parallella
 ---
 So, phew!
 I re-bombed parabuntu onto the SD card.

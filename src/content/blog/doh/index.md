@@ -1,6 +1,10 @@
 ---
 title: "DOH!!"
 pubDate: 2011-12-03 23:03:43
+categories:
+  - air
+  - software
+  - vision
 ---
 How did that escape me!
 I just remembered.  The AR-Drone has a down looking camera that will also be a target of omni-directional obstacle avoidance.

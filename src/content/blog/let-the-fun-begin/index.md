@@ -1,6 +1,10 @@
 ---
 title: "Let the fun begin ..."
 pubDate: 2013-12-13 05:07:00
+categories:
+  - development
+  - hardware
+  - sensing
 ---
 ... and still I need to cut up my VISA card
 *[audience: NNNNNNNNNNNNNNOOOOOOOOOOOOOOooooooooooo!]*

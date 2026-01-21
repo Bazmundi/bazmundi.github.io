@@ -1,6 +1,8 @@
 ---
 title: "More doodling"
 pubDate: 2023-09-08 23:33:04
+categories:
+  - animations-for-the-fun-of-it
 ---
 I have been SO LAZY!
 

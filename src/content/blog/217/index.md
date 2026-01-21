@@ -1,6 +1,8 @@
 ---
 title: "Parallax Propeller 2 Killer"
 pubDate: 2012-07-07 01:12:49
+categories:
+  - hardware
 ---
 Not a few years ago I was working in on a real-time acoustic system for chasing submarines that introduced me to the Inmos [Transputer](http://en.wikipedia.org/wiki/Transputer "Where did it go?").  Basically it was a hardware based parallel computing platform with a parallel programming language.  It was, ahead of its time.  Parallel programming couldn't really find a niche in those days, no problems big enough.  However, nowadays we have Clusters, Grids, MPI, multi-core and things to do with that power.
 [![xk1a-xtag2-sm_0](./xk1a-xtag2-sm_01.png)](http://organicmonkeymotion.wordpress.com/2012/07/07/217/xk1a-xtag2-sm_0-2/)

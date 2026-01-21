@@ -1,6 +1,11 @@
 ---
 title: "Self induced sabbatical from fun"
 pubDate: 2018-02-20 10:18:22
+categories:
+  - orange-pi
+  - sucky-service-providers
+  - the-downside-of-opensource
+  - the-downside-of-software-development
 ---
 Well, not really.
 I had another paper to write to get me to a conference.

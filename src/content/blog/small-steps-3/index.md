@@ -1,6 +1,15 @@
 ---
 title: "Small steps"
 pubDate: 2017-08-07 05:54:29
+categories:
+  - embedded
+  - esp8266
+  - iot
+  - mqtt
+  - node-red
+  - nodemcu
+  - opensprinklette
+  - wemos-d1-r2
 ---
 I have roughed a node-red config node and it's visible counterpart.  I decided to call wemos nodes "sectors" - since the usual rort is to call a single channel on an irrigation controller, controlling a single solenoid, a zone.
 I have set up for 4 sectors each using a WeMOS D1R2 with a quad relay shield.  That provides up to 16 zones (4 per WeMOS).

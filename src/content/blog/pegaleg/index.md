@@ -1,6 +1,11 @@
 ---
 title: "Pegaleg"
 pubDate: 2018-11-11 09:51:23
+categories:
+  - esp8266
+  - mqtt
+  - node-red
+  - opensprinklette
 ---
 So, one file I had fun getting off my laptop was the source for the parser for the google calendar event titles.
 The titles, as discussed previously, would be a list of sprinkler group or unit callouts.

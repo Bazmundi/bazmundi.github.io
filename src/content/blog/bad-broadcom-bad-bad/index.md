@@ -1,6 +1,10 @@
 ---
 title: "Bad Broadcom, bad, bad!"
 pubDate: 2019-05-20 23:42:37
+categories:
+  - odroid-vs-raspingbreathburry
+  - raspingbreathburrydoodlepi
+  - sucky-wucky-raspingbreathburry
 ---
 https://www.youtube.com/watch?v=VcIgIJarGnc
 

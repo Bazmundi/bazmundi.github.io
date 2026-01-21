@@ -1,6 +1,8 @@
 ---
 title: "OH COME ON!"
 pubDate: 2016-12-09 10:10:17
+categories:
+  - rant
 ---
 Wife out at yet another xmas do.
 I got the Mother In Law to be the taxi tonight as I am wanting to build my node-red setup on my ODROID-C1 for the OpenSprinklette development.

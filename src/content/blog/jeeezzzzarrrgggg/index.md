@@ -1,6 +1,10 @@
 ---
 title: "JeeezzzzARRRGGGG!"
 pubDate: 2017-06-04 07:46:55
+categories:
+  - linux
+  - orange-pi
+  - the-downside-of-opensource
 ---
 \*cough\*
 Excuse the outburst BUT ...

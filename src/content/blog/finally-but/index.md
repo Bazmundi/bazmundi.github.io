@@ -1,6 +1,8 @@
 ---
 title: "Finally!  But ..."
 pubDate: 2019-01-25 22:50:50
+categories:
+  - 3d-printing
 ---
 ![](./thumbnail_20190126_085607.jpg)
 

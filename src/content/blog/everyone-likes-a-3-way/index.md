@@ -1,6 +1,8 @@
 ---
 title: "Everyone likes a 3-way"
 pubDate: 2022-02-12 08:14:59
+categories:
+  - pnp
 ---
 [![](./3way.jpeg)](./3way.jpeg)
 

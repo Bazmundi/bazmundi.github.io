@@ -1,6 +1,8 @@
 ---
 title: "Some adjustments needed"
 pubDate: 2020-10-05 04:29:16
+categories:
+  - cluster
 ---
 So, I was wanting to box my clusterHAT setup. A few options around, but I settled on a [modular box](https://core-electronics.com.au/modmypi-modular-rpi-2-3-case-black.html) that I sourced from Core Electronics. I bought 4 spacers, just in case, but you can only get up to 58mm screws for 3 spacers.
 

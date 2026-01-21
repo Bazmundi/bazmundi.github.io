@@ -1,6 +1,9 @@
 ---
 title: "Do di do di do di DOH~!"
 pubDate: 2017-07-29 08:11:48
+categories:
+  - linux
+  - orange-pi
 ---
 So, yep, sure enough, I came back to the OPiZ and could not connect.
 As I have the 3-pin serial connected I snuck a look and yep ... route naught.

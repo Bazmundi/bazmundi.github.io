@@ -1,6 +1,8 @@
 ---
 title: "WHO cut funding?"
 pubDate: 2020-04-08 00:59:13
+categories:
+  - rant
 ---
 [WHO](http://www.msn.com/en-au/news/coronavirus/trump-hints-at-cutting-who-funding-over-coronavirus-handling-says-they-really-blew-it/ar-BB12hyLv?ocid=ientp)?
 

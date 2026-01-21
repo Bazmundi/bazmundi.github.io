@@ -1,6 +1,8 @@
 ---
 title: "Nice!"
 pubDate: 2023-04-07 07:40:02
+categories:
+  - manual-pnp
 ---
 [![](./tenor.gif)](./tenor.gif)
 

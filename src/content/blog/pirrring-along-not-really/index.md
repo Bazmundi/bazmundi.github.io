@@ -1,6 +1,9 @@
 ---
 title: "PIRrring along ... not really"
 pubDate: 2022-09-13 14:31:30
+categories:
+  - esp8266
+  - wemos-d1-r2
 ---
 [![](./pir.jpg)](./pir.jpg)
 

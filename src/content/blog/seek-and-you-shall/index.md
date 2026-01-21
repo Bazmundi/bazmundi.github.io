@@ -1,6 +1,11 @@
 ---
 title: "Seek and you shall ..."
 pubDate: 2011-12-04 03:22:56
+categories:
+  - agent
+  - arduino
+  - prototyping
+  - software
 ---
 ... well, find Seek.
 A pivotal paper on avatar behaviors caught my attention ([see here](http://www.red3d.com/cwr/steer/gdc99/ "Main site of steering behavior guru.")).

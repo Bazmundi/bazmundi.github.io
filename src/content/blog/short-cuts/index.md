@@ -1,6 +1,11 @@
 ---
 title: "Short cuts"
 pubDate: 2016-12-18 05:31:51
+categories:
+  - esp8266
+  - mqtt
+  - nodemcu
+  - opensprinklette
 ---
 The chappy doing [OpenSprinkler gave me the best idea yet for the 24VAC to 5VDC](http://rayshobby.net/24vac-to-5vdc-conversion/) to power the OpenSprinklette stack (Wemos D1 R2, fiddly bits including VAC2VDC and pullups, relay board).
 Rather involves using a LM2596S-5.

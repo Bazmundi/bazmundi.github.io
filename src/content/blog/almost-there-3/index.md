@@ -1,6 +1,8 @@
 ---
 title: "Almost there!"
 pubDate: 2019-02-10 06:12:23
+categories:
+  - opensprinklette
 ---
 Opensprinklette closer.
 

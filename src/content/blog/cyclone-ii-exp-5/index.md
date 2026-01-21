@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.5"
 pubDate: 2014-03-31 12:02:31
+categories:
+  - cyclone-ii-experiments
 ---
 Straight forward. No crashing tonight.  Glass of stale cab sav - I wonder if that's what makes the difference??
 

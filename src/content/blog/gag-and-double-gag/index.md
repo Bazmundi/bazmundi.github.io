@@ -1,6 +1,10 @@
 ---
 title: "Gag! And double Gag!"
 pubDate: 2017-05-28 11:19:09
+categories:
+  - linux
+  - orange-pi
+  - the-downside-of-opensource
 ---
 So, I downloaded [Debian server](https://dl.armbian.com/orangepizero/) for Orange Pi Zero ( the Armbian thingy).
 I logged in using Cygwin terminal.

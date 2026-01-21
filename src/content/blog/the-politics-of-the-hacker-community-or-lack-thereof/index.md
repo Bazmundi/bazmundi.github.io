@@ -1,6 +1,8 @@
 ---
 title: "The politics of the hacker community  ... or lack thereof"
 pubDate: 2013-06-23 05:41:00
+categories:
+  - buyer-beware
 ---
 [Ah hem](http://www.scribd.com/doc/95282643/Backdoors-Embedded-in-DoD-Microchips-From-China "Back door in silicon targeted at US/NATO defense systems") plus the Internet of Things ([US bodies, going to China to develop technology to take back to US](http://www.seeedstudio.com/depot/preorder-spark-core-p-1495.html?cPath=6_7 "Out of the mouth of babes")).
 Isn't it funny.

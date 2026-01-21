@@ -1,6 +1,10 @@
 ---
 title: "Sprint 1 for automatic PnP build"
 pubDate: 2025-03-08 09:04:57
+categories:
+  - automatic-pnp-build
+  - openpnp
+  - pnp
 ---
 [![](./20250308_190750.jpg)](./20250308_190750.jpg)
 

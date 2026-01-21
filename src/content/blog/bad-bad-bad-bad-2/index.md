@@ -1,6 +1,10 @@
 ---
 title: "Bad, bad, bad, bad, ..."
 pubDate: 2025-06-22 00:01:29
+categories:
+  - cnc
+  - cnc-machining
+  - soldering-robot
 tags:
   - diy
   - robotics

@@ -1,6 +1,9 @@
 ---
 title: "What a wanK!"
 pubDate: 2019-07-15 13:13:52
+categories:
+  - hassleio
+  - the-downside-of-opensource
 ---
 So, to date. Things that don't seem to work out of box on Raspberry Pi 3B+ hass(le)io (either 32 or 64 bit) are:
 

@@ -1,6 +1,13 @@
 ---
 title: "Blimp"
 pubDate: 2013-03-28 12:27:54
+categories:
+  - air
+  - android
+  - arduino
+  - hardware
+  - locomotion
+  - mesh
 ---
 So, one project that has always been on the back burner is a submersible.  Now the reason is simple, electricity and water don't mix.  Still, as discussed in [News Splash](http://organicmonkeymotion.wordpress.com/2013/03/19/news-splash/ "NEWS SPLASH!") , that is on its way.
 However, in the meantime the closest thing to having to deal with movement in a fluid is a blimp.  Various ideas for RC blimps are around but I wanted a cheap vehicle to get into it (and to have something to give my nephew to get him into electronics and robotics).  Blimps are actually quite expensive to buy so I thought on it and one day, down by the beach at a $2-shop I saw and bought a pool toy.  I figured I needn't be serious about it, but also the molded-in handles actually gave me a good place to hang any gondola that would be slung under it.

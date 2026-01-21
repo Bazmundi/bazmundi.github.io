@@ -1,6 +1,8 @@
 ---
 title: "As luck would have it ..."
 pubDate: 2012-12-16 07:25:09
+categories:
+  - uncategorized
 ---
 A pal upgraded his Android game pad and gave me his superceded toy.
 [![photo](./photo.jpg)](http://organicmonkeymotion.wordpress.com/2012/12/16/as-luck-would-have-it/photo-4/)

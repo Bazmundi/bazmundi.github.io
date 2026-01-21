@@ -1,6 +1,8 @@
 ---
 title: "Trends"
 pubDate: 2013-01-22 09:03:03
+categories:
+  - hardware
 ---
 I was looking into limitations brought by the [Android Mini PC](http://organicmonkeymotion.wordpress.com/2012/10/04/gumstix-killer/ "Gumstix Killer") to find there aren't as many as I thought.
 They don't come with Bluetooth but have wireless, a micro USB and a host USB port.   The real limitation I thought they had, initially, is needing a host port on the Arduino boards to talk to it.

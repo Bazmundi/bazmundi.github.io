@@ -1,6 +1,8 @@
 ---
 title: "Brown outs and all that jazz"
 pubDate: 2019-12-28 21:49:58
+categories:
+  - opensprinklette
 ---
 So, now having a DSO on the bench, I was looking forward to solving the problem of the brownouts on the openspriklette prototype boards.
 

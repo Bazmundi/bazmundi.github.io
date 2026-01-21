@@ -1,6 +1,10 @@
 ---
 title: "Setting up platformio and arduino IDE with ttyUSB0 on Debian 9"
 pubDate: 2018-09-27 05:53:09
+categories:
+  - iot
+  - linux
+  - nodemcu
 ---
 Wow!
 Troubles with my 64bit Debian 9 Stretch and trying to setup for ESP8266 and ESP32 development.

@@ -1,6 +1,8 @@
 ---
 title: "Actually ..."
 pubDate: 2016-12-14 10:58:19
+categories:
+  - the-downside-of-opensource
 ---
 ... a good lecture series from a MOOC on Machine Learning is at [caltech](http://work.caltech.edu/lectures.html).
 For those who want to do more than just download a canned app onto your curie.

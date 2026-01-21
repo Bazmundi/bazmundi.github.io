@@ -1,6 +1,9 @@
 ---
 title: "Tidy up, but still much to do"
 pubDate: 2021-10-03 06:08:48
+categories:
+  - design-musings
+  - pnp
 ---
 [![](./updated-idea19.png)](./updated-idea19.png)
 

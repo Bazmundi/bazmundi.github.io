@@ -1,6 +1,8 @@
 ---
 title: "We'll see, we'll see ..."
 pubDate: 2026-01-11 07:09:11
+categories:
+  - 3d-printing
 ---
 So I ran up to Jaycar today to burn my gift voucher (got from in laws).
 

@@ -1,6 +1,14 @@
 ---
 title: "Fiddling"
 pubDate: 2021-04-19 13:21:38
+categories:
+  - cnc
+  - design-musings
+  - esp8266
+  - freerouting
+  - hardware
+  - kicad
+  - opensprinklette
 ---
 [![](./view9.png)](./view9.png)
 

@@ -1,6 +1,10 @@
 ---
 title: "Painfull"
 pubDate: 2023-12-22 01:18:43
+categories:
+  - 3d-printing
+  - manual-pnp
+  - pnp-trays
 ---
 https://www.youtube.com/shorts/GR4RXfU7smk
 

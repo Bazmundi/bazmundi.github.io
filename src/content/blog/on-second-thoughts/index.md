@@ -1,6 +1,9 @@
 ---
 title: "On second thoughts"
 pubDate: 2025-01-22 05:35:06
+categories:
+  - bear-build
+  - pnp
 tags:
   - ender
   - voron

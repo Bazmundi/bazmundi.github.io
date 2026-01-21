@@ -1,6 +1,8 @@
 ---
 title: "What Rabble"
 pubDate: 2020-09-20 07:29:54
+categories:
+  - rant
 ---
 Book store bans JK Rowlings. May as well have had a book burning, it would have attracted more free advertising.
 

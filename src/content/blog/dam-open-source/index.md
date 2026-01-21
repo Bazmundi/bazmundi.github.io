@@ -1,6 +1,10 @@
 ---
 title: "Dam Open Source!"
 pubDate: 2015-12-01 18:33:53
+categories:
+  - esp8266
+  - lua
+  - the-downside-of-opensource
 ---
 Go figure, trying to get [luagravity](https://github.com/fsantanna/luagravity) working on the ESP8266.  This is to have a little reactive programming going on!
 Not to happen so far.

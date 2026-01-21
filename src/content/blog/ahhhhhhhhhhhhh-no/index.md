@@ -1,6 +1,10 @@
 ---
 title: "Ahhhhhhhhhhhhh ... no."
 pubDate: 2018-09-02 02:14:35
+categories:
+  - the-downside-of-opensource
+  - the-downside-of-software-development
+  - thingbox
 ---
 So. I put Ubuntu Core onto OPi Zero.
 I snapped in Mosquitto and Node-Red.

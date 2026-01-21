@@ -1,6 +1,8 @@
 ---
 title: "Wordpress going down hill?"
 pubDate: 2024-08-30 00:15:02
+categories:
+  - rant
 ---
 So, "Ban the Banner" I say.
 

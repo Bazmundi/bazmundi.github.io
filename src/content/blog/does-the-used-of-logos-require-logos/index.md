@@ -1,6 +1,10 @@
 ---
 title: "Does the use of logos require Logos?"
 pubDate: 2021-04-07 08:23:51
+categories:
+  - freerouting
+  - kicad
+  - rant
 ---
 [![](./omm-logo-1.png)](./omm-logo-1.png)
 

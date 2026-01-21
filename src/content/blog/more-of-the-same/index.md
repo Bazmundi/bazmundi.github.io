@@ -1,6 +1,8 @@
 ---
 title: "More of the same ..."
 pubDate: 2012-07-29 04:14:41
+categories:
+  - the-downside-of-software-development
 ---
 The saga of getting over the newbie hump with the Synapse SNAP goes on.
  

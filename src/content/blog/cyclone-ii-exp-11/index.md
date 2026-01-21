@@ -1,6 +1,9 @@
 ---
 title: "Cyclone II-Exp.11"
 pubDate: 2014-04-30 13:00:47
+categories:
+  - cyclone-ii-experiments
+  - nios-ii-experiments
 ---
 Dust clear out the dust of the LAST EXAM EVER!
 I thought I would play a little with the NIOS II example code BUT it soon became apparent that it was beyond poking about to work it out.

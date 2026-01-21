@@ -1,6 +1,10 @@
 ---
 title: "Accelerate 2"
 pubDate: 2014-04-20 08:24:07
+categories:
+  - development
+  - parallel-talk
+  - python-rules
 ---
 Okay, so a half day fidgeting to get pyOpenCL working.
 Turns out it was easy.

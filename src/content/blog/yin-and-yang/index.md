@@ -1,6 +1,9 @@
 ---
 title: "Yin and Yang"
 pubDate: 2013-06-20 13:17:19
+categories:
+  - arduino
+  - autopilot
 ---
 [![AIO](./31138.jpg)](./31138.jpg)
 [![gps](./gps.jpg)](./gps.jpg)

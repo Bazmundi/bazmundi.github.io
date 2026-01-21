@@ -1,6 +1,8 @@
 ---
 title: "Step 2: the filter"
 pubDate: 2024-11-27 02:42:18
+categories:
+  - animatronics-for-the-fun-of-it
 tags:
   - animatronics
 ---

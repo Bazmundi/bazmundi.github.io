@@ -1,6 +1,11 @@
 ---
 title: "Whhhhhhhhyyyyyyyyyyyyyy?"
 pubDate: 2018-08-24 23:32:07
+categories:
+  - docker
+  - sucky-wucky-raspingbreathburry
+  - the-downside-of-opensource
+  - thingbox
 ---
 Alright, so I gave up on the OrangePI as my house server because it would clap out after a week and need a reboot.
 I swallowed my pride and bought a raspingdoodleburry pi and tried to set up with node-red and mqtt.  Got boring trying to sought problems with install and setup again, after all the crap I went through soughting the OPi.  So, I relented and decided to cheat and use thingbox or TB as it is affectionately euphemised.

@@ -1,6 +1,10 @@
 ---
 title: "What a coincidence"
 pubDate: 2013-07-07 06:42:08
+categories:
+  - hardware
+  - propeller
+  - sensing
 ---
 So, a while back I ordered 10 [PhuBar3](https://code.google.com/p/phubar/ "heli stabilizer") boards because I had a suspicion.
 At the time the InvenSense [3 axis chip](https://www.sparkfun.com/datasheets/Sensors/Gyro/PS-ITG-3200-00-01.4.pdf "3 of 6 of 9") used in the design was looking to be pin compatible (more or less) with the 6 axis chip coming up.

@@ -1,6 +1,9 @@
 ---
 title: "Belief Desire Intention"
 pubDate: 2014-02-18 09:30:41
+categories:
+  - agent
+  - python-rules
 ---
 Now I did promise to focus on my Master's work - my last subject in fact before the Dissertation - but doodling helps clear the head.
 I have mused a bit about Jason the Agent Speak language and dabble in that to master the [BDI](http://en.wikipedia.org/wiki/Belief%E2%80%93desire%E2%80%93intention_software_model "I desire more time, I intend to dabble more, I kid myself I believe") concept.

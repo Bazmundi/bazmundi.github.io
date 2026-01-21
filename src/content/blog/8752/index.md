@@ -1,6 +1,8 @@
 ---
 title: "VisualPlace and WINE"
 pubDate: 2023-05-19 09:32:29
+categories:
+  - manual-pnp
 ---
 ![](./20230519_1901383557856742561456252.jpg)
 

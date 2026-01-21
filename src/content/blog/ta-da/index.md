@@ -1,6 +1,10 @@
 ---
 title: "Ta da!"
 pubDate: 2017-08-12 02:23:47
+categories:
+  - javascript
+  - node-red
+  - opensprinklette
 ---
 Ah ha!
 I had some trouble importing my pegjs parser function into the node console until I worked out node and/or javascript treats directories as "/" whereas windows uses "\".

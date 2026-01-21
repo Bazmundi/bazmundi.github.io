@@ -1,6 +1,9 @@
 ---
 title: "And they're OFF!!!!!"
 pubDate: 2014-11-13 13:37:18
+categories:
+  - python-rules
+  - uncategorized
 ---
 [caption id="attachment\_1675" align="aligncenter" width="400"]![muybridge_GallopingHorse(2)_](./muybridge_gallopinghorse2_.jpeg) This is a famous photograph. More or less invention of moving pictures that we all know and love. Look at it, scroll your mouse wheel up and down quickly, just a quarter of a turn to go back in history two turns of a century.[/caption]
 So, FINALLY got the call from the nephew.

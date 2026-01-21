@@ -1,6 +1,9 @@
 ---
 title: "Are we there yet?"
 pubDate: 2023-02-04 02:53:55
+categories:
+  - 3d-printing
+  - bear-build
 ---
 Nope.
 

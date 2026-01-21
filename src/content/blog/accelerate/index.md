@@ -1,6 +1,10 @@
 ---
 title: "Accelerate ..."
 pubDate: 2014-04-15 12:01:46
+categories:
+  - development
+  - python-rules
+  - the-downside-of-opensource
 ---
 [caption id="attachment\_1126" align="aligncenter" width="300"]![Accelerate](./dalek_2010_redesign.jpg) Accelerate[/caption]
 I was looking for GPU cards when I thought to look closer at my current desktop.  It has a AMD RADEON HD 6570 in it, not a really hot card for gaming (apparently) but for getting a feel for OpenCL development and also playing with PyOpenCL (and OpenCL extensions of OpenCV) I think it will do.

@@ -1,6 +1,9 @@
 ---
 title: "A short experiment while I had a couple of hours..."
 pubDate: 2013-08-12 14:23:47
+categories:
+  - autopilot
+  - software
 ---
 ... it turned out to be a couple of hours as I found I could connect to the B[BB from Winoze box but not from the 64 bit Debian box](http://organicmonkeymotion.wordpress.com/2013/06/15/beaglebone-black-setup/ "Beaglebone Black Setup")??
 Turned out the BBB, like the BB, is a little dodgy and needs to be reset as you are not guaranteed an Ethernet connection on startup.

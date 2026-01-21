@@ -1,6 +1,8 @@
 ---
 title: "Dribs and Drabs drifting in"
 pubDate: 2021-05-06 03:21:49
+categories:
+  - pnp
 ---
 So, back onto the [manual pnp project](https://organicmonkeymotion.wordpress.com/2021/03/02/picky-picky-picky/) with a report there are dribbling in some of the final purchases, including:
 

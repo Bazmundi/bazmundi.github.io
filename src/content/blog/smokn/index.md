@@ -1,6 +1,8 @@
 ---
 title: "Smok'n"
 pubDate: 2013-07-21 04:54:54
+categories:
+  - hardware
 ---
 Almost blew up my Parallax prototyping board.
 First up, the board needs a "prop plug".

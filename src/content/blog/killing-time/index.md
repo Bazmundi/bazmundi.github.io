@@ -1,6 +1,8 @@
 ---
 title: "Killing time"
 pubDate: 2014-04-18 01:42:58
+categories:
+  - software-framework
 ---
 So, I plugged in my recently acquired endoscopic camera to see what it might look like through the omni lens.  Of course, I didn't expect it to work out too well because of the LED light which would flood the lens.
 http://youtu.be/ndVpLLq5oSo

@@ -1,6 +1,8 @@
 ---
 title: "So hot!"
 pubDate: 2017-07-30 07:12:21
+categories:
+  - orange-pi
 ---
 I stuffed the following into a node-red exec node:
 

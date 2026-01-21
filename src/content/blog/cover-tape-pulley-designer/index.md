@@ -1,6 +1,10 @@
 ---
 title: "Cover tape pulley designer"
 pubDate: 2025-11-16 08:06:06
+categories:
+  - automatic-pnp-build
+  - openpnp
+  - pnp
 ---
 [![](./smt-pulley-designer.png)](./smt-pulley-designer.png)
 

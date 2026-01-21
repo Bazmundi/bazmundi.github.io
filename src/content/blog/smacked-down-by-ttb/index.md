@@ -1,6 +1,10 @@
 ---
 title: "Smacked Down by TTB!"
 pubDate: 2016-12-01 21:07:09
+categories:
+  - rant
+  - raspingbreathburrydoodlepi
+  - the-downside-of-opensource
 ---
 So, no way no how can I get the ttb version of the google calendar going on node-red.
 Certainly I cannot get it to connect to my calendar, it just pings me with api errors of type 433.

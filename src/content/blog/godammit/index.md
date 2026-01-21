@@ -1,6 +1,8 @@
 ---
 title: "GODAMMIT!"
 pubDate: 2022-08-16 12:39:05
+categories:
+  - bear-build
 ---
 So, stalled again ... FRACK!
 

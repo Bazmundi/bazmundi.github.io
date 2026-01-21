@@ -1,6 +1,10 @@
 ---
 title: "Try, try again."
 pubDate: 2015-07-19 13:22:14
+categories:
+  - chase-that-dog
+  - doodling
+  - vision
 ---
 After breaking the setup my Processing for Android installation, I opted to rip out the Android SDK, rip out Processing, delete all remaining files and folders and environment variables.
 I then re-installed Processing and let the fresh Android Mode install the Android SDK (rather than hook into my own  installation).

@@ -1,6 +1,8 @@
 ---
 title: "LAZY! LAZY! LAZY!"
 pubDate: 2020-09-28 22:41:12
+categories:
+  - fpga
 ---
 Got lazy, as much because I've too many projects on the boil. So I did a search and found the best all around programmer gadget.
 

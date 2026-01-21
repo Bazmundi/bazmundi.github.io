@@ -1,6 +1,8 @@
 ---
 title: "(Almost) Finished!"
 pubDate: 2025-08-16 23:45:51
+categories:
+  - the-rig
 ---
 [![](./mine.png)](./mine.png)
 

@@ -1,6 +1,8 @@
 ---
 title: "Closer!"
 pubDate: 2020-02-09 07:35:49
+categories:
+  - opensprinklette
 ---
 ![](./1.jpg)
 

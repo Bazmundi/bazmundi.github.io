@@ -1,6 +1,9 @@
 ---
 title: "Hmmm, dare I say final!"
 pubDate: 2021-09-30 01:45:12
+categories:
+  - design-musings
+  - pnp
 ---
 [![](./updated-idea6.png)](./updated-idea6.png)
 

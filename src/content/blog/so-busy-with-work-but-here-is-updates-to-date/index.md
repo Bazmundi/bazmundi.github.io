@@ -1,6 +1,11 @@
 ---
 title: "So busy with work but here is updates to date"
 pubDate: 2011-12-03 00:40:22
+categories:
+  - chase-that-dog
+  - ground
+  - prototyping
+  - vision
 ---
 ARDrone now in possession.  Second hand from a pal who has moved to China for work.  Good luck D!
 I am buying a house so stocked up on a few things in meantime.  9DOF Razer etc.

@@ -1,6 +1,8 @@
 ---
 title: "I must be imagining things?"
 pubDate: 2021-03-08 11:03:59
+categories:
+  - esp32
 ---
 So, I reported to the author of one of the ESP32 CAM "solutions" a problem I was seeing with long lags in display of camera stream using the code provided.
 

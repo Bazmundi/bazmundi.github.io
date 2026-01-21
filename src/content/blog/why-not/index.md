@@ -1,6 +1,8 @@
 ---
 title: "Why not?"
 pubDate: 2014-09-26 13:47:18
+categories:
+  - embedded
 ---
 [caption id="attachment\_1533" align="aligncenter" width="128"][![Virtual radar](./logo.png)](./logo.png) Virtual radar[/caption]
 I am week 1 of my final slog in my Engineering Masters and will need a distraction as a study break over the next 24 weeks of my Dissertation.

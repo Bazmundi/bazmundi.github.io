@@ -1,6 +1,10 @@
 ---
 title: "Docker Pirate?"
 pubDate: 2018-08-26 21:28:00
+categories:
+  - docker
+  - raspingbreathburrydoodlepi
+  - thingbox
 ---
 So, coincidence right?  I joke that the ODROID-W is a Raspberry Pirate right!
 So, you can get a [docker based Rasbian lite](https://blog.hypriot.com/) that runs on the RPi 3B+.

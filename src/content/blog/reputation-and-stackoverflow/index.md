@@ -1,6 +1,8 @@
 ---
 title: "Go and get Stacked!"
 pubDate: 2015-08-09 00:26:04
+categories:
+  - the-downside-of-opensource
 ---
 Apparently I have to send at least 30 characters.  Apparently I can only send once every 3 minutes.  Apparently they censor you if you are not happy with the incredibly useless to no responses you get at times.
 What exactly is the point of these wanking constrictions and especially of "reputation"?

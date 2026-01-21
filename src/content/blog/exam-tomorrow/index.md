@@ -1,6 +1,9 @@
 ---
 title: "Exam tomorrow ..."
 pubDate: 2013-12-11 22:01:40
+categories:
+  - development
+  - hardware
 ---
 Just having my morning wake up coffee and day dreaming.
 So, I got curious after my last post and an accidental find on the internet (or at least a trillion of them).

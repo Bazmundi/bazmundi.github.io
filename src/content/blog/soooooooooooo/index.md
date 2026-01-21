@@ -1,6 +1,11 @@
 ---
 title: "Soooooooooooo..."
 pubDate: 2017-06-15 15:38:28
+categories:
+  - linux
+  - orange-pi
+  - rant
+  - the-downside-of-software-development
 ---
 ...weird!
 So, story up to this point was again I added the expansion board to my OPiZ.  That fragged the board somehow so that it had the weird side effect of not booting orangepi.org version of Debian server but happily still booted armbian.ord distro of Debian server.

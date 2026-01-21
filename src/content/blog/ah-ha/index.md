@@ -1,6 +1,9 @@
 ---
 title: "Ah ha!"
 pubDate: 2017-07-26 13:12:18
+categories:
+  - c-h-i-p
+  - linux
 ---
 So.
 I am now building the third C.H.I.P. with shairport-sync.

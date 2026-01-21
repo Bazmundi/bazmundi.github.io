@@ -1,6 +1,10 @@
 ---
 title: "I am in so much trouble ..."
 pubDate: 2018-09-20 03:02:30
+categories:
+  - chapel
+  - everything-old-is-new-again
+  - hardware
 ---
 I was poised to look into a few more ODROID or NANOPI as an extension of my cluster, then a 2U Dell PowerEdge 2950 with dual 3GHz CPU with 8Gb memory is at action, with only two hours to go, no bids so I went with $15.
 So that would be 2x4 Core for 8 all up.

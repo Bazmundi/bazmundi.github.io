@@ -1,6 +1,9 @@
 ---
 title: "Starting afresh"
 pubDate: 2017-07-06 12:56:29
+categories:
+  - linux
+  - orange-pi
 ---
 Throw out OrangePi Zero board that was [fragged when expansion board was inserted](https://organicmonkeymotion.wordpress.com/2017/07/06/crrrrrrrrrrrrrrrrrrap/).
 [Full story](https://organicmonkeymotion.wordpress.com/category/armbian/).

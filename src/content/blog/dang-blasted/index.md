@@ -1,6 +1,9 @@
 ---
 title: "Dang blasted"
 pubDate: 2012-05-28 04:29:10
+categories:
+  - prototyping
+  - vision
 ---
 First test run of OpenCV on Android had mixed results.
 Compiled for Android 2.2, it was a no-go on the IDEOS but ran under 4.03 on both of the ACER A500 and the Samsung Galaxy SII.

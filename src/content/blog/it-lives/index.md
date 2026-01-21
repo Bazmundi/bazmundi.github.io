@@ -1,6 +1,10 @@
 ---
 title: "It LIVES!"
 pubDate: 2025-11-16 08:16:01
+categories:
+  - cnc
+  - cnc-machining
+  - dremel-cnc-machine
 ---
 ... well almost.
 

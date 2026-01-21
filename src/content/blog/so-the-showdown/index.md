@@ -1,6 +1,12 @@
 ---
 title: "So the showdown"
 pubDate: 2014-09-28 01:35:42
+categories:
+  - beaglebone-black
+  - cheap-obsolete-tech
+  - embedded
+  - odroid-w
+  - open-source-can-be-professional
 ---
 [caption id="attachment\_1561" align="aligncenter" width="300"][![No competition, really.  Grown up board for serious work vs a primary skool diddling board](./beaglebone_black_vs_raspberry_pi.jpg)](./beaglebone_black_vs_raspberry_pi.jpg) No competition, really. Grown up board for serious work vs a primary skool diddling board[/caption]
 [First BBB (the other Creative Commons offering) vs Raspberry Pi](https://www.youtube.com/watch?v=Tbk_Z_8macI "The other Creative Commons offering").  Say no more.  More grunt, more I/O, better connectivity.  Apparently looses out (only) because 1) cannot connect to an old analog television (who still has one of those?) 2) only has 1 usb port (well done Raspberry Pi, woo hoo) 3) and is scary for beginners (there there little gimp, you can upgrade to BBB when you are ready).  [[PS: [you can actually get to the analog video if you have to](http://forum.odroid.com/viewtopic.php?f=104&t=5905&p=47554&hilit=rca#p47552 "Well, you can can afterall")]]

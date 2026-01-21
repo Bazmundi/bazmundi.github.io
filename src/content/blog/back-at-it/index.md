@@ -1,6 +1,9 @@
 ---
 title: "Back at it"
 pubDate: 2013-12-22 11:12:05
+categories:
+  - hardware
+  - uncategorized
 ---
 So, first thing I did was to open up one of the Verilog prototyping text I got to start training up on the xilinx tools. Half a day doodling with the tool, changing the designs, synthesizing, simulating ... most stimulating.  I got myself a copy of "[FPGA Prototyping by Verilog Examples](http://www.amazon.com/FPGA-Prototyping-Verilog-Examples-Spartan-3/dp/0470185325)" by Pong P. Chu.  So, with the latest ISE Design suite installed one can design and verify without having to even heat up the soldering board.  I've also got the Altera toolset installed so I will try running the examples in there as well to get a feel for the difference between the two tools.
 Also managed a copy of the "Blue Book" - the gospel of HDL design.  And another recommended text is on the way.

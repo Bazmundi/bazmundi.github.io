@@ -1,6 +1,9 @@
 ---
 title: "Grrrrrrrrrrr"
 pubDate: 2016-11-27 08:59:16
+categories:
+  - sucky-wucky-raspingbreathburry
+  - the-downside-of-opensource
 ---
 The RaspingBreathBurry my mate gave me, though I appreciate the gesture, I can sense his reason was as it is such a slug.
 I FINALLY seem to have 2.4.o of TheThingBox sluggishly wasting bit traffic on my lan.

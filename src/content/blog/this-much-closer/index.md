@@ -1,6 +1,8 @@
 ---
 title: "This much closer &gt;&lt;"
 pubDate: 2021-05-27 09:41:02
+categories:
+  - pnp
 ---
 Finally got 2 x 500mm 2040 from Aliexpress for my [manual pnp project](https://organicmonkeymotion.wordpress.com/2021/03/02/picky-picky-picky/)! And, both exactly 500mm! A relief after all the [crap](https://organicmonkeymotion.wordpress.com/2021/04/09/crap-2/) to get the order right. I am guessing the vendor gets lots of 500mm and cuts (really hacks) them down to shorter lengths.
 

@@ -1,6 +1,8 @@
 ---
 title: "Small steps"
 pubDate: 2015-06-22 13:42:33
+categories:
+  - uncategorized
 ---
 So, finished an online 8 week course I was interested in doing.  MOOC no less.  Not sure about them as my feeling was you don't get much connectivity with teaching end and it would appear that MOOC are not hitting their target audiences.
 I am going to do one on first order logic, for my stuff I play with at work (I am moving into formal languages).  Another will be on AI planning (for fun at home).  In any event, some time to kill so I wired up a breakout to mount an ESP8266 on a breadboard to try out nodemcu, and voila!

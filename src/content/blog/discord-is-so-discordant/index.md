@@ -1,6 +1,8 @@
 ---
 title: "Discord is so discordant!"
 pubDate: 2021-11-12 23:52:00
+categories:
+  - sucky-service-providers
 ---
 So, I find I can't even delete my discord account!
 

@@ -1,6 +1,9 @@
 ---
 title: "Oh well."
 pubDate: 2023-09-22 12:30:22
+categories:
+  - the-downside-of-opensource
+  - video-technique
 ---
 Where I am with the IP camera for the manual PnP machine(s) is dire.
 

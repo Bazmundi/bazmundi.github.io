@@ -1,6 +1,8 @@
 ---
 title: "Boo Win32Forth"
 pubDate: 2011-07-31 03:32:42
+categories:
+  - the-downside-of-software-development
 ---
 I had an itch to download WIN32FORTH to have something on the laptop to find that I can say that McAfee rocks!!  (yes I pay for security).
 Various sage commenters on the WIN32FORTH yahoo site wax lyrical that FORTH is so clever, because it has self modifying code, that poor virus checkers are fooled by its smugness.

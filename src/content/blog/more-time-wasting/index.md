@@ -1,6 +1,8 @@
 ---
 title: "More time wasting"
 pubDate: 2021-06-01 10:20:45
+categories:
+  - bad-vendor-aliexpress
 ---
 Paid for 100 mixed quartz resonator kit from [Aliexpress vendor](https://www.aliexpress.com/store/911390180?spm=a2g0o.detail.1000007.1.47ac3a682d1ahT) ages ago. Got a reminder my arrival confirmation time has expired. Didn't make it out of China according to the tracking. Looks like they cancelled the package their end. No messages to me and no refund without me having to go through the dispute process.
 

@@ -1,6 +1,8 @@
 ---
 title: "You call that a retraction, THIS is a retraction!"
 pubDate: 2017-11-02 20:08:40
+categories:
+  - intel-smemtel
 ---
 Wow.
 I do rather feel vindicated.

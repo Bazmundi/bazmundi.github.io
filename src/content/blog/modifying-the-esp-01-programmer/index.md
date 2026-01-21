@@ -1,6 +1,9 @@
 ---
 title: "Modifying the ESP-01 programmer"
 pubDate: 2021-04-15 09:12:52
+categories:
+  - esp8266
+  - hardware
 ---
 So, if you were slow like me and did not buy an ESP-01 programmer with a switch, to switch in and out of programming mode, there are a raft of options to fix that.
 

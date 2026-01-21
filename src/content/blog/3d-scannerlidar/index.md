@@ -1,6 +1,10 @@
 ---
 title: "3d Scanner/Lidar"
 pubDate: 2013-04-13 23:51:18
+categories:
+  - android
+  - sensing
+  - vision
 ---
 Apart from experiments in wireless location (Bluetooth, Xbee/SNAP and WiFi all provide RSSI values), there is also a likely need for visual odometry.
 SLAM, which is a passive sensing approach, is on the cards.  The other is either of two approaches to active visual odometry:

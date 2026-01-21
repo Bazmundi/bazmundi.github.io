@@ -1,6 +1,10 @@
 ---
 title: "Voila! I can see!"
 pubDate: 2023-11-01 10:56:59
+categories:
+  - chatgpt
+  - manual-pnp
+  - pnp-trays
 ---
 ![](./20231101_2116035240428033122762256.jpg)
 

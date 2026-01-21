@@ -1,6 +1,12 @@
 ---
 title: "Finally, a new mqtt based node-red server"
 pubDate: 2017-06-21 12:09:39
+categories:
+  - linux
+  - mqtt
+  - networking
+  - node-red
+  - orange-pi
 ---
 So, much pain but lotsa learning!
 Final story.

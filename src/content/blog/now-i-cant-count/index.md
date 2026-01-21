@@ -1,6 +1,9 @@
 ---
 title: "Now I can't count ..."
 pubDate: 2021-05-31 09:20:56
+categories:
+  - bad-vendor-aliexpress
+  - rant
 ---
 So, ordered a range of gadgets from Aliexpress for my soldering station, post the [apocalypse](https://organicmonkeymotion.wordpress.com/2021/05/14/woo-hooooo/).
 

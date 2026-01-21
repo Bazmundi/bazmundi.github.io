@@ -1,6 +1,9 @@
 ---
 title: "Definitely the last one, almost ..."
 pubDate: 2021-09-30 18:43:07
+categories:
+  - design-musings
+  - pnp
 ---
 Alright. So, the price aspect didn't make sense in the full frame design, if'n you want a budget model.
 

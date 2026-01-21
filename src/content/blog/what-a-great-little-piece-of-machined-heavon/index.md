@@ -1,6 +1,9 @@
 ---
 title: "What a great little piece of machined heavon!"
 pubDate: 2021-11-01 06:52:27
+categories:
+  - design-musings
+  - pnp
 ---
 [![](./zaxis.jpg)](./zaxis.jpg)
 

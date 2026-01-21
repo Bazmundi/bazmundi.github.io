@@ -1,6 +1,9 @@
 ---
 title: "Merging of two ideas"
 pubDate: 2024-08-25 05:22:41
+categories:
+  - manual-pnp
+  - pnp-trays
 ---
 https://www.thingiverse.com/thing:6741612
 

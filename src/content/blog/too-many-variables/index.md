@@ -1,6 +1,10 @@
 ---
 title: "Too many variables"
 pubDate: 2021-08-08 09:20:23
+categories:
+  - 3d-printing
+  - pnp
+  - pushpullfeeder
 ---
 So, still on this [feeder option](https://makr.zone/new-all-3d-printed-tapereel-feeder/399/).
 

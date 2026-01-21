@@ -1,6 +1,9 @@
 ---
 title: "HALP!"
 pubDate: 2018-01-03 04:05:10
+categories:
+  - home-made-lidar
+  - the-after-market
 ---
 So, mislaid the cable from my Benewake TFmini Micro Lidar.   What on earth is this socket type please?  Anyone?
 [![](./laserowy-czujnik-odleglosci-lidar-tfmini-uart-12m-1.jpg)](./laserowy-czujnik-odleglosci-lidar-tfmini-uart-12m-1.jpg)

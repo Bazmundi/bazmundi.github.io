@@ -1,6 +1,8 @@
 ---
 title: "Damn, I say, Damn Telstra AND overseas help desks"
 pubDate: 2014-01-25 04:17:47
+categories:
+  - sucky-service-providers
 ---
 No use so far.  What with now 5 Level 1 technicians turning up ( to no avail as they don't do network stuff, just fiddle with wireless router ).
 The root cause of the outage in North Adelaide over Christmas now appears to have been an earthquake, would you believe, shaking infrastructure up.

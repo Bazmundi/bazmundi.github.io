@@ -1,6 +1,11 @@
 ---
 title: "FREEKIN AWWWWESOME!"
 pubDate: 2021-12-01 11:46:12
+categories:
+  - 3d-printing
+  - design-rather-than-hacking
+  - pnp
+  - smt-cover-tape-collector
 ---
 [![](./nylon.jpg)](./nylon.jpg)
 

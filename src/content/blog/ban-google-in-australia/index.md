@@ -1,6 +1,8 @@
 ---
 title: "BAN GOOGLE IN AUSTRALIA!"
 pubDate: 2019-04-19 01:18:27
+categories:
+  - rant
 ---
 What a crock of shit!
 

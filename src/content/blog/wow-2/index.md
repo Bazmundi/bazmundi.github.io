@@ -1,6 +1,8 @@
 ---
 title: "WOW!"
 pubDate: 2015-04-01 12:59:09
+categories:
+  - hiatus
 ---
 Okay, so let's see what has happened in last 3 weeks.
 Finished and handed in my Master's Dissertation.

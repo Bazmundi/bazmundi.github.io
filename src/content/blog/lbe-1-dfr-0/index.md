@@ -1,6 +1,9 @@
 ---
 title: "LBE 1 - DFR 0"
 pubDate: 2016-11-29 12:36:50
+categories:
+  - rant
+  - the-downside-of-opensource
 ---
 Go figure, I grabbed a SF-Genuino 101 to find the same problem with it as the DF-CurieNano.
 Research suggests there is no fix for the problem.  It has been fixed for some by swapping from Windows 10 to Windose 7.   Or vice versa for some.  For some that doesn't fix it.

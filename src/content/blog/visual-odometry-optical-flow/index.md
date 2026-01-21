@@ -1,6 +1,11 @@
 ---
 title: "Visual odometry - optical flow"
 pubDate: 2012-06-18 13:16:38
+categories:
+  - ground
+  - hardware
+  - sensing
+  - vision
 ---
 Well.  I lost heart after buying a couple of mouse sensors to find that buying a separate lens was possible from china ... but then diydrone/3drobots helped out by putting a [mouse sensor and a lens together](https://store.diydrones.com/Optical_Flow_Sensor_p/br-0016-01.htm "Hurry while they last").  In fact, they matched the lens and mounted them so was cheaper all up to bin the raw mouse sensor and buy the unit (or two of them in fact - very popular).
 Along with an SPI interface I can now add optical flow/visual odometry input to my IMU/AHRS for the rock crawler.   I opted for that, initially, since it will likely be prone to wheels spinning etc so encoders on the wheels would not help as they would generate errors where the wheels turned but the chassis stayed put.

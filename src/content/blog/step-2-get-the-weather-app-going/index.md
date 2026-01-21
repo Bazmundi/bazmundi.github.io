@@ -1,6 +1,9 @@
 ---
 title: "Step 2 - get the weather app going"
 pubDate: 2024-10-29 11:48:46
+categories:
+  - esp32
+  - esp32-cyd
 tags:
   - arduino
   - esp-cyd

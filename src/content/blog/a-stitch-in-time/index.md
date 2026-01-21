@@ -1,6 +1,9 @@
 ---
 title: "A stitch in time ..."
 pubDate: 2022-09-06 22:52:21
+categories:
+  - pnp
+  - pnp-trays
 ---
 ... or, when using a raft of mesh based tools.
 

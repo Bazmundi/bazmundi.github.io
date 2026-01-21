@@ -1,6 +1,10 @@
 ---
 title: "Exit wounds"
 pubDate: 2021-05-14 05:54:11
+categories:
+  - rant
+  - review
+  - test-bench
 ---
 My Kingst LA5016 has turned up! Having been funded by sale of my Dangerous Prototypes Logic Sniffer and other miscellaneous underutilized widgets from my parts drawer.
 

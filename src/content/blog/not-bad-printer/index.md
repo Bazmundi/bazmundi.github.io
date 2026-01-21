@@ -1,6 +1,9 @@
 ---
 title: "Not bad printer ..."
 pubDate: 2021-10-01 02:47:00
+categories:
+  - 3d-printing
+  - pnp
 ---
 I still think the FlashForge Finder I bought, to kit my hobby "manufacturing" world off was a brilliant buy.
 

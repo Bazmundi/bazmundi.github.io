@@ -1,6 +1,10 @@
 ---
 title: "I am not keen on green"
 pubDate: 2021-09-16 07:39:42
+categories:
+  - 3d-printing
+  - pnp
+  - pushpullfeeder
 ---
 [![](./green1.jpeg)](./green1.jpeg)
 

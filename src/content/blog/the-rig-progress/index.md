@@ -1,6 +1,9 @@
 ---
 title: "The RIG progress"
 pubDate: 2025-08-04 10:26:56
+categories:
+  - bear-build
+  - the-rig
 ---
 [![](./wp-17543021977123670417928861434158.jpg)](./wp-17543021977123670417928861434158.jpg)
 

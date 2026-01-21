@@ -1,6 +1,8 @@
 ---
 title: "Geting a handle on keyframes"
 pubDate: 2024-12-23 06:02:43
+categories:
+  - animations-for-the-fun-of-it
 tags:
   - addon
   - animation

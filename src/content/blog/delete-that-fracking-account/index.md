@@ -1,6 +1,8 @@
 ---
 title: "Delete that fracking account!"
 pubDate: 2022-11-26 03:13:32
+categories:
+  - rant
 ---
 I have had strife with my Autodesk account and its two-step authentication before, but my phone has died and when I fired up the new phone, of course, the keys don't come across. So, Autodesk might send a code into the ether, but it NEVER gets to any of my authenticator apps.
 

@@ -1,6 +1,8 @@
 ---
 title: "Call me sentimental"
 pubDate: 2014-05-10 16:37:02
+categories:
+  - nostalgia
 ---
 Up late, sick all week with flu so, since at home and not studying, well ... you know.
 So I have bought a 3 1/2 inch floppy drive - usb of course - and I am trying to sneak my software for my Analog Devices DSP boards onto a drive for prosperity.

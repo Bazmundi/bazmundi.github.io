@@ -1,6 +1,13 @@
 ---
 title: "It has just occured to me ..."
 pubDate: 2017-05-19 07:59:17
+categories:
+  - chapel
+  - concurrency
+  - erlang
+  - odroid-c1
+  - parallel-talk
+  - parallella
 ---
 ... what a coincidence.
 The Parallella and the Odroid-C1 PCB are same size (almost).  Is that Feng Shui, synchronicity or serendipity?

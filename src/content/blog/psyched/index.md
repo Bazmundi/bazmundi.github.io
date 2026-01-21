@@ -1,6 +1,9 @@
 ---
 title: "Psyched!"
 pubDate: 2019-03-20 00:09:13
+categories:
+  - rant
+  - the-downside-of-opensource
 ---
 So, OpenMV M7 from ebay.  Watchout!
 

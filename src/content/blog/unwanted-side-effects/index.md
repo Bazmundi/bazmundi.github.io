@@ -1,6 +1,8 @@
 ---
 title: "MSN, User Community, and that joke about the hot air balloon"
 pubDate: 2012-07-01 03:36:26
+categories:
+  - the-downside-of-software-development
 ---
 Community help.  Is it?
 More often than not, no.

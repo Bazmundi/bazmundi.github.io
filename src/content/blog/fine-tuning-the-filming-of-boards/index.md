@@ -1,6 +1,8 @@
 ---
 title: "Fine tuning the \"filming\" of boards"
 pubDate: 2024-11-30 22:18:20
+categories:
+  - animations-for-the-fun-of-it
 tags:
   - blender
   - maker

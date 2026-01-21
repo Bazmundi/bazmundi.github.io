@@ -1,6 +1,9 @@
 ---
 title: "Like Da! a.k.a. DOH!"
 pubDate: 2024-10-19 05:12:22
+categories:
+  - manual-pnp
+  - wireless-manual-pnp-pump
 ---
 [![](./wp-17293136025928677803319617758468-e1729313830265.jpg)](./wp-17293136025928677803319617758468-e1729313830265.jpg)
 

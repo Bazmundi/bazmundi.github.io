@@ -1,6 +1,10 @@
 ---
 title: "Voila!"
 pubDate: 2015-07-20 21:25:41
+categories:
+  - android
+  - processing
+  - vision
 ---
 Okay, so a little fiddling and changing a couple of set parameters and I have code running on my Samsung S2 that will unwrap a Bloggie lens.
 Based on code by [Flong](http://www.flong.com/blog/2010/open-source-panoramic-video-bloggie-openframeworks-processing/) but running against camera and not a saved image.

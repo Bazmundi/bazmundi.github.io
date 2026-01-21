@@ -1,6 +1,9 @@
 ---
 title: "Don't use OPiZ Ubuntu CORE or Snap for business critical applications"
 pubDate: 2018-09-08 01:45:39
+categories:
+  - orange-pi
+  - ubuntu-core-16
 ---
 On the Orange Pi Zero version there appears to be a problem with the Ubuntu CORE update mechanism if there are delays on the lan/internet.
 Whenever I try connecting to ubuntu core device at night time southern hemisphere I will often get a snap does not exist message or connection timeout with some message about missing headers. This is likely round trip problem over the internet over distances or server loading.  It get the same behaviour on my PC late at night if I try to connect to github during the week.  It might also be a local server being thrashed at night here by overseas being awake.  Same same.

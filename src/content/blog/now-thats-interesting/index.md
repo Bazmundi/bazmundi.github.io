@@ -1,6 +1,9 @@
 ---
 title: "Now that's interesting"
 pubDate: 2018-08-29 02:10:59
+categories:
+  - open-source-can-be-professional
+  - thingbox
 ---
 I found OPi has a Ubuntu Core image!
 Now that allows for Snap!

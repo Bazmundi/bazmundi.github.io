@@ -1,6 +1,8 @@
 ---
 title: "In principle, what a great idea, in practice ..."
 pubDate: 2024-09-14 00:13:14
+categories:
+  - rant
 ---
 How the FRACK do I uninstall microsoft voice access?
 

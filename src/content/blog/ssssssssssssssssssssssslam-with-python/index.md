@@ -1,6 +1,8 @@
 ---
 title: "SssssssssssssssssssssssLAM with Python"
 pubDate: 2014-05-11 09:43:27
+categories:
+  - python-rules
 ---
 Wow!
 I say again Wow!

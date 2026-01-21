@@ -1,6 +1,8 @@
 ---
 title: "Resuscitation!"
 pubDate: 2021-01-30 03:03:42
+categories:
+  - the-after-market
 ---
 So, I have an [Acer Aspire One](https://en.wikipedia.org/wiki/Acer_Aspire_One).
 

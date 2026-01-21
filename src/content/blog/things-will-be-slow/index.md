@@ -1,6 +1,9 @@
 ---
 title: "Things will be slow ..."
 pubDate: 2013-09-28 09:37:39
+categories:
+  - python-rules
+  - the-downside-of-opensource
 ---
 ... semester and my Masters has fired up again.
 [![My brain hurts](./20130928_185847.jpeg)](./20130928_185847.jpeg)

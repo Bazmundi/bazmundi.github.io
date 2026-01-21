@@ -1,6 +1,12 @@
 ---
 title: "No GRBLs harmed ..."
 pubDate: 2021-03-22 12:27:49
+categories:
+  - 3d-printing
+  - cnc
+  - esp32
+  - machining
+  - pnp
 ---
 ... certainly no cardboard tubes used in the production of this blog entry.
 

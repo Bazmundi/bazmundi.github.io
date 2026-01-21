@@ -1,6 +1,10 @@
 ---
 title: "Intriguing ... when is Open Source not?"
 pubDate: 2014-09-22 13:26:59
+categories:
+  - embedded
+  - general-niff-naff-and-trivia
+  - the-downside-of-opensource
 ---
 [Raspberry Pi is Creative Commons](http://www.raspberrypi.org/creative-commons/ "So anyone can use it yes?").
 My nephew has a Raspberry Pi - I helped him set it up last Christmas, and also sorted him out to develop on it from his Mac, his Arduino from his Mac and his Arduino from his Raspberry Pi from his Mac (torturous but fun, why not).

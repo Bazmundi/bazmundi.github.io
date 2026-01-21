@@ -1,6 +1,8 @@
 ---
 title: "Finally, an x-carriage for my corexy PnP"
 pubDate: 2022-08-05 07:46:36
+categories:
+  - pnp
 ---
 So, it took 4 failed prints to get a clean and straight right-side for my x-carriage for my corexy PnP. Finally got one. Still not happy with adhesion with the bed but it was straight and true.
 

@@ -1,6 +1,8 @@
 ---
 title: "Just a bad smell"
 pubDate: 2020-11-22 07:59:37
+categories:
+  - the-downside-of-opensource
 ---
 So, whether the procurement ages of ago of a [logicsniffer](http://dangerousprototypes.com/docs/Open_Bench_Logic_Sniffer) was a good idea is up in the air. Looks like the version I purchased has been left behind in the firmware upgrade stakes.
 

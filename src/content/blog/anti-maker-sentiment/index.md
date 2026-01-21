@@ -1,6 +1,8 @@
 ---
 title: "Anti-Maker Sentiment"
 pubDate: 2014-07-29 13:03:11
+categories:
+  - anti-maker-sentiment
 ---
 New Category.
 Anti Maker Sentiment.

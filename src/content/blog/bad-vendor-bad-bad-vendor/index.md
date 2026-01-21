@@ -1,6 +1,10 @@
 ---
 title: "Bad vendor, bad, bad vendor"
 pubDate: 2024-11-18 13:16:03
+categories:
+  - bad-vendor-aliexpress
+  - rant
+  - sucky-service-providers
 ---
 I haven't done one of these rants for a while.
 

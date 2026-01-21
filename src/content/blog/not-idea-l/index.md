@@ -1,6 +1,10 @@
 ---
 title: "Not idea-L"
 pubDate: 2019-07-21 07:56:26
+categories:
+  - android
+  - jetbrains-idea
+  - kotln
 ---
 So.
 

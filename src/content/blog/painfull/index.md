@@ -1,6 +1,10 @@
 ---
 title: "Painful!"
 pubDate: 2023-06-04 07:18:32
+categories:
+  - manual-pnp
+  - video-technique
+  - vision
 ---
 With VisualPlace, it does not use local machine cameras at all.
 

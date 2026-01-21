@@ -1,6 +1,9 @@
 ---
 title: "Single camera stereo system using prism and mirrors"
 pubDate: 2013-11-14 08:31:12
+categories:
+  - android
+  - vision
 ---
 [![prism stereo](./prismstereo.jpg)](./prismstereo.jpg)
 Go figure. Here I am looking into stereo depth for 3d reconstruction.  Leap at $70 doesn't give you depth maps.  [Structured Sensor](http://www.kickstarter.com/projects/occipital/structure-sensor-capture-the-world-in-3d "Structured Sensor") has finally pinged me and want $340 for a prototype development system - with favors iOS and not Android.

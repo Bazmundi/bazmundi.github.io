@@ -1,6 +1,10 @@
 ---
 title: "Hmmm"
 pubDate: 2017-07-22 22:19:47
+categories:
+  - c-h-i-p
+  - linux
+  - orange-pi
 ---
 So, here it is Sunday.
 Morning coffee in hand while I wake up.

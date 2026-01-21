@@ -1,6 +1,10 @@
 ---
 title: "Step 1 - motivation, really locomotion"
 pubDate: 2024-11-21 10:16:56
+categories:
+  - animatronics-for-the-fun-of-it
+  - stepper-motors
+  - sucky-service-providers
 tags:
   - animatronics
   - cnc

@@ -1,6 +1,8 @@
 ---
 title: "Occum-pi for Arduino??"
 pubDate: 2014-04-27 05:50:44
+categories:
+  - arduino
 ---
 Gag!
 I am in heaven.

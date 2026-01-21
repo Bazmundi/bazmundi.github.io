@@ -1,6 +1,10 @@
 ---
 title: "Cluster Frenzy!"
 pubDate: 2020-09-09 08:06:14
+categories:
+  - cluster
+  - docker
+  - open-source-can-be-professional
 ---
 So, I ended up splurging on a RPi3 (not +), enough to sit a clusterHAT upon, since I learnt my lesson with my RPi3+ home server and NOT using it for cluster experiments.
 

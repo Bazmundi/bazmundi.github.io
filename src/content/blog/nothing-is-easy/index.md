@@ -1,6 +1,8 @@
 ---
 title: "Nothing is easy"
 pubDate: 2015-08-08 10:43:33
+categories:
+  - the-downside-of-opensource
 ---
 So, Bloggie webcam on PC so far.
 The original bloggie has no webcam mode.  I have bought two second hand cameras mostly to get hold of the 360degree lens for use on my Android phones or devices.

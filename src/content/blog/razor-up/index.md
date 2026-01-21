@@ -1,6 +1,9 @@
 ---
 title: "Razor up"
 pubDate: 2012-06-22 12:23:22
+categories:
+  - arduino
+  - sensing
 ---
 A little soldering and then using the 3v usb to FTDI gadget and viola!  Now (as long as you have that pesky Apple plug in)
 [Testing Razor](http://organicmonkeymotion.wordpress.com/wp-content/uploads/2012/06/img_0103.mov) .

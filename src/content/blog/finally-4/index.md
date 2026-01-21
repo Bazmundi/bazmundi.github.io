@@ -1,6 +1,8 @@
 ---
 title: "Finally!"
 pubDate: 2021-02-14 07:48:06
+categories:
+  - rant
 ---
 Desk upgraded.
 

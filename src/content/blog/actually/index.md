@@ -1,6 +1,11 @@
 ---
 title: "Actually!!"
 pubDate: 2011-12-03 01:55:53
+categories:
+  - chase-that-dog
+  - prototyping
+  - software
+  - vision
 ---
 I have a Sony Bloggy (one of the first models with the rotating camera) and anyone who knows Bloggy knows it has a panoramic lens attachment.
 Did you know that you can do optical avoidance relatively simply with a panoramic view (<http://www.pirobot.org/blog/0004/>)?

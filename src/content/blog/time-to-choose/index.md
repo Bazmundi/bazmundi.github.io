@@ -1,6 +1,8 @@
 ---
 title: "Time to choose"
 pubDate: 2017-11-04 22:02:38
+categories:
+  - agent
 ---
 Having played with [Profeta](https://github.com/corradosantoro/profeta), [eJason](https://github.com/avalor/eJason) and now [Astor](http://astralanguage.com/wordpress/) I think the time has come to settle on one.
 eJason is a great idea, especially as it is built on erlang, but it is knobbled as it is a partial implementation.  It has .send so can talk between agents running in the vm but does not to distributed agents.  You don't have sensors and actuators.  All that could be added but there isn't enough design info and pulling apart the codes would be fun but a major project in itself.

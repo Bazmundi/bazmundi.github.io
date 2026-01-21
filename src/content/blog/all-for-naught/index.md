@@ -1,6 +1,10 @@
 ---
 title: "All for naught"
 pubDate: 2023-12-23 07:04:10
+categories:
+  - 3d-printing
+  - manual-pnp
+  - pnp-trays
 ---
 [![](./20231223_171846.jpg)](./20231223_171846.jpg)
 

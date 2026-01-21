@@ -1,6 +1,9 @@
 ---
 title: "The first few painful steps ..."
 pubDate: 2013-08-30 09:00:21
+categories:
+  - android
+  - python-rules
 ---
 ... POSH on Samsung SII
 

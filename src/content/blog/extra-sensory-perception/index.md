@@ -1,6 +1,11 @@
 ---
 title: "Extra Sensory Perception?"
 pubDate: 2015-05-12 13:58:31
+categories:
+  - embedded
+  - hardware
+  - networking
+  - wifi
 ---
 What ever it is, the [ESP 8226](https://nurdspace.nl/ESP8266 "There are plenty of other sites") has read my mind.  Including being able to run [LUA](http://www.lua.org/ "Hoola, oola, mula, doola") and so include [MQTT](http://mqtt.org/ "IBM you've done it again") and also things like [Actors](https://github.com/xfguo/luactor "Marlon Brando?"), [CSP](https://code.google.com/p/luacsp/ "Cooperation Sequential Processes"), [FSM](https://github.com/cornelisse/LuaFSM "Finite State Machine").
 [![esp](./esp.png)](./esp.png)

@@ -1,6 +1,8 @@
 ---
 title: "Version 2 of the Coy Pond"
 pubDate: 2021-02-07 08:53:48
+categories:
+  - aquaponics-and-the-like
 ---
 ![](./20210207_1849083865617509757027215.jpg)
 

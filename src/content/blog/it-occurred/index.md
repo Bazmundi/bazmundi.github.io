@@ -1,6 +1,10 @@
 ---
 title: "It occurred ..."
 pubDate: 2013-09-08 13:38:16
+categories:
+  - android
+  - arduino
+  - python-rules
 ---
 Doodling with POSH and SPADE and it occurred it might get a little hard to debug crashing everything together all at once.
 So I opted for something saner.

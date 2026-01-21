@@ -1,6 +1,9 @@
 ---
 title: "Making more sense"
 pubDate: 2021-09-28 09:21:47
+categories:
+  - design-musings
+  - pnp
 ---
 [![](./updated-idea-1.png)](./updated-idea-1.png)
 

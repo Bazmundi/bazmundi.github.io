@@ -1,6 +1,9 @@
 ---
 title: "Parallel versus Concurrent"
 pubDate: 2016-12-26 04:12:58
+categories:
+  - parallel-talk
+  - sensing
 ---
 So, I fell upon [Chapel](http://chapel.cray.com/), a parallel programming language.  It makes sense for things that Erlang and Elixir are not good for - like image processing.
 It isn't Google's,  it's actually Cray's.

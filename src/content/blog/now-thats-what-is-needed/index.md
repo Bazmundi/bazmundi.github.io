@@ -1,6 +1,11 @@
 ---
 title: "Now that's what is needed!!"
 pubDate: 2012-02-18 06:02:10
+categories:
+  - arduino
+  - hardware
+  - locomotion
+  - prototyping
 ---
 [![1-340x340](./1-340x3402.jpg)](http://organicmonkeymotion.wordpress.com/2012/02/18/now-thats-what-is-needed/1-340x340-3/)
 

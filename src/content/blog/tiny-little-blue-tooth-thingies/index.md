@@ -1,6 +1,9 @@
 ---
 title: "Tiny little blue tooth thingies"
 pubDate: 2011-08-02 12:17:28
+categories:
+  - arduino
+  - hardware
 ---
 [![350px-BluetoothFrame_Bottom](./350px-bluetoothframe_bottom1.jpg)](http://organicmonkeymotion.wordpress.com/2011/08/02/tiny-little-blue-tooth-thingies/350px-bluetoothframe_bottom-2/)
 

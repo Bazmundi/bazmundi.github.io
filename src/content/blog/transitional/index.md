@@ -1,6 +1,8 @@
 ---
 title: "Transitional ..."
 pubDate: 2023-06-02 07:21:11
+categories:
+  - video-technique
 ---
 ... ideas.
 

@@ -1,6 +1,8 @@
 ---
 title: "Phew!"
 pubDate: 2016-01-02 13:58:31
+categories:
+  - doodling
 ---
 Thank GOD! I bought a serial cable for the ODROID-W baseboard.
 I was trying to setup a WiFi static address and must have blown the edit so I couldn't get into my ODROID-W as I had lost both eth0 and wlan0.

@@ -1,6 +1,9 @@
 ---
 title: "Too tall"
 pubDate: 2022-11-12 02:09:01
+categories:
+  - 3d-printing
+  - flashforge-finder-mods
 ---
 So, the design decision to stand the heated bed about 1cm above the base does not work. This is because the Finder assumes certain dimensions are fixed.
 

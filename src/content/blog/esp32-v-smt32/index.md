@@ -1,6 +1,12 @@
 ---
 title: "ESP32 v SMT32"
 pubDate: 2021-10-17 00:24:10
+categories:
+  - design-musings
+  - openmv
+  - robotics
+  - sensing
+  - vision
 ---
 A late find is that the floating point performance of the [ESP32 is a bit sad](https://blog.classycode.com/esp32-floating-point-performance-6e9f6f567a69). The current design of the bloggie lens based idea, for the MHS-FS2 type lenses, was a long lead ov2640, to snake out from the adapter to a TTGO Camera board (see Figure 1). This will still be viable, and there are examples of this [setup doing image processing](https://github.com/joachimBurket/esp32-opencv). But whether that can be at a rate for converting the bloggie image to a panoramic, and then lay processing over the top as well, is a question.
 

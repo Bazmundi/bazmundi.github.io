@@ -1,6 +1,8 @@
 ---
 title: "Chase that Dog Platform"
 pubDate: 2011-07-24 07:48:48
+categories:
+  - chase-that-dog
 ---
 So the basic 1/10 monster truck chasis.  All electronics ripped out.  Notice the basic steering.  There will be a RC Sailboat Servo with a pulley as a winch to steer this.
 Notice USB Host shield inserted into ROMEO.  Still have to double check pin allocations ...

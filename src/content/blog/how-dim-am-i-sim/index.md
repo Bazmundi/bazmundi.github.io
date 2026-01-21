@@ -1,6 +1,8 @@
 ---
 title: "How dim am I sim?"
 pubDate: 2023-11-21 09:14:31
+categories:
+  - monsta-pc-build
 ---
 So, haven't built a PC in decades, certainly not one with a GPU, so if you're in the same boat then do a lot more reading that I did before I slung it together.
 

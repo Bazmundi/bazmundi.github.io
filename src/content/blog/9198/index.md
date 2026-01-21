@@ -1,6 +1,9 @@
 ---
 title: ""
 pubDate: 2024-01-09 07:21:09
+categories:
+  - pnp
+  - smt-feeders
 ---
 I bought me some [RS PRO Brown Plastic Shee](https://au.rs-online.com/web/p/plastic-sheets/2035346?bid=42706020&cid=rscDM728&cm_mmc=AU-EM-_-undefined_07%2Fan%2FSun%20-_-rscDM728-_-Product_Description_Link&dtm_em=db201b2bb42154204d6d3bb87d3f1469a544e957b2571232c93c98758d0e819b)t.
 

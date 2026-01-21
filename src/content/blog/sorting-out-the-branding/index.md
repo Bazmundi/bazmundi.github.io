@@ -1,6 +1,8 @@
 ---
 title: "Sorting out the branding"
 pubDate: 2022-01-07 01:10:22
+categories:
+  - vblog
 ---
 I decided to clean up the branding on my vblog, including matching fonts and font colours between the intro vids and the text on the titles I applied using OpenShot.
 

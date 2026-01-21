@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.7"
 pubDate: 2014-04-04 07:52:40
+categories:
+  - cyclone-ii-experiments
 ---
 Okay, so this one comes with some commented out code:
 

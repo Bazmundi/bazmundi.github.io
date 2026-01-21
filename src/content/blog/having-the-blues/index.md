@@ -1,6 +1,8 @@
 ---
 title: "Having the blues ..."
 pubDate: 2022-02-12 23:59:51
+categories:
+  - 3d-printing
 ---
 So I decided to play it safe, so as not to have to disassemble the PnP machine to try out different x-axis designs - when its solving the z-axis design that is actually (or should be) the focus.
 

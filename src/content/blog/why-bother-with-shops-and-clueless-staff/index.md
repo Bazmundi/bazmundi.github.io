@@ -1,6 +1,8 @@
 ---
 title: "Why bother with shops and clueless staff?"
 pubDate: 2013-07-14 04:12:05
+categories:
+  - hardware
 ---
 Adelaide is fairly poorly supported in the RC world.  It has stores but what is the point nowadays and especially when your staff are clueless.
 First up, I thought I would do the right thing and got to a local store and not buy my Universal Battery Elimination Circuit (UBEC) off the internet. I thought also I would buy my motor and ESC for the rock crawler from a local store too.

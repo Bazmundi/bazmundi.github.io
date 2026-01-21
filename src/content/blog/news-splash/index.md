@@ -1,6 +1,14 @@
 ---
 title: "NEWS SPLASH!"
 pubDate: 2013-03-19 10:09:35
+categories:
+  - air
+  - android
+  - arduino
+  - ground
+  - hardware
+  - sea
+  - sensing
 ---
 Waterproof mobile phones available between $70 single core and $140 dual core. [POSTSCRIPT Read later article](http://organicmonkeymotion.wordpress.com/2013/04/10/disappointing-but-go-figure/ "disappointing but go figure").
 [![water proof phone](./water-proof-phone.jpg)](./water-proof-phone.jpg)

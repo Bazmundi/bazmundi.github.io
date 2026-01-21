@@ -1,6 +1,10 @@
 ---
 title: "CrrrrrrrrrrrrrrrrrrAP!"
 pubDate: 2017-07-06 12:11:27
+categories:
+  - armbian
+  - linux
+  - orange-pi
 ---
 So, now with 3 pin serial and I have changed power supply (just in case that was the problem).
 I have a 2amp USB powerpack from my Samsung phone so that factors out power since problems persist even with the fragged board running on the new powerpack.

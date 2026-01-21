@@ -1,6 +1,8 @@
 ---
 title: "Oh the irony!"
 pubDate: 2025-01-02 11:31:18
+categories:
+  - rant
 tags:
   - explosion
   - musk

@@ -1,6 +1,9 @@
 ---
 title: "Homage upon Homage"
 pubDate: 2021-10-05 10:36:13
+categories:
+  - design-musings
+  - pnp
 ---
 So, a homage to both the corexy franchise (thanks to [VORON Legacy](https://www.vorondesign.com/voron_legacy)) and also to [Stephen Hawes and the index PnP](https://github.com/index-machines/index) community. It was Stephen's enthusiasm that encouraged me to build my own PnP from scratch (as "scratchy" as one can sitting on the shoulders of giants!).
 

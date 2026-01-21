@@ -1,6 +1,12 @@
 ---
 title: "Oh my, O Pi"
 pubDate: 2019-12-23 05:07:24
+categories:
+  - docker
+  - mqtt
+  - node-red
+  - raspberry-pirate
+  - raspingbreathburrydoodlepi
 ---
 Just about had enough of Orange Pi Zeros. My home server stopped serving again.
 

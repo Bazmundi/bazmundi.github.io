@@ -1,6 +1,8 @@
 ---
 title: "Memory leak"
 pubDate: 2013-10-22 11:50:41
+categories:
+  - the-downside-of-software-development
 ---
 Ah well, computer started slowing down, choking, screen blinking, non-responsive, blue screening.
 I uninstalled McAffee and viola!  So, McAffee installed ... memory leak and computer crash.  McAffee not installed. ... no memory leak and no computer crash.

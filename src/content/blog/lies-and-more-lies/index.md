@@ -1,6 +1,8 @@
 ---
 title: "Lies and more lies"
 pubDate: 2021-04-05 16:50:43
+categories:
+  - bad-vendor-aliexpress
 ---
 Search for ESP-12E on the Net.
 

@@ -1,6 +1,8 @@
 ---
 title: "Moldy but goody but .."
 pubDate: 2019-07-29 21:53:37
+categories:
+  - buyer-beware
 ---
 Dusted off my Acer Aspire One. Couldn't find power adapter. I had thrown a bunch of adapters out because I had so many. So I found a place to order one from. It turned up with the wrong country pins. Then I bothered to look and found the original charger. DOH!
 

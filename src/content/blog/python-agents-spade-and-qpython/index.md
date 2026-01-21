@@ -1,6 +1,10 @@
 ---
 title: "Python Agents, SPADE and QPython"
 pubDate: 2014-07-13 15:53:32
+categories:
+  - android
+  - open-source-can-be-professional
+  - python-rules
 ---
 [caption id="attachment\_1468" align="aligncenter" width="450"][![Gotta love open source ... sometimes](./pythonide.png)](./pythonide.png) Gotta love open source ... sometimes[/caption]
 So, I pulled together PyDev and a mystical FTP plugin (from general tools under Indego) to get access to my Android devices when writing QPython code.  I tried a couple of FTP servers on Android (including the neat FTP server that comes with QPython) but there was a road block.

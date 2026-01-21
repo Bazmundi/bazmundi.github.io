@@ -1,6 +1,13 @@
 ---
 title: "It's a form of self flaggelation ..."
 pubDate: 2018-09-06 04:49:07
+categories:
+  - mqtt
+  - node-red
+  - orange-pi
+  - the-downside-of-opensource
+  - thingbox
+  - ubuntu-core-16
 ---
 ... this snap stuff.
 What I have worked out so far with orangepi zero, Ubuntu Core 16 and Snap.

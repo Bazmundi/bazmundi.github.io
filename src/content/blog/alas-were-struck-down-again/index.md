@@ -1,6 +1,8 @@
 ---
 title: "Alas, we're struck down again"
 pubDate: 2021-08-03 03:01:59
+categories:
+  - pnp
 ---
 [![](./test-fit.jpeg)](./test-fit.jpeg)
 

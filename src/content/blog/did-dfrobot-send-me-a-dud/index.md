@@ -1,6 +1,8 @@
 ---
 title: "Did DFRobot send me a dud?"
 pubDate: 2016-10-29 07:42:36
+categories:
+  - rant
 ---
 You might remember I did have a previously run-in with DFRobot when I won a prize in one of their competitions but never got the prize.
 This time I forked out AUS$50 for a CurieNano.

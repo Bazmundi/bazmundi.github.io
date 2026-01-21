@@ -1,6 +1,9 @@
 ---
 title: "We seem to be on a run"
 pubDate: 2021-04-12 12:09:20
+categories:
+  - bad-vendor-aliexpress
+  - rant
 ---
 So, the ubiquitous MG90S servo.
 

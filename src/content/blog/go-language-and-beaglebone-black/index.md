@@ -1,6 +1,10 @@
 ---
 title: "Go Language and BeagleBone Black"
 pubDate: 2014-08-31 10:09:42
+categories:
+  - beaglebone-black
+  - embedded
+  - go-language
 ---
 Go figure.
 Go language examples at [Gobot](http://gobot.io/ "Go go beaglebone bot") leave out few pieces.

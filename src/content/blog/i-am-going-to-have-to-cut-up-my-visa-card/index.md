@@ -1,6 +1,10 @@
 ---
 title: "I am going to have to cut up my visa card"
 pubDate: 2013-09-05 13:02:14
+categories:
+  - air
+  - arduino
+  - hardware
 ---
 [![MWC](./42250.jpg)](./42250.jpg)
 So, couldn't help myself.

@@ -1,6 +1,8 @@
 ---
 title: "Animatronics it is"
 pubDate: 2024-10-23 04:15:34
+categories:
+  - animatronics-for-the-fun-of-it
 ---
 Since I've a box of 9g servos and a nutty idea.
 

@@ -1,6 +1,9 @@
 ---
 title: "Give me a break!"
 pubDate: 2019-03-08 23:53:15
+categories:
+  - robotics
+  - sensing
 ---
 So, you know the story behind [OpenSprinklette](https://organicmonkeymotion.wordpress.com/category/opensprinklette/).
 

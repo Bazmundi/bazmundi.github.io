@@ -1,6 +1,10 @@
 ---
 title: "It will do..."
 pubDate: 2016-11-07 07:33:42
+categories:
+  - cheap-obsolete-tech
+  - odroid-is-wonderful
+  - odroid-vs-raspingbreathburry
 ---
 ... now I can free one of my ODROID-W up from the chore of being the Thing-a-me-Box.
 ![](./wp-image-262814631jpg.jpg)

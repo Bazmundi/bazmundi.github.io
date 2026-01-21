@@ -1,6 +1,8 @@
 ---
 title: "All the fandangled ..."
 pubDate: 2021-10-05 08:49:01
+categories:
+  - test-bench
 ---
 ... DIY heat set press ideas out there, with 2020 extrusion, gantries, levers etc.
 

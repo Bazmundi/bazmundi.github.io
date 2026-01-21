@@ -1,6 +1,9 @@
 ---
 title: "Snap (by Synapse)"
 pubDate: 2012-06-29 08:33:16
+categories:
+  - hardware
+  - mesh
 ---
 [![11279-01_large](./11279-01_large1.jpg)](http://organicmonkeymotion.wordpress.com/2012/06/29/snap-by-synapse/11279-01_large-2/)
 

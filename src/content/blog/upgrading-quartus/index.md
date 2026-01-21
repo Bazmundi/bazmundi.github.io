@@ -1,6 +1,8 @@
 ---
 title: "Upgrading Quartus"
 pubDate: 2014-05-09 08:04:24
+categories:
+  - the-downside-of-software-development
 ---
 Well, that was my fault be being lazy.  Since the Quartus downloads take so much time, once I found 13.1 didn't have support for Cyclone II, I played safe and went for 10.1 sp1.
 I am now downloading and installing 11.1 sp2 software to get around problems with Qsim (hopefully) as well as giving me Cyclone II and Max II support (still).

@@ -1,6 +1,11 @@
 ---
 title: "Just brain storming"
 pubDate: 2024-08-26 12:51:51
+categories:
+  - grbl
+  - klipper
+  - openpnp
+  - solder-paste-robot
 ---
 Since a [solder paste robot](https://organicmonkeymotion.wordpress.com/category/solder-paste-robot/) is being hacked up here, I may as well do a little bit of musing.
 

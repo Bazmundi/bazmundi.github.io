@@ -1,6 +1,9 @@
 ---
 title: "Wow!"
 pubDate: 2023-09-23 04:23:28
+categories:
+  - hardware
+  - pnp
 ---
 As me Finder is clapped out (again), I am at my local maker space 3D printing something.
 

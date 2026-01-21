@@ -1,6 +1,8 @@
 ---
 title: "Almost there."
 pubDate: 2023-05-15 02:24:50
+categories:
+  - manual-pnp
 ---
 ![](./20230515_1100117127533640009598940.jpg)
 

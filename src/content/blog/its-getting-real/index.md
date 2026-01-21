@@ -1,6 +1,13 @@
 ---
 title: "It's getting REAL!"
 pubDate: 2016-07-12 09:42:28
+categories:
+  - esp8266
+  - lua
+  - mqtt
+  - node-red
+  - opensprinklette
+  - wifi
 ---
 ![20160712_183121](./20160712_183121.jpeg)
 So the four-4-US$12 flow sensors have turned up.  The minimum measurable flow rate appears to be 1 litre a minute.  To put this in perspective Bob Hawke (ex Australian Prime Minister) sculled a yard glass (1.4 litre) of beer in a record (for the time) [12 seconds](http://www.australiantimes.co.uk/hawkes-legend-the-true-story-of-the-yard-glass-yarn/).

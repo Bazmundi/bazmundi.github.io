@@ -1,6 +1,9 @@
 ---
 title: "That`s better"
 pubDate: 2013-06-22 08:25:27
+categories:
+  - hardware
+  - linux
 ---
 Post Ikea weekend tidy up.
 I bought a KVM switch and set up the two linux boxes off the monitor on the HP box.

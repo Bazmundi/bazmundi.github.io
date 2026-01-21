@@ -1,6 +1,10 @@
 ---
 title: "Ressurection!"
 pubDate: 2025-07-13 01:34:36
+categories:
+  - arduino
+  - development
+  - nostalgia
 ---
 I decided to modify an old project to add on a small SBC controller to command the HMBGC (gimbal controller) board.
 

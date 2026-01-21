@@ -1,6 +1,8 @@
 ---
 title: "Shssssssssssssh!"
 pubDate: 2020-04-03 23:27:11
+categories:
+  - rant
 ---
 Don't say [SARS](https://edition.cnn.com/2020/02/09/asia/wuhan-citizen-journalist-intl-hnk/index.html).
 

@@ -1,6 +1,9 @@
 ---
 title: "Research"
 pubDate: 2021-05-01 04:31:37
+categories:
+  - design-musings
+  - review
 ---
 While still waiting on bits for my bear build, and also toying with PnP, I thought a little education in order. So, currently reading:
 

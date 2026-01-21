@@ -1,6 +1,9 @@
 ---
 title: "That's attractive"
 pubDate: 2023-05-03 23:31:55
+categories:
+  - 3d-printing
+  - manual-pnp
 ---
 ![](./20230504_0758188392445885598221953.jpg)
 

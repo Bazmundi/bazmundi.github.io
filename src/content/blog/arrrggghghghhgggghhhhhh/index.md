@@ -1,6 +1,9 @@
 ---
 title: "Arrrggghghghhgggghhhhhh!"
 pubDate: 2021-11-13 07:35:26
+categories:
+  - bear-build
+  - rant
 ---
 So many niggly things.
 

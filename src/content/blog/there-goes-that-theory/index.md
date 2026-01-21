@@ -1,6 +1,9 @@
 ---
 title: "There goes that theory"
 pubDate: 2015-12-21 09:03:46
+categories:
+  - doodling
+  - hardware
 ---
 As a kid we had an ultrasonic control for the television and I used to torment the dogs with it as they would react whenever it was used.
 Fast forward and I am trying to find ways to keep out dogs out of patches of garden and especially the lawn.

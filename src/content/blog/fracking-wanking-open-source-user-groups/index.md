@@ -1,6 +1,9 @@
 ---
 title: "Fracking wanking open source user groups"
 pubDate: 2018-09-07 23:02:12
+categories:
+  - the-downside-of-opensource
+  - ubuntu-core-16
 ---
 Well not really open source. It's Ubuntu.
 Ubuntu that commercial Debian front trying to steal back money having jumped on the "software should be free" band wagon.

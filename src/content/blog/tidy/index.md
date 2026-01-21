@@ -1,6 +1,9 @@
 ---
 title: "Tidy!"
 pubDate: 2024-09-01 06:11:20
+categories:
+  - test-bench
+  - tools-for-the-job
 ---
 I was looking for something to tidy up some of my tool and lab equipment storage.
 

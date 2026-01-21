@@ -1,6 +1,11 @@
 ---
 title: "The problem with the internet ..."
 pubDate: 2017-06-17 10:48:10
+categories:
+  - linux
+  - node-red
+  - orange-pi
+  - the-downside-of-opensource
 ---
 ... and all you need is that one page you can get to from anywhere in the world, though it might be obfuscated by all the other pseudo pages on the same topic.
 So, to get the node-red to run on boot I used the [following (see "Starting Node-RED on boot")](https://nodered.org/docs/getting-started/running)(as root):

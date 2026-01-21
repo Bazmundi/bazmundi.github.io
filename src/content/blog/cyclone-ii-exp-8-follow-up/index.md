@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.8 - follow up"
 pubDate: 2014-04-22 06:48:20
+categories:
+  - cyclone-ii-experiments
 ---
 Okay, so a quick break from study and voila!!
 [caption id="attachment\_1173" align="aligncenter" width="240"]![Seemple *tick*.](./meerkat.jpg) Seemple \*tick\*.[/caption]

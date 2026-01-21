@@ -1,6 +1,9 @@
 ---
 title: "Reverse engineering for the benefit ..."
 pubDate: 2026-01-12 08:16:13
+categories:
+  - 3d-printing
+  - smt-feeders
 ---
 ... of yawl.
 

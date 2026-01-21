@@ -1,6 +1,13 @@
 ---
 title: "HA+ESPHome no good for critical systems"
 pubDate: 2020-05-02 06:35:23
+categories:
+  - esphome
+  - home-assistant
+  - opensprinklette
+  - raspingbreathburrydoodlepi
+  - the-downside-of-opensource
+  - the-downside-of-software-development
 ---
 Ah, actually, I think I have to go away from using ESPHome and homeassistant combination for OpenSprinklette in any event.
 

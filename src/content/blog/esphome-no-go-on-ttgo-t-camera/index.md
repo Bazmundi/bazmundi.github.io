@@ -1,6 +1,10 @@
 ---
 title: "ESPHome no-go on TTGO T-Camera"
 pubDate: 2021-03-07 23:39:54
+categories:
+  - esp32
+  - esphome
+  - the-downside-of-opensource
 ---
 What a pain.
 

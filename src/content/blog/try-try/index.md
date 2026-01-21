@@ -1,6 +1,10 @@
 ---
 title: "Try, try ..."
 pubDate: 2017-06-22 14:48:42
+categories:
+  - orange-pi
+  - parabuntu
+  - parallella
 ---
 So, I am scratching the OPiZ SD and starting again to see if that recovers the issue around the system no longer booting up with ethernet.
 Straightforward enough.  I used SDFormatter to reformat the SD card.  I am just rebombing with the arbian distro.

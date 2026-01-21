@@ -1,6 +1,9 @@
 ---
 title: "CoreXY PNP anyone?"
 pubDate: 2021-04-25 06:38:28
+categories:
+  - design-musings
+  - pnp
 ---
 While I am starting out with a manual pnp, I am still playing around with what if for an automatic pnp.
 

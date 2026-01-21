@@ -1,6 +1,9 @@
 ---
 title: "Almost there ..."
 pubDate: 2014-11-07 10:06:49
+categories:
+  - odroid-w
+  - raspberry-pirate
 ---
 ... Raspberry Pirate (ODROID-W) up.
 I had to buy a micro HDMI cable as it turns out I have to recompile kernel to get the LCD going on the base or docking board for the OROID-W.

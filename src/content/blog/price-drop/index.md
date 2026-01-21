@@ -1,6 +1,8 @@
 ---
 title: "Price drop ..."
 pubDate: 2017-04-22 07:30:39
+categories:
+  - design-rather-than-hacking
 ---
 ... probably as the technology has waned.
 Still.

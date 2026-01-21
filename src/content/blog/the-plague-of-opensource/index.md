@@ -1,6 +1,8 @@
 ---
 title: "The Plague of opensource"
 pubDate: 2012-05-30 12:24:12
+categories:
+  - the-downside-of-software-development
 ---
 Yes I said it - Open source is a plague.
 Makes me hot and cold.

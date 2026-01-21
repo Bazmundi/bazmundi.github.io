@@ -1,6 +1,8 @@
 ---
 title: "Automatic PnP updates"
 pubDate: 2022-03-24 10:47:23
+categories:
+  - pnp
 ---
 If you haven't popped over to my video channel, for your information ...
 

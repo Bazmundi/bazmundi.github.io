@@ -1,6 +1,8 @@
 ---
 title: "WARNING BOGUS OZ SITES SCAM"
 pubDate: 2019-08-15 12:30:40
+categories:
+  - sucky-service-providers
 ---
 I am probably behind the times but...
 

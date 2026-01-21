@@ -1,6 +1,8 @@
 ---
 title: "Super Dooper Computer"
 pubDate: 2016-03-25 02:04:32
+categories:
+  - odroid-is-wonderful
 ---
 All things come to those who wait.
 Two mates came to party with free gifts.

@@ -1,6 +1,9 @@
 ---
 title: "Gotta hate/love opensource"
 pubDate: 2012-09-03 14:04:58
+categories:
+  - software
+  - the-downside-of-software-development
 ---
 Go figure, now that I am chaffing at bit I am sucking in Python modules and trying to compile this and that and ...
 Of course, you can't hook all you want to into one installation of Python.  Some muck is 32bit, some muck is 64bit.

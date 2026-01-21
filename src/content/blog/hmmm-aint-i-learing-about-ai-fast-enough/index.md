@@ -1,6 +1,9 @@
 ---
 title: "Hmmm, AIn't I learing about AI fast enough?"
 pubDate: 2025-01-25 07:35:55
+categories:
+  - agent
+  - ai
 tags:
   - animation
   - technology

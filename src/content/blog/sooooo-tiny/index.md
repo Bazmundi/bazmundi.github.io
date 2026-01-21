@@ -1,6 +1,8 @@
 ---
 title: "Sooooo Tiny!"
 pubDate: 2021-11-10 10:43:14
+categories:
+  - pnp
 ---
 [![](./so-close.jpg)](./so-close.jpg)
 

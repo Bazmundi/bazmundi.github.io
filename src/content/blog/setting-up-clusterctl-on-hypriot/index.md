@@ -1,6 +1,8 @@
 ---
 title: "Setting up clusterctl on Hypriot"
 pubDate: 2020-09-01 06:37:12
+categories:
+  - uncategorized
 ---
 Manually install [clusterctl](https://8086.support/?action=faq&cat=23&id=120&artlang=en). This will install fine but not run.
 

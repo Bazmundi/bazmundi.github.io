@@ -1,6 +1,8 @@
 ---
 title: "Almost there with z-axis from my PnP"
 pubDate: 2022-07-31 05:39:06
+categories:
+  - pnp
 ---
 So, a little break from the problem, and the problem appears now to be solved. The z-axis for the PnP has 4 M3 holes with room for screw heads. So I opted for a slot to hold the z-axis and simply will put four M3 heat set into it (see Fig 4). Sure, throwing away the magnetic quick release option - c’est la vie.
 

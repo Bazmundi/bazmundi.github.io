@@ -1,6 +1,9 @@
 ---
 title: "Blues no more"
 pubDate: 2022-02-13 09:51:22
+categories:
+  - 3d-printing
+  - pnp
 ---
 [![](./20220213_100703.jpg)](./20220213_100703.jpg)
 

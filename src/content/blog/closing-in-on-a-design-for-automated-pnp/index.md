@@ -1,6 +1,9 @@
 ---
 title: "Closing in on a design for automated PnP"
 pubDate: 2021-09-26 01:07:47
+categories:
+  - design-musings
+  - pnp
 ---
 I found the Voron range of open source corexy printers. The V0 and V1 seem options for my craving for a corexy driven PnP. BUT.
 

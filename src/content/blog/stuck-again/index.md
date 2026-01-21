@@ -1,6 +1,9 @@
 ---
 title: "Stuck again"
 pubDate: 2017-12-18 07:56:29
+categories:
+  - the-downside-of-opensource
+  - the-downside-of-software-development
 ---
 So, I have my iPEGA bluetooth gamepad and I am wanting it to run from my dopey Android phone that I am using as the mediator for the rover.
 Nothing useful for using these gamepads in Processing for Android so that appears to be out.

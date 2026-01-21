@@ -1,6 +1,9 @@
 ---
 title: "Why ..."
 pubDate: 2017-06-24 01:03:26
+categories:
+  - parabuntu
+  - parallella
 ---
 ... am I torturing myself?
 So, yes here we go again.

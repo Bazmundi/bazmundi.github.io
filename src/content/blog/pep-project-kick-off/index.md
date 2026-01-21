@@ -1,6 +1,10 @@
 ---
 title: "PEP Project kick off"
 pubDate: 2017-08-01 02:29:11
+categories:
+  - mqtt
+  - pep-project
+  - wemos-d1-r2
 ---
 So, I downloaded and installed and then run Arduino IDE 1.8.3.
 I included the ESP8266 core.

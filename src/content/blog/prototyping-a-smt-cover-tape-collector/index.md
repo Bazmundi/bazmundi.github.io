@@ -1,6 +1,10 @@
 ---
 title: "Prototyping a SMT cover tape \"collector\""
 pubDate: 2021-11-14 05:30:34
+categories:
+  - design-musings
+  - pnp
+  - smt-cover-tape-collector
 ---
 So, I kept seeing a style of SMT cover tape collector (see blue and white spools on the left in Figure 1).
 

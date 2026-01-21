@@ -1,6 +1,9 @@
 ---
 title: "Upgrade!!"
 pubDate: 2021-04-30 09:52:37
+categories:
+  - hardware
+  - test-bench
 ---
 Managed to sell a swag of bits from my parts drawers on ebay to upgrade my dangerous prototypes logic sniffer.  There was enough to buy an LA5016.
 

@@ -1,6 +1,12 @@
 ---
 title: "Tax return is in"
 pubDate: 2017-04-30 13:05:45
+categories:
+  - chapel
+  - odroid-is-wonderful
+  - odroid-c1
+  - odroid-xu4
+  - parallel-talk
 ---
 Well late really, last two years after tax department started writing letters.
 Serve them right as I got a quite hefty lump sum out of it.

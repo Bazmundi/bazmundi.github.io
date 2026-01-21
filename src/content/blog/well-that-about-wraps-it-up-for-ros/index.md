@@ -1,6 +1,8 @@
 ---
 title: "Well that about wraps it up for ROS ..."
 pubDate: 2013-08-06 10:29:42
+categories:
+  - agent
 ---
 ... more or less.
 The gist is I have been looking at ways of building a mission management system for my UAV/UUV/UAS/AUV in and around Python.

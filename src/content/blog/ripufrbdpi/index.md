@@ -1,6 +1,9 @@
 ---
 title: "RIPuFRBDPi"
 pubDate: 2016-12-02 10:33:39
+categories:
+  - rant
+  - raspingbreathburrydoodlepi
 ---
 Rest in Pieces you Fracking RaspingBreathBurryDOodlePi (RIPuFRBDPi).
 Rest in Pieces.

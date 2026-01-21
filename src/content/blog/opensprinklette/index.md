@@ -1,6 +1,13 @@
 ---
 title: "OpenSprinklette"
 pubDate: 2016-06-29 12:59:23
+categories:
+  - embedded
+  - esp8266
+  - iot
+  - lua
+  - mqtt
+  - networking
 ---
 So, just got delivery of my 5 WeMOS uno clones ...
  

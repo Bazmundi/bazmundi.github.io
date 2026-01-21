@@ -1,6 +1,8 @@
 ---
 title: "Finally!"
 pubDate: 2016-10-04 07:33:47
+categories:
+  - robocatus-maximus
 ---
 No info on the Turnigy 9x8C V2 receiver \*groan\*.
 Turns out SIGNAL on the top row.

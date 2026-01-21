@@ -1,6 +1,11 @@
 ---
 title: "Putting that raspingdoodleberry Pi to good use"
 pubDate: 2019-12-22 07:02:41
+categories:
+  - docker
+  - raspberry-pirate
+  - raspingbreathburrydoodlepi
+  - the-downside-of-opensource
 ---
 So, used Etcher to burn an SD with HypriotOS at:
 

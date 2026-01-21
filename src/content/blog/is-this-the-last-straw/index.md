@@ -1,6 +1,9 @@
 ---
 title: "Is this the last straw?"
 pubDate: 2017-06-21 13:09:12
+categories:
+  - linux
+  - orange-pi
 ---
 So, now after a couple of weeks of dicking around trying to sort the booting of the OPiZ - so it starts up with node-red and emqttd, it works!
 Or at least I can say the both services start up.

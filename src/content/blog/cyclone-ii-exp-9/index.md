@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.9"
 pubDate: 2014-04-23 03:11:53
+categories:
+  - cyclone-ii-experiments
 ---
 I skipped through a couple of the other examples for the board and they were naff (niff naff and trivia).
 I jumped straight to the 2nd last one and it puzzled me a little so we'll go over that one - I think we need to start stretching ourselves somewhat after this one.

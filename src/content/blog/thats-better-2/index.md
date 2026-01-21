@@ -1,6 +1,8 @@
 ---
 title: "That's better!"
 pubDate: 2023-11-25 05:13:58
+categories:
+  - monsta-pc-build
 ---
 [![](./pro-cex6xugt.jpeg)](./pro-cex6xugt.jpeg)
 

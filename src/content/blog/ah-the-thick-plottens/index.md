@@ -1,6 +1,9 @@
 ---
 title: "Ah, the thick plottens!"
 pubDate: 2017-06-24 13:54:00
+categories:
+  - linux
+  - networking
 ---
 So, even with the static IP set on the parallella the TerraTerm console keeps disconnecting after a time.
 Then it dawned on me, the connection was being broken because the PC IP would expire and pick up another from the DHCP in the router.

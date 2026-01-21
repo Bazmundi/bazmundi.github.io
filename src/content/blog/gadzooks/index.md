@@ -1,6 +1,9 @@
 ---
 title: "GADZOOKS!"
 pubDate: 2021-05-05 12:09:45
+categories:
+  - design-musings
+  - pnp
 ---
 When was the last time you heard that!
 

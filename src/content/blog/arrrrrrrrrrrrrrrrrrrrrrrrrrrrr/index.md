@@ -1,6 +1,8 @@
 ---
 title: "Arrrrrrrrrrrrrrrrrrrrrrrrrrrrr..."
 pubDate: 2017-05-10 11:39:43
+categories:
+  - help-request
 ---
 ...rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggghhhhh!
 The new lens turned up for my [PX4FLOW](https://organicmonkeymotion.wordpress.com/2017/04/22/price-drop/) BUT, of course, it cam wrapped in foam, no details and no markings to confirm it is, in fact a 3.6mm f/l.

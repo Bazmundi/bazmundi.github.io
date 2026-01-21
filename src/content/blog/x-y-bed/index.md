@@ -1,6 +1,8 @@
 ---
 title: "X Y Bed"
 pubDate: 2021-03-05 08:35:51
+categories:
+  - machining
 ---
 So, I was trying to think how to get to place where I could do limited machining of plastic and aluminium short of CNC machining, while I save for CNC machine.
 

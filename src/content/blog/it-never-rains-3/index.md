@@ -1,6 +1,8 @@
 ---
 title: "It never rains ..."
 pubDate: 2017-04-22 01:43:49
+categories:
+  - opensprinklette
 ---
 ... and I have just got back to my web-based sprinkler to find, with writing papers for conferences and work deadlines, my google api tokens were dodgy.   The reasons are [clearly explained](https://developers.google.com/identity/protocols/OAuth2#expiration) in the api documents.
 So I deleted the credentials and created a new set.  All working fine again.

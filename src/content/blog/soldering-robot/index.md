@@ -1,6 +1,8 @@
 ---
 title: "Soldering robot"
 pubDate: 2024-08-15 04:59:53
+categories:
+  - solder-paste-robot
 ---
 ![](./20240815_1403474062551886169672066.jpg)
 

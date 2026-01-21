@@ -1,6 +1,11 @@
 ---
 title: "Head of steam ..."
 pubDate: 2013-06-11 12:12:08
+categories:
+  - hardware
+  - linux
+  - software
+  - software-framework
 ---
 [MOOS-IVP running!](http://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage "Autonomous framwork for UUV et al")
 [![MOOS-IVP running](./moos1.png)](./moos1.png)

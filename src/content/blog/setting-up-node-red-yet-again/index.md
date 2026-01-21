@@ -1,6 +1,9 @@
 ---
 title: "Setting up node-red yet again"
 pubDate: 2017-07-20 13:39:46
+categories:
+  - linux
+  - orange-pi
 ---
 Are you still with me? I wouldn't be, it's been such a pain. Because network manager appears flaky somehow.
 On the Armbian.com distro the /etc/network/interfaces file told you directly to use network manager and nmtui. This intimated that you couldn't edit up the interfaces file.

@@ -1,6 +1,9 @@
 ---
 title: "Standing tall!"
 pubDate: 2021-10-03 02:46:30
+categories:
+  - design-musings
+  - pnp
 ---
 So, given I had to lift the x-gantry up to 80mm, I have updated the stanchions from Figure 1 to Figure 2.
 

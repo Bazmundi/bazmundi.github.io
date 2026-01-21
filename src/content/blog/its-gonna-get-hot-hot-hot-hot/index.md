@@ -1,6 +1,8 @@
 ---
 title: "It's gonna get hot hoT hOT HOT!"
 pubDate: 2022-08-03 10:43:35
+categories:
+  - pnp
 ---
 Tracked down [150mm x150mm x 3mm insulation plate](https://www.ebay.com.au/itm/124668842387). Ordered that and a [160mm x 160mm 12volt heated plate](https://www.aliexpress.com/item/1005004110358095.html?spm=a2g0o.order_list.0.0.36891802s171cr).
 

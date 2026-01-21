@@ -1,6 +1,9 @@
 ---
 title: "Options, nice to have options."
 pubDate: 2021-10-04 06:00:24
+categories:
+  - design-musings
+  - pnp
 ---
 So, recapping, the options are endless.
 

@@ -1,6 +1,9 @@
 ---
 title: "Gawd Awful!~"
 pubDate: 2021-02-02 09:36:54
+categories:
+  - rant
+  - the-downside-of-opensource
 ---
 So, a little while ago I had ordered 5 boards based upon the [ESP32 WiFi Robot design](https://hackaday.io/project/163542-esp32-wifi-robot).
 

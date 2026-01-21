@@ -1,6 +1,8 @@
 ---
 title: "Give me one ping Captain ..."
 pubDate: 2015-08-18 04:18:48
+categories:
+  - the-downside-of-opensource
 ---
 ... please! Just one lousy ping.
 [caption id="attachment\_1117" align="aligncenter" width="300"][![PinG!!](./ping.png)](./ping.png) Pinarrrrggggggggggggh![/caption]

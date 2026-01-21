@@ -1,6 +1,9 @@
 ---
 title: "Grrrr"
 pubDate: 2014-07-08 13:38:52
+categories:
+  - cyclone-ii-experiments
+  - fpga
 ---
 Okay, so I set myself a task to discover why I was getting ghosting in the display for Part VI of [LAB 1](http://organicmonkeymotion.wordpress.com/2014/06/30/vhdl-digital-logic-lab-1-cont/ "VHDL DIGITAL LOGIC LAB 1 Final").
 The black and white box shows the ghost "A".

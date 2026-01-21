@@ -1,6 +1,11 @@
 ---
 title: "Resignation ..."
 pubDate: 2025-08-24 00:15:25
+categories:
+  - cnc
+  - cnc-machining
+  - dremel-cnc-machine
+  - rant
 tags:
   - diy
   - dremel

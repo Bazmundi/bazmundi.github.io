@@ -1,6 +1,10 @@
 ---
 title: "No such thing as a Ghost"
 pubDate: 2015-07-12 08:16:07
+categories:
+  - altera-labs
+  - cyclone-ii-experiments
+  - fpga
 ---
 Well, not anymore.
 You may or may not recall during the LAB I work that we knocked up a module to allow our Master 21EDA board to behave somewhat like a Altera DE1 board with respect to the way the displays worked.

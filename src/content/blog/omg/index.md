@@ -1,6 +1,9 @@
 ---
 title: "OMG!"
 pubDate: 2015-08-23 13:56:01
+categories:
+  - processing
+  - prototyping
 ---
 I have IntelliJ IDEA on my desktop, I sort of flick between it, Eclipse JDT etc.  I had actually pulled it up to use it for my Elixir and Erlang programming.
 Turns out BoofCV has a Gradle build and is IDEA friendly so I thought I would poke around and make a few changes.

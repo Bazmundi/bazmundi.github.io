@@ -1,6 +1,10 @@
 ---
 title: "node-red on docker - problem solved"
 pubDate: 2019-12-24 02:15:32
+categories:
+  - docker
+  - hypriotos
+  - networking
 ---
 So, I gave up on my OPI Zero as the house server, because it kept disconnecting. I did then try to buzz out a second OPI Zero, but with the same result.
 

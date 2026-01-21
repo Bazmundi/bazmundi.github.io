@@ -1,6 +1,8 @@
 ---
 title: "Clutching at ..."
 pubDate: 2022-10-11 06:19:14
+categories:
+  - manual-pnp
 ---
 ... pcb.
 

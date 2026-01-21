@@ -1,6 +1,8 @@
 ---
 title: "Repurposing a phone stand"
 pubDate: 2024-09-29 03:17:24
+categories:
+  - test-bench
 ---
 [![](./20240928_170438.jpg)](./20240928_170438.jpg)
 

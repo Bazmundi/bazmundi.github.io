@@ -1,6 +1,9 @@
 ---
 title: "Tidy"
 pubDate: 2025-03-01 10:50:05
+categories:
+  - 3d-printing
+  - tools-for-the-job
 ---
 Just grabbed a parametric tough box off printables, fiddled with the parameters.
 

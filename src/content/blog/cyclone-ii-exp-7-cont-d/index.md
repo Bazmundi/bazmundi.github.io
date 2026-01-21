@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.7 - follow up"
 pubDate: 2014-04-05 01:07:59
+categories:
+  - cyclone-ii-experiments
 ---
 Okay, so we talked about [blinking the 7\_Segment display](http://organicmonkeymotion.wordpress.com/2014/04/04/cyclone-ii-exp-7/ "Cyclone II-Exp.7").
 Now we can look ahead at some of the other examples but I thought it instructive to try with the current example and a search of the interwebything for some ideas so I went for dividing the clock input with a 30bit divider - mostly so I could tune the rate.

@@ -1,6 +1,9 @@
 ---
 title: "Wired up, finally ..."
 pubDate: 2025-10-17 02:03:43
+categories:
+  - test-bench
+  - the-rig
 ---
 ... just needs testing the wire bundling.
 

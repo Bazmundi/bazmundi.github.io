@@ -1,6 +1,10 @@
 ---
 title: "Around the buoy again ..."
 pubDate: 2017-07-27 10:41:10
+categories:
+  - linux
+  - mqtt
+  - orange-pi
 ---
 So, after thrashing the nodejs, node-red, npm install for a few days (by rebooting every 5 minutes) we have decided those aspects were not causing the problems with the ethernet and usb devices collapsing.
 I just began the next stage by installing erlang/elixir and have begun the chore of re-installing emqttd.

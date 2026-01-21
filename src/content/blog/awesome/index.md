@@ -1,6 +1,8 @@
 ---
 title: "Awesome!"
 pubDate: 2021-06-03 10:56:33
+categories:
+  - test-bench
 ---
 What's different about me workbench?
 

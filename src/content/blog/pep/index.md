@@ -1,6 +1,12 @@
 ---
 title: "PEP"
 pubDate: 2017-07-20 22:41:00
+categories:
+  - arduino
+  - iot
+  - mqtt
+  - networking
+  - wifi
 ---
 So, following up after a previous promise I got myself a cheap arduino touch screen that was on sale, to act as a Programmable Entry Panel or PEP.
 ![](./wp-1500589926770.jpg)

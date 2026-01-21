@@ -1,6 +1,8 @@
 ---
 title: "Looking good!"
 pubDate: 2023-11-26 03:29:19
+categories:
+  - monsta-pc-build
 ---
 So, Debian install was a FAIL! I couldn't get the thing to get past:
 

@@ -1,6 +1,8 @@
 ---
 title: "Gotta be happy with that!"
 pubDate: 2024-10-16 10:18:58
+categories:
+  - monsta-pc-build
 ---
 I may or may not have mentioned, my MonstaPC was down with the lurgy, meaing I got bitten by the MSI liquid cooler recall a few months ago. MSI how outsourced their radiator production, and the supplier hadn't cleaned the radiators after making them (and I guess no means to receipt inspect items by MSI), so they eventually clagged up.
 

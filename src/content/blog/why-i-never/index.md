@@ -1,6 +1,8 @@
 ---
 title: "Why I never"
 pubDate: 2025-12-20 22:42:33
+categories:
+  - ai
 tags:
   - artificial-intelligence
   - chatgpt

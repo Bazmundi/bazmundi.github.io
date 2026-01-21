@@ -1,6 +1,8 @@
 ---
 title: "ALRIGHT ALREADY! Sheesh!"
 pubDate: 2023-11-14 10:47:28
+categories:
+  - bear-build
 ---
 Okay, okay.
 

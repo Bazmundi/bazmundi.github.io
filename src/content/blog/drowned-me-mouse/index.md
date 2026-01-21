@@ -1,6 +1,10 @@
 ---
 title: "Drowned me mouse"
 pubDate: 2024-12-18 00:28:52
+categories:
+  - 3d-modelling
+  - animations-for-the-fun-of-it
+  - input-devices
 tags:
   - logitech
 ---

@@ -1,6 +1,10 @@
 ---
 title: "Connecting NodeMCU to a NTP server"
 pubDate: 2016-07-04 17:03:32
+categories:
+  - embedded
+  - lua
+  - nodemcu
 ---
 Ignore the IP suggested in [example](https://nodemcu.readthedocs.io/en/master/en/modules/sntp/#sntpsync).
 Search google for "NTP server".

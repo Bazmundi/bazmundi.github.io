@@ -1,6 +1,9 @@
 ---
 title: "Interferences ..."
 pubDate: 2022-01-04 00:12:32
+categories:
+  - bear-build
+  - vblog
 ---
 ... with Bear Build.
 

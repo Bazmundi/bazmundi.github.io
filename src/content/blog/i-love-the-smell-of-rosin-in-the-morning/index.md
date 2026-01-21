@@ -1,6 +1,10 @@
 ---
 title: "I love the smell of rosin in the morning ..."
 pubDate: 2013-06-23 10:00:05
+categories:
+  - arduino
+  - autopilot
+  - hardware
 ---
 ... or the evening.
 [![The things we do...](./20130623_190243.jpeg)](./20130623_190243.jpeg)

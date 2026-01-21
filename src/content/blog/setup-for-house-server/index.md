@@ -1,6 +1,11 @@
 ---
 title: "Setup for home automation server"
 pubDate: 2017-06-25 14:16:33
+categories:
+  - linux
+  - mqtt
+  - node-red
+  - orange-pi
 ---
 So, setup for house server on Orange Pi Zero 512kB using:
 

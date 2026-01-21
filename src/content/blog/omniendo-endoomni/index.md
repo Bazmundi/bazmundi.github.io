@@ -1,6 +1,9 @@
 ---
 title: "OmniEndo?? EndoOmni??"
 pubDate: 2014-04-22 14:13:48
+categories:
+  - sensing
+  - vision
 ---
 Endo camera modules on way:
 [caption id="attachment\_1183" align="aligncenter" width="214"][![This won't hurt a bit ;)](./endo.png)](./endo.png) This won't hurt a bit ;)[/caption]

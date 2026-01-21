@@ -1,6 +1,9 @@
 ---
 title: "So much for Etcher ..."
 pubDate: 2017-07-01 10:13:52
+categories:
+  - armbian
+  - orange-pi
 ---
 ... after all the fanfare:
 ![Boom](./boom.png)

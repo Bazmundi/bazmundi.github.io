@@ -1,6 +1,8 @@
 ---
 title: "What FUN!"
 pubDate: 2020-09-21 12:45:46
+categories:
+  - fpga
 ---
 About, god is it? About 40 years ago I did rather dabble in FORTH and was interested in PLD and did write a CUPLike compiler for myself, manly because commercial gear cost so much in those days.
 

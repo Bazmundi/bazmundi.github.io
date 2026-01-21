@@ -1,6 +1,9 @@
 ---
 title: "The fallacy that is open source hardware"
 pubDate: 2016-11-12 05:23:12
+categories:
+  - anti-maker-sentiment
+  - the-downside-of-opensource
 ---
 I think, in truth, the idea of open source hardware is a dud.
 It is unfathomable that, somehow, the idea that while designs are "free" it makes sense as a business model.  Someone has to pay for the hardware.

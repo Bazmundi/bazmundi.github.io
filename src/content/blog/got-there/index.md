@@ -1,6 +1,10 @@
 ---
 title: "Got there"
 pubDate: 2014-07-23 11:41:57
+categories:
+  - dsp
+  - dsp-laboratory
+  - hardware
 ---
 So, a little birds nesting and a lot of fiddling convinced me from moving away from the [AD chip with opto-couplers](http://organicmonkeymotion.wordpress.com/2014/06/29/getting-there/ "Getting there").  So, I went for a MAX232 after all, with benefits.
 [caption id="attachment\_1472" align="aligncenter" width="300"][![db9rs232](./db9rs232.png)](./db9rs232.png) Why not?[/caption]

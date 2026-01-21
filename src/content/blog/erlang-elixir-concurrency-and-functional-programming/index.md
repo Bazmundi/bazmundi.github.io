@@ -1,6 +1,9 @@
 ---
 title: "Erlang, Elixir, concurrency and functional programming"
 pubDate: 2014-09-14 11:15:59
+categories:
+  - concurrency
+  - erlang
 ---
 I toyed with Erlang a little while ago as I enjoyed functional programming in my early days.
 In fact, I fell back into Erlang recently when I found people were doing for erlang VM what they'd been doing for the Java JVM - writing other languages that compiled to the VM.

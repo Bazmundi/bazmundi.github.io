@@ -1,6 +1,9 @@
 ---
 title: "Killing time"
 pubDate: 2023-05-15 06:32:22
+categories:
+  - 3d-printing
+  - machining
 ---
 So, I was in the middle of stuff and thought to get a 3D print going. As much to check out the printer, since I had reseated the flat cable on the motherboard, thought I had sorted the printing glitch, then had another half print. But was it the stale black filament?
 

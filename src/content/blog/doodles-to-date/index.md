@@ -1,6 +1,8 @@
 ---
 title: "Doodles to date"
 pubDate: 2012-05-29 06:09:42
+categories:
+  - vision
 ---
 So,  doodles to date:
 

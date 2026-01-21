@@ -1,6 +1,10 @@
 ---
 title: "Stop me"
 pubDate: 2015-09-09 11:10:45
+categories:
+  - altera-labs
+  - fpga
+  - fpga-max10
 ---
 God. I am like a little kid. Turned 56, my parents sent me a check. I hid it from the wife and bought myself a BeMicro MAX 10 board.
 [![uCore on BeMicro](./ucore-on-bemicro.png)](./ucore-on-bemicro.png)

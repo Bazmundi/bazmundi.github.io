@@ -1,6 +1,9 @@
 ---
 title: "Going wireless"
 pubDate: 2012-05-22 11:42:44
+categories:
+  - ground
+  - software
 ---
 At home recuperating after surgery, so I can spend a couple of hours sitting tinkering so I don't go stir crazy.
 Previously I mentioned I got hold of a DFRobot Bluetooth dongle for my DFRobot Romeo (All-In-One).  It decided to try the basic example to see if the bluetooth dongle on my laptop would work with it.

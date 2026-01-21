@@ -1,6 +1,10 @@
 ---
 title: "Zippity do dah, zippity ZAPPP!"
 pubDate: 2016-12-25 21:53:58
+categories:
+  - hardware
+  - sensing
+  - the-after-market
 ---
 Looking at OpenSprinkler circuit, the use of SCR to control the solenoids appears to require the addition of TVS diodes a plenty.
 That would be a design decision.

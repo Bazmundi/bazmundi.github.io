@@ -1,6 +1,12 @@
 ---
 title: "Itz here!"
 pubDate: 2021-03-03 07:53:02
+categories:
+  - aquaponics-and-the-like
+  - development
+  - esp32
+  - hardware
+  - sensing
 ---
 ![](./20210303_1821313139696792465948406.jpg)
 

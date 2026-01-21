@@ -1,6 +1,9 @@
 ---
 title: "Not bad"
 pubDate: 2019-05-04 14:19:18
+categories:
+  - 3d-printing
+  - robotics
 ---
 So, I did a print of the wheel hub. It turned out I tight fit. Too tight to insert the motor without having to sand the inner surface of the collar that will hug the outrunner.
 

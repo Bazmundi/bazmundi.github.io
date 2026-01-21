@@ -1,6 +1,10 @@
 ---
 title: "picky, picky, picky"
 pubDate: 2021-03-02 13:07:58
+categories:
+  - development
+  - hardware
+  - pnp
 ---
 So, it occurred to me, watching videos of people hand placing smt devices with tweezers, that I might get the shitz up with the fiddling AND my eyes are not what they were. Still for very small jobs I have a USB microscope for the laptop.
 

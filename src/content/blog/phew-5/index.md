@@ -1,6 +1,10 @@
 ---
 title: "Phew!"
 pubDate: 2021-05-11 12:29:54
+categories:
+  - design-musings
+  - hardware
+  - opensprinklette
 ---
 Lost my link for the basic circuit I have been using to convert 24VAC down to 5VDC when I cleared a folder of links to aquaponics.
 

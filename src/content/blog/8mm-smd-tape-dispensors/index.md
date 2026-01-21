@@ -1,6 +1,9 @@
 ---
 title: "8mm SMD tape dispensors"
 pubDate: 2025-11-14 23:15:28
+categories:
+  - manual-pnp
+  - pnp-trays
 ---
 SMD tape dispensors from [here](https://www.printables.com/model/580643-smd-component-tape-magazine-8-12-16mm).
 

@@ -1,6 +1,8 @@
 ---
 title: "The real story."
 pubDate: 2016-10-06 12:49:44
+categories:
+  - robocatus-maximus
 ---
 Wiring up your EMAX Simonk 12A ESC with your outrunner.  The motors that come with the kit are the EMAX MT2204-2300KV (not the one in the photo below).  Leads 1, 2 and 3 from left (Figure 1).
 [caption id="attachment\_2654" align="alignnone" width="345"]![wires](./wires.png) Figure 1[/caption]

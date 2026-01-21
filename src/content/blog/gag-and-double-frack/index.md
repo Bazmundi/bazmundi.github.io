@@ -1,6 +1,10 @@
 ---
 title: "Gag and double frack!"
 pubDate: 2018-03-28 11:20:08
+categories:
+  - sucky-wucky-raspingbreathburry
+  - the-downside-of-opensource
+  - the-downside-of-software-development
 ---
 I have officially given up on the OrangePi Zero as the server for my house.  The system drops off the LAN after a week or two of running, which is no good if its running sprinklers and lights etc.
 I regretfully inform I have chosen to get a RaspingDoodleBerryPi to drop TheThingBox onto it.

@@ -1,6 +1,9 @@
 ---
 title: "Cheap lidar"
 pubDate: 2017-12-09 01:30:49
+categories:
+  - home-made-lidar
+  - sensing
 ---
 So my Benewake TF Mini LiDAR turned up.
 ![TFmini](./tfmini.jpg)

@@ -1,6 +1,9 @@
 ---
 title: "Why?"
 pubDate: 2014-10-19 08:02:03
+categories:
+  - agile-smagile
+  - the-downside-of-opensource
 ---
 Caught a glimpse of a module for Fitnesse that mimics Cucumber - the so-called BDD environment for Ruby.
 Why?

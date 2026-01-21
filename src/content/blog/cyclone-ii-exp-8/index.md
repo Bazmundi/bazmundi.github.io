@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.8"
 pubDate: 2014-04-21 22:34:45
+categories:
+  - cyclone-ii-experiments
 ---
 Or "10-key\_digital tube display".
 This one we won't dwell on too much.

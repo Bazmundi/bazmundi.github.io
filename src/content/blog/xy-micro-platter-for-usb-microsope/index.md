@@ -1,6 +1,14 @@
 ---
 title: "XY micro platter for USB Microscope"
 pubDate: 2021-04-16 08:42:51
+categories:
+  - cnc
+  - design-musings
+  - esp8266
+  - freerouting
+  - hardware
+  - kicad
+  - usb-microscope-xy-bed
 ---
 When using my USB microscope, I am finding big fat fiddly fingers are a nuisance, tweezers some help, but fine grain motion is best.
 

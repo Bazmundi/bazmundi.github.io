@@ -1,6 +1,9 @@
 ---
 title: "Is Memcached for me?"
 pubDate: 2014-04-26 08:24:36
+categories:
+  - android
+  - python-rules
 ---
 I found a windows version of [memcached](http://blog.elijaa.org/index.php?post/2010/10/15/Memcached-for-Windows&similar "Already done, that's nice!") and also a [python library that talks to memcached](http://www.tummy.com/software/python-memcached/ "That gets us some of the way there.").
 So, I suspect I can get memcached going on the beagle[board|bone], and of course the other two linux boxes on the network.

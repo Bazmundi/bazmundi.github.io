@@ -1,6 +1,8 @@
 ---
 title: "Testing, Testing, ..."
 pubDate: 2015-05-09 07:38:45
+categories:
+  - hiatus
 coverImage: ./20150509_072923.jpeg
 ---
 ... one, two, three... quack.

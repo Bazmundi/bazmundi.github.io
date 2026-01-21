@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.3"
 pubDate: 2014-03-30 07:09:48
+categories:
+  - cyclone-ii-experiments
 ---
 Gag!
 [caption id="962" align="aligncenter" width="289"][![quartus error](./quartus-error.png)](./quartus-error.png) Bugger![/caption]

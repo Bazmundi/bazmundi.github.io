@@ -1,6 +1,8 @@
 ---
 title: "Too easy!"
 pubDate: 2019-02-10 12:10:52
+categories:
+  - opensprinklette
 ---
 So, over a vodka and coke I did hack up the code to allow for auto config of group gadgets.
 

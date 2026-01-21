@@ -1,6 +1,10 @@
 ---
 title: "GaaaaaaaaaaaaaaG!"
 pubDate: 2017-06-18 02:40:48
+categories:
+  - linux
+  - orange-pi
+  - the-downside-of-opensource
 ---
 So, various things on follow up to mqtt as a service.
 You can have a /etc/init.d/mqtt file (works from console but doesn't work as a service and therefore does not work at boot)

@@ -1,6 +1,8 @@
 ---
 title: "Hmmm"
 pubDate: 2021-07-31 11:31:16
+categories:
+  - 3d-printing
 ---
 Finally put my Finder back together. I was getting separation layers and the finder help team told me I needed to replace the flat cable to the extruder. Assuming that it might be the connector on the board, I also replaced that. So a semi-difficult disassembly then re-assembly. But everything buzzed out okay.
 

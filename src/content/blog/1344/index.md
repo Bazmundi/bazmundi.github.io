@@ -1,6 +1,8 @@
 ---
 title: "Tools to support our FPGA play"
 pubDate: 2014-05-08 04:12:48
+categories:
+  - cyclone-ii-experiments
 ---
 [Download and Install DEEDS](http://www.esng.dibe.unige.it/deeds/ "Digital Simulator").
 Also get hold of a [KARNAUGH MAP MINIMIZER](http://k-map.sourceforge.net/ "Free tool for K-Map minimisation").

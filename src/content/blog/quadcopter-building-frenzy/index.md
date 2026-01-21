@@ -1,6 +1,8 @@
 ---
 title: "Quadcopter building frenzy!"
 pubDate: 2016-10-01 10:42:06
+categories:
+  - robocatus-maximus
 ---
 My sister has come to visit my wife and I from country New South Wales.  She is a science teacher and is frantically trying to learn robotics to be able to teach the kids.  Go figure she wanted to build a quadcopter ... so did I.
 My Parrot is kaput and I will get back to fixing that but I did want to build something from scratch ... much more accomplishment there.

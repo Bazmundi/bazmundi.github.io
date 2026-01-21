@@ -1,6 +1,10 @@
 ---
 title: "And here we go again ..."
 pubDate: 2020-04-19 02:04:07
+categories:
+  - esphome
+  - home-assistant
+  - the-downside-of-opensource
 ---
 Just bracing myself for a torrent of UNHELP on homeassistant user group.
 

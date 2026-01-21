@@ -1,6 +1,8 @@
 ---
 title: "Crap!"
 pubDate: 2023-11-16 08:27:40
+categories:
+  - monsta-pc-build
 ---
 [![](./vlcsnap-2023-11-16-18h48m17s543.png)](./vlcsnap-2023-11-16-18h48m17s543.png)
 

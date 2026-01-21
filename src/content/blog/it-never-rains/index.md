@@ -1,6 +1,8 @@
 ---
 title: "It never rains ..."
 pubDate: 2012-12-14 22:13:28
+categories:
+  - hardware
 ---
 It pours Innovation:
 

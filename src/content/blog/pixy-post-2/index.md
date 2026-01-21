@@ -1,6 +1,8 @@
 ---
 title: "Pixy post 2"
 pubDate: 2014-04-17 09:04:21
+categories:
+  - vision
 ---
 [It finally got here!](http://organicmonkeymotion.wordpress.com/2013/09/12/pixy-post/ "pixy post")
 So, another distraction from my studies. Though the main culprit is I went looking for a second hand bloggie to get hold of a couple of extra omni-lenses.  They retail on the Sony site for $35 but you can't get them any more for the bloggie I have and the lens themselves were retailing $120 for spares when they did have them.

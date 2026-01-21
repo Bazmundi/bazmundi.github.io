@@ -1,6 +1,11 @@
 ---
 title: "Opensprinklette Single!"
 pubDate: 2018-10-15 07:06:45
+categories:
+  - embedded
+  - esp8266
+  - hardware
+  - opensprinklette
 ---
 ![20181015_172706](./20181015_172706.jpg)
 So, found some [info on the board](https://ucexperiment.wordpress.com/2016/12/18/yunshan-esp8266-250v-15a-acdc-network-wifi-relay-module/).

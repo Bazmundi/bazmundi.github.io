@@ -1,6 +1,8 @@
 ---
 title: "No excuses now!"
 pubDate: 2023-11-12 00:09:53
+categories:
+  - bear-build
 ---
 With the modified [X-Carriage](https://www.thingiverse.com/thing:6274469), I am now more or less ready to rock.
 

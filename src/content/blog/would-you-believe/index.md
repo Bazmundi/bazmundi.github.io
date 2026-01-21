@@ -1,6 +1,10 @@
 ---
 title: "Would you believe ..."
 pubDate: 2013-07-21 14:42:57
+categories:
+  - agent
+  - android
+  - linux
 ---
 ![would you believe](./would_you_believe.jpg)
 I spent a little time tonight looking at how to port the agent oriented framework [SPADE2](https://code.google.com/p/spade2/ "Agent Oriented Framework for Python") onto my ACER Iconia 500 as a prelude to dropping it onto a spare Android phone.

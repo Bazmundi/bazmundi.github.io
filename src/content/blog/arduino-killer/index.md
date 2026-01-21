@@ -1,6 +1,9 @@
 ---
 title: "Arduino Killer!"
 pubDate: 2016-02-20 01:43:07
+categories:
+  - arduino
+  - esp8266
 ---
 And voila!
 ![arduino killer](./arduino-killer.png)

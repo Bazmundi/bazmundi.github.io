@@ -1,6 +1,8 @@
 ---
 title: "A little C.H.I.P. off the olde block"
 pubDate: 2024-10-09 12:04:05
+categories:
+  - c-h-i-p
 ---
 I've been doing an audit of my drawers and came across 5 C.H.I.P. I had bought to turn cheap bar speakers into AirPlay speakers.
 

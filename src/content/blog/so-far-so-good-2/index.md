@@ -1,6 +1,8 @@
 ---
 title: "So far, so good."
 pubDate: 2019-07-13 08:33:39
+categories:
+  - opensprinklette
 ---
 ![](./20190713_1759108709189143598926823.jpg)
 

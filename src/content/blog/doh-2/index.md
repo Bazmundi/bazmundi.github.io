@@ -1,6 +1,9 @@
 ---
 title: "DOH!"
 pubDate: 2014-11-02 11:23:27
+categories:
+  - altera-labs
+  - cyclone-ii-experiments
 ---
 [After](http://organicmonkeymotion.wordpress.com/2014/10/22/not-quite-right/ "Not quite right") ... [and](http://organicmonkeymotion.wordpress.com/2014/11/01/still-not-right/ "Still not right") ... turned out was a typo after all (and after checking for fifth time).
 The problem with wearing glasses LOL.

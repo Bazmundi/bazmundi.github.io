@@ -1,6 +1,8 @@
 ---
 title: "Speaking about RTFM"
 pubDate: 2020-08-22 03:18:12
+categories:
+  - rant
 ---
 I discovered that my RPi running Hypriot was not running the docker daemon no more no more :(
 

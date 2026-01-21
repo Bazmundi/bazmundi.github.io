@@ -1,6 +1,9 @@
 ---
 title: "WOW!"
 pubDate: 2021-10-11 07:51:54
+categories:
+  - design-musings
+  - pnp
 ---
 https://www.youtube.com/watch?v=OGSRvBVv\_RQ
 

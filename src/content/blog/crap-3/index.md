@@ -1,6 +1,10 @@
 ---
 title: "Crap!"
 pubDate: 2021-09-16 11:26:46
+categories:
+  - 3d-printing
+  - pnp
+  - pushpullfeeder
 ---
 [![](./crap.jpeg)](./crap.jpeg)
 

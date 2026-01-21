@@ -1,6 +1,10 @@
 ---
 title: "Day 1 manual pnp build"
 pubDate: 2021-05-29 07:07:43
+categories:
+  - design-musings
+  - hardware
+  - pnp
 ---
 So, went to maker space to start the [manual pnp build](https://organicmonkeymotion.wordpress.com/2021/03/02/picky-picky-picky/).
 

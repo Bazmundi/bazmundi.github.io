@@ -1,6 +1,8 @@
 ---
 title: "Toasty!"
 pubDate: 2019-04-10 08:52:46
+categories:
+  - 3d-printing
 ---
 So, I have the incubator ceramic fan heater, or is it a ceramic incubator fan heater? The thermostat turned up. DOH! They didn't send the one I ordered. However, the specs of the one that was sent is fine for the job. Jipped me 10c though.
 

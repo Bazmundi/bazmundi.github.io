@@ -1,6 +1,9 @@
 ---
 title: "Testing 1, 2, ... , Testing ..."
 pubDate: 2023-12-09 09:32:12
+categories:
+  - animations-for-the-fun-of-it
+  - monsta-pc-build
 ---
 [![](./render3.png)](./render3.png)
 

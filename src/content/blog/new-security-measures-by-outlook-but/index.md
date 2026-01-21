@@ -1,6 +1,8 @@
 ---
 title: "New Security Measures by Outlook but ..."
 pubDate: 2014-03-01 23:15:05
+categories:
+  - sucky-service-providers
 ---
 ... what about the Use Cases?
 So, I go to log into Outlook (formally Hotmail) and get a "You can't get in until you go through a new security setup".

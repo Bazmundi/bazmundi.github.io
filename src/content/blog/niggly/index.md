@@ -1,6 +1,12 @@
 ---
 title: "Niggly"
 pubDate: 2017-08-16 09:20:51
+categories:
+  - embedded
+  - mqtt
+  - nodemcu
+  - opensprinklette
+  - orange-pi
 ---
 I may have some more design work for the opensprinklette node-red implementation.
 The nuance is that the google calendar node will happily trigger on event edges but the triggered response seems to be a dump of the calendar event parameters but not the edge that triggered the node.

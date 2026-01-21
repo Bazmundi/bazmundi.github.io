@@ -1,6 +1,8 @@
 ---
 title: "Final Opensprinklette designs (for now)"
 pubDate: 2020-01-03 21:15:41
+categories:
+  - opensprinklette
 ---
 Presenting the quad board. Added additional terminal blocks to help manage the wiring. Added prototyping area to allow for additional hardware hacking, including four terminals for additional I/O. Notice GND, +5V and +3.3V power rails.
 

@@ -1,6 +1,9 @@
 ---
 title: "Modifying weather source for home"
 pubDate: 2024-10-20 08:31:26
+categories:
+  - esp32
+  - esp32-cyd
 tags:
   - iot
 ---

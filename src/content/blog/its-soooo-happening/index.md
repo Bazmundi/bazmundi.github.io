@@ -1,6 +1,8 @@
 ---
 title: "It's SOOOO HAPPENING!"
 pubDate: 2021-10-19 11:56:32
+categories:
+  - bear-build
 ---
 Late run to the PO, the HEMERA 3D print head from E3D has turned up!
 

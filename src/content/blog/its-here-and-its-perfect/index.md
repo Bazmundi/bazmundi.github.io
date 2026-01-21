@@ -1,6 +1,8 @@
 ---
 title: "It's here!  And it's perfect!"
 pubDate: 2011-07-25 12:11:53
+categories:
+  - chase-that-dog
 ---
 The RC sail boat servo turned up.  Phew! ... on a number of counts.
 I guess I didn't have a sense of the size of the thing when I ordered it AND was always curious how I would mount it.

@@ -1,6 +1,11 @@
 ---
 title: "Trials and tribs of RPi Audio"
 pubDate: 2022-01-16 07:28:13
+categories:
+  - c-h-i-p
+  - docker
+  - raspingbreathburrydoodlepi
+  - rhasspy-trials-and-tribs
 ---
 So, I have had this long winded task with the wife. She wanted wifi speakers (really BOSE), so I originally grabbed a couple of bar speakers from Target and installed [shairpoint-sync](https://github.com/mikebrady/shairport-sync) on a couple of [C.H.I.P](https://organicmonkeymotion.wordpress.com/category/c-h-i-p/).
 

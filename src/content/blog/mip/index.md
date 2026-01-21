@@ -1,6 +1,9 @@
 ---
 title: "MiP?"
 pubDate: 2016-11-25 23:59:16
+categories:
+  - rant
+  - the-downside-of-opensource
 ---
 So how much does a MiP robot cost?
 Why I ask is my wife finally got us a dining table, huge thing too.

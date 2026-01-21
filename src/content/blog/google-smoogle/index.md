@@ -1,6 +1,8 @@
 ---
 title: "Google smoogle"
 pubDate: 2020-01-07 22:27:37
+categories:
+  - rant
 ---
 Google "warns" us that having your hands smacked for breaching IP and copyright laws will somehow "upend" software development!
 

@@ -1,6 +1,11 @@
 ---
 title: "3D printed parametric SMT feeder"
 pubDate: 2021-11-05 00:13:21
+categories:
+  - da-vinci-award
+  - design-musings
+  - pnp
+  - recommendation
 ---
 I am working on batches of [pushpull feeders](https://github.com/markmaker/PushPullFeeder) for my manual pick and place machine.
 

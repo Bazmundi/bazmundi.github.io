@@ -1,6 +1,10 @@
 ---
 title: "Snapping it all up"
 pubDate: 2012-08-28 14:34:40
+categories:
+  - hardware
+  - mesh
+  - prototyping
 ---
 So, a rough start to using SNAP but a good bit of understanding now.
 One exciting discovery is the SNAP Connect Python code has had a change in licensing and you can use it FREE for up to 10 nodes (not including Portal or the PC root node).

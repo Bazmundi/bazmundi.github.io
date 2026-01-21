@@ -1,6 +1,8 @@
 ---
 title: "Spoiled rotten"
 pubDate: 2021-09-27 13:08:23
+categories:
+  - pnp
 ---
 I tried a fiddly practice smd practice board, with tweezers and god awful process it was.
 

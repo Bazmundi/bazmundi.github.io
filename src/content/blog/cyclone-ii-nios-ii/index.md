@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II - NIOS II"
 pubDate: 2014-04-01 09:57:29
+categories:
+  - cyclone-ii-experiments
 ---
 Yeah, bit boring the basic examples but they allow you to get the board up and running and buzz out the development environment.
 I skipped over a few and went for a NIOS II example but while it compiled it was not intuitive.  Trying to open up the elements in the project browser failed with reports of encryption on files ... I am not sure if designing with NIOS II requires a licence even if you can load and run models.  Will look into this.

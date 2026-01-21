@@ -1,6 +1,9 @@
 ---
 title: "Authentic?"
 pubDate: 2020-11-09 11:37:19
+categories:
+  - development
+  - hardware
 ---
 So, recalling the "guidance" on [youtube](https://www.youtube.com/watch?v=41uXzIAKEho&t=126s) to take care with who you buy an XGenu TL866II programmer from. If you buy from an official seller you don't need sweat the problem of potentially getting a clone that does not program all the chips its supposed to. If your programmer does not turn up with an XGecu box then ...
 

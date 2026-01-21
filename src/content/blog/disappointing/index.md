@@ -1,6 +1,10 @@
 ---
 title: "Disappointing"
 pubDate: 2024-10-03 10:41:27
+categories:
+  - pneumatics
+  - pnp
+  - solder-paste-robot
 ---
 I grabbed a couple of old spent Sodastream bottles, mitt the last skerrick of gas in'm.
 

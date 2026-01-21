@@ -1,6 +1,8 @@
 ---
 title: "Turing is dead, long live Turing!"
 pubDate: 2017-06-17 00:40:45
+categories:
+  - rant
 ---
 God!  It had to happen.  Life becomes Science (as opposed to Art).
 An Israeli mob is working with AI to provide a coding assistant that does more than complete function names - i[t is to scan Stack Overflow for code snippet suggestions](https://siliconangle.com/blog/2017/06/16/codota-raises-2m-ai-powered-programming-assistant/)!

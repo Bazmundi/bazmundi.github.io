@@ -1,6 +1,8 @@
 ---
 title: "Edits so far"
 pubDate: 2024-12-19 12:54:57
+categories:
+  - animations-for-the-fun-of-it
 tags:
   - animation
   - blender

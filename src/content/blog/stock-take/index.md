@@ -1,6 +1,10 @@
 ---
 title: "Stocktake"
 pubDate: 2021-05-03 10:33:35
+categories:
+  - bad-vendor-aliexpress
+  - bear-build
+  - design-musings
 ---
 So, my BigTreeTech SKR Mini E3 V2.0 turned up (finally), along with companion display.
 

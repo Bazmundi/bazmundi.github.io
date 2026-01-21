@@ -1,6 +1,12 @@
 ---
 title: "Bearly assembled"
 pubDate: 2022-08-29 04:12:51
+categories:
+  - 3d-printing
+  - bear-build
+  - klipper
+  - raspingbreathburrydoodlepi
+  - the-downside-of-opensource
 ---
 ![](./20220829_1333216427689713865015264.jpg)
 

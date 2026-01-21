@@ -1,6 +1,8 @@
 ---
 title: "Book not out of date, neither was software but do update software to version not called out in book"
 pubDate: 2014-11-15 07:17:37
+categories:
+  - uncategorized
 ---
 What a long title.
 I bought a book on Processing 2 for Android.

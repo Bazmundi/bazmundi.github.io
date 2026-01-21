@@ -1,6 +1,8 @@
 ---
 title: "Happy Accident!"
 pubDate: 2021-02-08 00:49:20
+categories:
+  - aquaponics-and-the-like
 ---
 I was umming and ahhring about getting a aerator for the pond, or at least using the one from the retired pond.
 

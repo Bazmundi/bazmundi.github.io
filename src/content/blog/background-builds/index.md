@@ -1,6 +1,10 @@
 ---
 title: "Background builds"
 pubDate: 2023-06-03 10:08:21
+categories:
+  - pnp
+  - pnp-trays
+  - smt-feeders
 ---
 So, final sprint on [Bear Build,](https://organicmonkeymotion.wordpress.com/category/bear-build/) so I can think about the automatic PnP machine build again.
 

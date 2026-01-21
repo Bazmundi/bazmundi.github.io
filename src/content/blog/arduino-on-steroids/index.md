@@ -1,6 +1,10 @@
 ---
 title: "Arduino on Steroids!"
 pubDate: 2014-04-29 12:44:32
+categories:
+  - arduino
+  - forth-is-it-dead-or-isnt-it
+  - fpga
 ---
 http://www.cloudx.cc/
 What can I say?

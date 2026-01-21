@@ -1,6 +1,9 @@
 ---
 title: "Internet please go frack yourself"
 pubDate: 2017-06-16 03:44:30
+categories:
+  - linux
+  - orange-pi
 ---
 So, why couldn't I get the emqttd starting as a service on boot?
 Why, it was merely my own stupid fault.  I went to the emqttd site and used their example code.

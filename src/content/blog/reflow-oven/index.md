@@ -1,6 +1,9 @@
 ---
 title: "Reflow oven"
 pubDate: 2021-12-19 23:57:22
+categories:
+  - pnp
+  - reflow-oven
 ---
 [![](./reflow-ovev.jpg)](./reflow-ovev.jpg)
 

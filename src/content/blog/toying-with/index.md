@@ -1,6 +1,10 @@
 ---
 title: "Toying with ..."
 pubDate: 2013-09-04 12:28:04
+categories:
+  - agent
+  - android
+  - python-rules
 ---
 The tail end code fragment in the (POSH) launch.py file gave me an idea ... well it came to me in the car on the way to work, you all know how those problems simmer in the darkest deepest reaches before peculating up.
 `loops_running = 1

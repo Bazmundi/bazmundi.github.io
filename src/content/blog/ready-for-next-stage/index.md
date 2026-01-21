@@ -1,6 +1,13 @@
 ---
 title: "Ready for next stage"
 pubDate: 2021-04-07 08:07:39
+categories:
+  - 3d-printing
+  - cnc
+  - design-musings
+  - esp32
+  - hardware
+  - machining
 ---
 The CNC shield has turned up so I can now look at porting ESP32-GRBL to this board combination. Relatively straight forward I would imagine.
 

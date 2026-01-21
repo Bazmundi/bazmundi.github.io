@@ -1,6 +1,8 @@
 ---
 title: "Spinning up ..."
 pubDate: 2024-08-05 15:08:28
+categories:
+  - uncategorized
 ---
 ... reels.
 

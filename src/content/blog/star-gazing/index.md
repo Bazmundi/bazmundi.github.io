@@ -1,6 +1,8 @@
 ---
 title: "Star gazing"
 pubDate: 2012-05-30 00:48:35
+categories:
+  - vision
 ---
 So, a little trouble getting the Framemarkers demo working from the QualCOMM AR (Artificial Reality) toolset.
 However, turned out with a little reading of the log and the use of the debugger it was as simple as the jar not being in the build path - easily fixed.

@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.7 – follow up, follow up"
 pubDate: 2014-04-05 03:34:44
+categories:
+  - cyclone-ii-experiments
 ---
 Okay, I couldn't help myself, [let's shift the enabled segment](http://organicmonkeymotion.wordpress.com/2014/04/05/cyclone-ii-exp-7-cont-d/ "Cyclone II-Exp.7 – follow up").
 Without looking ahead and doing some interwebything searching and head scratching:

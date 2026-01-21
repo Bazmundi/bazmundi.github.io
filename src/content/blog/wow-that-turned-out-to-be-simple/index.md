@@ -1,6 +1,12 @@
 ---
 title: "Wow, that turned out to be simple"
 pubDate: 2017-06-13 13:27:38
+categories:
+  - embedded
+  - node-red
+  - opensprinklette
+  - orange-pi
+  - the-downside-of-opensource
 ---
 So voila!
 ![calendar](./calendar.png)

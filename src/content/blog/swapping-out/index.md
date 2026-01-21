@@ -1,6 +1,10 @@
 ---
 title: "Swapping out ..."
 pubDate: 2017-05-19 04:02:56
+categories:
+  - mqtt
+  - node-red
+  - orange-pi
 ---
 ... or in.
 To give my cluster back an ODROID-C1, I got a 512M Orange Pi to host the mqtt and node-red for my house automation.  It is tini, even with the case ( a couple of match boxes in size ).  So, un-obtrusive to boot.

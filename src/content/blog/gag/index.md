@@ -1,6 +1,8 @@
 ---
 title: "Gag!"
 pubDate: 2016-03-30 12:13:29
+categories:
+  - sucky-service-providers
 ---
 Got a new router from Telstra the other week.  Didn't pop it online until tonight because Telstra shut down the service to the old router ... so wifey she screamy loud.
 I had high hopes BUT ...

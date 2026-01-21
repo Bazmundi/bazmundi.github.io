@@ -1,6 +1,10 @@
 ---
 title: "More pressure!"
 pubDate: 2021-04-27 09:12:07
+categories:
+  - design-musings
+  - hardware
+  - usb-microscope-xy-bed
 ---
 So my MP6500 have arrived from LBE. [Potentiometer variant](https://www.pololu.com/product/2967/resources). That does create delicious pressure to keep hacking on the xygantry for my [USB microscope](https://organicmonkeymotion.wordpress.com/2021/04/16/xy-micro-platter-for-usb-microsope/).
 

@@ -1,6 +1,9 @@
 ---
 title: "PINDA is here"
 pubDate: 2023-04-23 00:45:24
+categories:
+  - bear-build
+  - review
 ---
 Ready for final sprint to install x-carriage.
 

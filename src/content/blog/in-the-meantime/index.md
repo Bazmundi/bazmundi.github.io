@@ -1,6 +1,9 @@
 ---
 title: "In the meantime ..."
 pubDate: 2015-08-14 13:07:05
+categories:
+  - doodling
+  - processing
 ---
 ... it occurred that fuzzy controllers might be possible in Processing if a fuzzy library was imported.  I opted to try out [jFuzzylite](http://www.fuzzylite.com/java/) as it appeared more compact than [jFuzzyLogic](http://jfuzzylogic.sourceforge.net/html/index.html).
 I built the jar using ant and then imported it into a Processing sketch.  Just use "Add file" menu thus:

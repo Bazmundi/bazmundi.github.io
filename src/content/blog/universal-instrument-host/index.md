@@ -1,6 +1,9 @@
 ---
 title: "Universal Instrument Host"
 pubDate: 2021-02-10 11:41:47
+categories:
+  - aquaponics-and-the-like
+  - hardware
 ---
 So, I plan to weld an [ESP32 with built in battery](https://www.diymore.cc/collections/esp8266/products/diymore-wifi-bluetooth-esp32-18650-battery-development-board-module-ap-sta-ap-for-arduino-lua), an [e-link display](https://www.waveshare.com/2.66inch-e-paper-module.htm), into a Universal Instrument Host (UIH) for the following sensors (as a start):
 

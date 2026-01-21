@@ -1,6 +1,10 @@
 ---
 title: "disappointing but go figure"
 pubDate: 2013-04-10 11:34:28
+categories:
+  - android
+  - buyer-beware
+  - hardware
 ---
 I bought supposedly IP67 certified phone from [DHgate](http://www.dhgate.com/discovery-v5-3-5-inch-drfy-smart-phone-sc8810/p-ff8080813ba85762013bad1dad042228.html "Not vendor problem per se, poor manufacturer quality.") to find it isn't at all water proof (that's what the '7' of the [IP67](http://en.wikipedia.org/wiki/IP_Code "I am guessing, at best an IP52") stands for).
 In fact, I found that the back panel doesn't fit all that snuggle AND it has two screws supplied to tack it down BUT one of the screws came without a thread.  I have contacted the vendor and we'll see whether this gets sorted.

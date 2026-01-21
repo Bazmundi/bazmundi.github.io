@@ -1,6 +1,8 @@
 ---
 title: "A rose by any other name"
 pubDate: 2020-08-09 13:10:59
+categories:
+  - satire
 ---
 NASA has opted to move away from offensive (so-called) nick names. The nick name Black Holes is both offensive in the racist sense and alternatively sexist since the inference is female genitalia if not homophobic, given Uranus is also often suggestive of a dark taboo.
 

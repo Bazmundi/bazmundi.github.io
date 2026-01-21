@@ -1,6 +1,10 @@
 ---
 title: "SMT cover tape collection"
 pubDate: 2021-11-20 00:41:41
+categories:
+  - design-musings
+  - pnp
+  - smt-cover-tape-collector
 ---
 So, while still waiting on a few things to finish builds, I decided to go for broke and really stack up projects, to make sure nothing ever gets done ... ROTFLMAO!
 

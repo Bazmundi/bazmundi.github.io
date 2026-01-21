@@ -1,6 +1,8 @@
 ---
 title: "Gag! Need a 12volt BEC as well"
 pubDate: 2018-01-18 09:15:56
+categories:
+  - home-made-lidar
 ---
 So, for the final prototype I will likely need a 12volt BEC to drive the gimbal board - though I won't need that for the bench.  What I am missing is an adjustable bench supply.  Still something that should have on my bench.  So, off to Jaycar on weekend.
 Otherwise, here are the basic innards of the home made lidar.  The bore on the gimbal is not wide enough for the slip ring body, but that is not a problem - it will be accommodated by the way I mount the slip ring.

@@ -1,6 +1,10 @@
 ---
 title: "Oh the pain"
 pubDate: 2020-01-12 00:23:54
+categories:
+  - docker
+  - home-assistant
+  - hypriotos
 ---
 Trying to get Clicksend integrated with Home Assistant appeared to be easier, once you find all the goss, but its finding the goss.
 

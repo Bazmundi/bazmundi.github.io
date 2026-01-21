@@ -1,6 +1,10 @@
 ---
 title: "Lies, more lies and statistics"
 pubDate: 2016-12-07 10:19:18
+categories:
+  - rant
+  - sucky-service-providers
+  - the-downside-of-opensource
 ---
 So, Intel "confirm" it cannot possibly be the Curie that is causing the problem I am having as they tested their Curie on their computer and it worked.
 The problem, either they don't understand quality control and process statistics or are hoping I don't.

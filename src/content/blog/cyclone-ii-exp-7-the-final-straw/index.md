@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.7 – the final straw"
 pubDate: 2014-04-06 05:15:31
+categories:
+  - cyclone-ii-experiments
 ---
 Cyclone II-Exp.7 – parts [1](http://organicmonkeymotion.wordpress.com/2014/04/04/cyclone-ii-exp-7/ "Cyclone II-Exp.7"), [2](http://organicmonkeymotion.wordpress.com/2014/04/05/cyclone-ii-exp-7-cont-d/ "Cyclone II-Exp.7 – follow up"), [3](http://organicmonkeymotion.wordpress.com/2014/04/05/cyclone-ii-exp-7-follow-up-follow-up/ "Cyclone II-Exp.7 – follow up, follow up"), and 4.
 [caption id="attachment\_1088" align="aligncenter" width="450"][![The final straw.](./exp77.png)](./exp77.png) The final straw.[/caption]

@@ -1,6 +1,12 @@
 ---
 title: "Bonus!"
 pubDate: 2015-07-23 10:00:02
+categories:
+  - iot
+  - mqtt
+  - processing
+  - robotics
+  - ros
 ---
 I found that Processing has a library for talking to MQTT so ...
 Will make sense when I get the 360 degree obstacle thingy going as I should be able to send "left a bit" ... "righ a bit" messages to the MQTT server etc.

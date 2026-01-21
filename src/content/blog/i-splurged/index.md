@@ -1,6 +1,10 @@
 ---
 title: "I splurged"
 pubDate: 2024-09-02 04:27:50
+categories:
+  - manual-pnp
+  - pnp
+  - solder-paste-robot
 ---
 Aluminium syringe holders. 5ml, 10ml and 30-50ml.
 

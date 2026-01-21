@@ -1,6 +1,8 @@
 ---
 title: "Finally!"
 pubDate: 2016-10-16 08:22:56
+categories:
+  - robocatus-maximus
 ---
 Yesterday the wife decided to do some serious gardening.  So some hard yacka ripping out Yucca, rearranging them somewhat, to then put citrus, mango, fig and a couple of other fruit trees in.  Weather didn't help.  It was sunny, so no excuses.
 Today, poured raining again.

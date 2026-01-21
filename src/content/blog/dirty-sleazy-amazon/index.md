@@ -1,6 +1,8 @@
 ---
 title: "Dirty Sleazy Amazon"
 pubDate: 2018-05-31 11:47:03
+categories:
+  - amazon-is-unethical-towards-immoral
 ---
 Yep, I am chasing down Amazon to cancel my AmazonPrime.
 Why?

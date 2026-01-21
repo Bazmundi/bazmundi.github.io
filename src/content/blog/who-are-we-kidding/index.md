@@ -1,6 +1,8 @@
 ---
 title: "WHO are we kidding"
 pubDate: 2020-04-11 00:45:32
+categories:
+  - rant
 ---
 [Ocean's c](https://www.themonthly.com.au/issue/2018/august/1533045600/james-bradley/end-oceans#mtr)ollapsing this decade.
 

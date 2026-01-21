@@ -1,6 +1,8 @@
 ---
 title: "Couldn't help myself"
 pubDate: 2021-05-11 03:57:42
+categories:
+  - hardware
 ---
 ![](./image_editor_output_image1071174093-1620705161265811252023767942178.jpg)
 

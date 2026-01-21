@@ -1,6 +1,9 @@
 ---
 title: "All set up for manual soldering (again)"
 pubDate: 2021-07-10 09:03:54
+categories:
+  - test-bench
+  - tools-for-the-job
 ---
 The magnetic PCB holder kit turned up and with a small amount of double sided tape voila!
 

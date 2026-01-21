@@ -1,6 +1,8 @@
 ---
 title: "The Phoenix arises"
 pubDate: 2019-12-08 20:07:04
+categories:
+  - uncategorized
 ---
 I got shod of my old Linux laptop as the battery was dead and two keys had fell off. So I did rather buy me a new HP Spectre laptop. That new laptop is now my Windoze box so my old Windoze PC was surplus. I do have to say, I did rather have the shitzup with the PC as I have regretted moving from Windoze 7 to Windoze 10 on that system. Regretted because Microsoft did rather frack up the updates, as we all know.
 

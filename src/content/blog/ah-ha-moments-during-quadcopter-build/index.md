@@ -1,6 +1,8 @@
 ---
 title: "Ah ha moments during Quadcopter build"
 pubDate: 2016-10-02 06:02:23
+categories:
+  - robocatus-maximus
 ---
 ![ahha](./ahha.jpeg)
 So, in the absence of any hints in the build instructions (there is really nothing post assembly diagram for frame), it occurred to me that the aluminium (aloo-min-num in American) "thingy" seemed to fit tightly over one of the two power connectors.

@@ -1,6 +1,9 @@
 ---
 title: "Not a sausage?"
 pubDate: 2017-07-20 10:20:46
+categories:
+  - linux
+  - orange-pi
 ---
 So, I reburnt the SD with the orangepi.org distro.
 I gave up on nmcli/nmtui and I went back to the good ole /etc/network/interfaces edit, or at least I created:

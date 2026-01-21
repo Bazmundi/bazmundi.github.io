@@ -1,6 +1,8 @@
 ---
 title: "Mostly there ..."
 pubDate: 2022-09-22 05:22:05
+categories:
+  - manual-pnp
 ---
 [![](./mostlyassembled.jpg)](./mostlyassembled.jpg)
 

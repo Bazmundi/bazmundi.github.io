@@ -1,6 +1,11 @@
 ---
 title: "Crap!"
 pubDate: 2024-08-30 00:01:04
+categories:
+  - manual-pnp
+  - openpnp
+  - pnp
+  - solder-paste-robot
 ---
 ![](./20240830_082210954743092278820351.jpg)
 

@@ -1,6 +1,8 @@
 ---
 title: "More dribs and drabs ... and a bonus!"
 pubDate: 2021-05-11 07:11:32
+categories:
+  - pnp
 ---
 [![](./magnetic.jpg)](./magnetic.jpg)
 

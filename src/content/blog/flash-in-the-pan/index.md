@@ -1,6 +1,12 @@
 ---
 title: "Short cut to static IP on HypriotOS using linux"
 pubDate: 2019-12-23 09:20:26
+categories:
+  - linux
+  - mqtt
+  - node-red
+  - raspberry-pirate
+  - raspingbreathburrydoodlepi
 ---
 So, go try understand the new flash utility for Hypriot OS. Ignore the [blog](https://blog.hypriot.com/post/cloud-init-cloud-on-hypriot-x64/) entries as the wacker has no technical writing skills.
 

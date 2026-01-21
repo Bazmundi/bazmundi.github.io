@@ -1,6 +1,10 @@
 ---
 title: "Scammed?!"
 pubDate: 2026-01-02 05:31:42
+categories:
+  - bad-vendor-aliexpress
+  - pick-plaz-port
+  - smt-feeders
 ---
 Yep, got me a dud ESP32 C3 "supermini" from a [vendor on Aliexpress](https://snvi.aliexpress.com/store/1104120686).
 

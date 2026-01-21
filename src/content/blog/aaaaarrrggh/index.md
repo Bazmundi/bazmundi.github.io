@@ -1,6 +1,8 @@
 ---
 title: "Aaaaarrrggh!"
 pubDate: 2023-11-17 08:13:25
+categories:
+  - monsta-pc-build
 ---
 ![](./20231117_1841316899649218198955751.jpg)
 

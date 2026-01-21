@@ -1,6 +1,8 @@
 ---
 title: "New end scene"
 pubDate: 2023-04-17 21:44:00
+categories:
+  - animations-for-the-fun-of-it
 ---
 You might have noticed, at the end on my vids, nowadays just before my animated end cards, I had either firey ball or a red hot cube? Just to punctuate the end? Bought off the web? I am now working up my own animated firey end scene.
 

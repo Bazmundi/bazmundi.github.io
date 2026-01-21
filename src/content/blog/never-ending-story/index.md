@@ -1,6 +1,9 @@
 ---
 title: "Never ending story"
 pubDate: 2017-06-30 02:16:35
+categories:
+  - armbian
+  - orange-pi
 ---
 So, to date, flaky behaviour using Armbian 5.25 debian server on Orange Pi Zero.
 Claims of file system corruption due to SD burn are likely debunked because:

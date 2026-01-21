@@ -1,6 +1,8 @@
 ---
 title: "Bear X-Carriage almost complete"
 pubDate: 2023-04-10 23:56:58
+categories:
+  - bear-build
 ---
 ![](./20230411_085203.jpg)
 

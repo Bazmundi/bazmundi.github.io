@@ -1,6 +1,8 @@
 ---
 title: "Sucky AI algorithms"
 pubDate: 2022-11-18 23:15:09
+categories:
+  - sucky-service-providers
 ---
 If Google is using AI at all, to filter news for me based on my "preferences", I wish it would stop.
 

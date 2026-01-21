@@ -1,6 +1,10 @@
 ---
 title: "Install node-red Odroid C1"
 pubDate: 2016-12-27 01:26:25
+categories:
+  - linux
+  - odroid-c1
+  - the-downside-of-opensource
 ---
 Again with the raft of various authors with their own twists.
 So far so good on odrobian vanilla with:

@@ -1,6 +1,10 @@
 ---
 title: "VHDL DIGITAL LOGIC LAB 2"
 pubDate: 2014-10-01 13:02:12
+categories:
+  - altera-labs
+  - cyclone-ii-experiments
+  - fpga
 ---
 I've been bad.
 So stay tuned, LAB 2 will be teased out as a study break during my Dissertation.

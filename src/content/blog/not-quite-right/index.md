@@ -1,6 +1,9 @@
 ---
 title: "Not quite right"
 pubDate: 2014-10-22 13:02:34
+categories:
+  - altera-labs
+  - cyclone-ii-experiments
 ---
 [caption id="attachment\_1629" align="aligncenter" width="660"][![Not quite right but ...](./adfasdf.png)](./adfasdf.png) Not quite right but ...[/caption]
 ... it should be.  Segment 'B' seems to want to light up when buttons are set to b'1010 and b'1011 (aka 10 and 11).

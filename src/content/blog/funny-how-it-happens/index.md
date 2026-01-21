@@ -1,6 +1,11 @@
 ---
 title: "Funny how it happens"
 pubDate: 2021-11-07 00:28:26
+categories:
+  - 3d-printing
+  - design-musings
+  - pnp
+  - pnp-trays
 ---
 So I found the OpenSCAD files for a neat [parameterised SMD tray](https://www.compuphase.com/electronics/minitray.htm).
 

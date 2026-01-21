@@ -1,6 +1,10 @@
 ---
 title: "Winter chill."
 pubDate: 2017-07-30 23:24:40
+categories:
+  - linux
+  - odroid-c1
+  - orange-pi
 ---
 So far so good.
 OPiZ has run for 12 odd hours with temp reporting, node-red and emqttd up status running on OPiZ, emqttd up status running on PC and PC pinging OPiZ.

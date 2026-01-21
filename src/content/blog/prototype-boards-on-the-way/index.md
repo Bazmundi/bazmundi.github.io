@@ -1,6 +1,8 @@
 ---
 title: "Prototype boards on the way"
 pubDate: 2019-06-17 05:04:28
+categories:
+  - opensprinklette
 ---
 The problem for powering the modules, used for opensprinklette, is that the sprinkler solenoids are driven by 24VAC.
 

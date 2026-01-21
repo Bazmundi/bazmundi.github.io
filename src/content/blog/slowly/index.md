@@ -1,6 +1,12 @@
 ---
 title: "Slowly"
 pubDate: 2018-09-06 11:09:34
+categories:
+  - mqtt
+  - node-red
+  - orange-pi
+  - the-downside-of-opensource
+  - ubuntu-core-16
 ---
 So, 4 days ago I reported to node-red group that the --beta snap of node-red did not start as a service on armf version - at least when snapped onto Ubuntu Core 16 running on Orange Pi Zero.
 When I started this journey, the following command would not download a snap but it would prompt:

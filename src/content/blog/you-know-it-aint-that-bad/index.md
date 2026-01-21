@@ -1,6 +1,9 @@
 ---
 title: "You know, it ain't that bad ..."
 pubDate: 2021-10-02 13:51:47
+categories:
+  - 3d-printing
+  - pnp
 ---
 ... for a first pass.
 

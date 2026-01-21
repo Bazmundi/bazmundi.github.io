@@ -1,6 +1,8 @@
 ---
 title: "Reverse engineering of x-carriage"
 pubDate: 2022-02-27 10:43:50
+categories:
+  - pnp
 ---
 https://www.youtube.com/watch?v=\_i-UWE4k3Cs
 

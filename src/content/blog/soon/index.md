@@ -1,6 +1,8 @@
 ---
 title: "Soon"
 pubDate: 2015-03-17 21:10:39
+categories:
+  - hiatus
 ---
 Handing Dissertation in next week.  So much to catch up on.
 Buying a new house (subject now to bank but looking good).  Has, wait for it, ... , a shed!

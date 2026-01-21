@@ -1,6 +1,9 @@
 ---
 title: "Frack, Frack, double Frack, and quadruple Frack!"
 pubDate: 2023-01-23 10:00:00
+categories:
+  - 3d-printing
+  - flashforge-finder-mods
 ---
 [![](./hands-fingers-crossed.jpg)](./hands-fingers-crossed.jpg)
 

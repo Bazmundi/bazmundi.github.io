@@ -1,6 +1,12 @@
 ---
 title: "Still brilliant!"
 pubDate: 2026-01-05 23:43:48
+categories:
+  - esp32
+  - mqtt
+  - pcbway-sponsored
+  - pick-plaz-port
+  - smt-feeders
 ---
 ![](./20260106_1003187203841056960634201.jpg)
 

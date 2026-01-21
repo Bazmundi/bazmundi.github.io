@@ -1,6 +1,8 @@
 ---
 title: "Upgrade!"
 pubDate: 2021-07-29 05:10:33
+categories:
+  - test-bench
 ---
 ![](./20210729_1338324635858096030564349.jpg)
 

@@ -1,6 +1,9 @@
 ---
 title: "Starting over"
 pubDate: 2017-06-30 12:53:23
+categories:
+  - linux
+  - orange-pi
 ---
 So, now scrubbing the armbian.com distro and going back to the orangepi.org distro.
 Yes, after the frag it wouldn't boot but who knows if I rewrite it with Etcher.

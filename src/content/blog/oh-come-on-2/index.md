@@ -1,6 +1,10 @@
 ---
 title: "Oh COME ON!"
 pubDate: 2017-06-16 10:00:38
+categories:
+  - linux
+  - orange-pi
+  - the-downside-of-opensource
 ---
 I know I said I sorted starting emqttd as a service. I rebooted and opened browser to the emqttd web console.
 Got caught out with beginner blunder - the webpage is cached on my PC isn't it. So the emqttd didn't, afterall, start. However, the bonus is the error reported has changed (using the tidier init.d file of mine), and the inference I get from the new error is, I think, the service startup period is timing out.

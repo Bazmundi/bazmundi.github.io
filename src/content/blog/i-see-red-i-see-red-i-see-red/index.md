@@ -1,6 +1,8 @@
 ---
 title: "I see red, I see red, I see red!"
 pubDate: 2020-02-26 02:28:51
+categories:
+  - rant
 ---
 ![](./whoops.png)
 

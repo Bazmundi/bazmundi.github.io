@@ -1,6 +1,9 @@
 ---
 title: "Two peas in a pod"
 pubDate: 2021-10-04 13:14:38
+categories:
+  - design-musings
+  - pnp
 ---
 So, since I was using parts to break out key components of the X-Axis, including the "pins", it was too easy to rough draft a Z-Axis foot, to interface the Z-Axis to the X-Axis Carriage, voila! (Figure 1).
 

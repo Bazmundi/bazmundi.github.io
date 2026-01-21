@@ -1,6 +1,11 @@
 ---
 title: "Getting ahead of the game"
 pubDate: 2022-08-03 14:02:58
+categories:
+  - bear-build
+  - klipper
+  - octoprint
+  - software-config
 ---
 Yeah sure the Bear Build is a slow build, but a good build.
 

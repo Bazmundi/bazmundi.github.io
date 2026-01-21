@@ -1,6 +1,9 @@
 ---
 title: "I know, bad bad bad"
 pubDate: 2014-08-20 12:31:18
+categories:
+  - hardware
+  - python-rules
 ---
 Got a little distracted and now the final push for my Masters - Dissertation.
 So, I will have an excuse for patchy hobby bits

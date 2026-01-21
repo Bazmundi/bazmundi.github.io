@@ -1,6 +1,8 @@
 ---
 title: "Nasty Useless Windows 10"
 pubDate: 2015-12-30 06:22:43
+categories:
+  - windoze10
 ---
 [![where is my pc](./where-is-my-pc.png)](./where-is-my-pc.png)
 Why on earth does Windoze 10 Explorer need to scan my "This PC" for 15 or more minutes to find my drives and files.  Computer is dead useless with Windoze 10 with all the fracking problems.

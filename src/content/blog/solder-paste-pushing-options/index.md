@@ -1,6 +1,9 @@
 ---
 title: "Solder Paste \"pushing\" options"
 pubDate: 2024-08-08 07:45:46
+categories:
+  - handheld-solder-paste-dispenser
+  - solder-paste-robot
 ---
 Further to, ...
 

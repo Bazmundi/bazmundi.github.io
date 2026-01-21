@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.4"
 pubDate: 2014-03-30 13:25:03
+categories:
+  - cyclone-ii-experiments
 ---
 Gag!
 Code was simple enough:

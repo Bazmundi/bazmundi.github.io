@@ -1,6 +1,8 @@
 ---
 title: "What a prickly problem?!"
 pubDate: 2022-01-23 08:15:32
+categories:
+  - rhasspy-trials-and-tribs
 ---
 So, thought I'd build an assistant out of bits.
 

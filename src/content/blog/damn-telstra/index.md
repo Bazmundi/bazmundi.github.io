@@ -1,6 +1,9 @@
 ---
 title: "Damn Telstra"
 pubDate: 2014-01-06 23:39:25
+categories:
+  - arduino
+  - python-rules
 ---
 Go figure, I get a couple of weeks off over Christmas.  I start on the Altera FPGA training but things slow down and then stop.  Telstra lost services in North Adelaide about Boxing day and today I am only on because I am tethered to my Optus phone.
 It was quite debilitating to be off-line, I didn't realize how much I rely on just skipping over the Net to get info AND over Christmas to boot.  Go figure, as Telstra had bought out FOXTEL the FOXTEL was broken as well.

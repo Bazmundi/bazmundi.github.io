@@ -1,6 +1,8 @@
 ---
 title: "Getting there."
 pubDate: 2023-11-27 11:30:26
+categories:
+  - monsta-pc-build
 ---
 [![](./screenshot-from-2023-11-27-21-53-52.png)](./screenshot-from-2023-11-27-21-53-52.png)
 

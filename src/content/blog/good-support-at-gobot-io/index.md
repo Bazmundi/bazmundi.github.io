@@ -1,6 +1,9 @@
 ---
 title: "Good support at gobot.io"
 pubDate: 2014-10-18 14:32:53
+categories:
+  - beaglebone-black
+  - cross-compiling
 ---
 The team at gobot.io sorted the access to the user LED on the BBB but an interesting problem or two.
 The code does not run on the embedded Angstrom that came with my BBB.

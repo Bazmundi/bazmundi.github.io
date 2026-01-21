@@ -1,6 +1,9 @@
 ---
 title: "Heat set adaptor for drill press"
 pubDate: 2021-11-20 06:26:22
+categories:
+  - 3d-printing
+  - design-musings
 ---
 [![](./heat-set-iron-adaptor-1.png)](./heat-set-iron-adaptor-1.png)
 

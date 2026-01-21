@@ -1,6 +1,8 @@
 ---
 title: "J1a, forth apparently ..."
 pubDate: 2021-04-04 01:54:53
+categories:
+  - forth-is-it-dead-or-isnt-it
 ---
 So, a stalled project of mine was hacking the [J1 FORTH cpu](https://organicmonkeymotion.wordpress.com/2015/09/16/j1-almost/) onto my Altera chips.
 

@@ -1,6 +1,12 @@
 ---
 title: "How hard is it to program a eeprom?"
 pubDate: 2014-07-29 12:46:47
+categories:
+  - cheap-obsolete-tech
+  - development
+  - dsp
+  - dsp-laboratory
+  - hardware
 ---
 Pretty tricky if it is obsolete so no programmers around for it.
 The [AT17C65](http://www.atmel.com/Images/doc2321.pdf "Obsolete") is the eeprom configurator used in the [eval board that the ADMCF328 sits on](http://www.analog.com/static/imported-files/tech_docs/BoardF32X.pdf "Can't get me one").

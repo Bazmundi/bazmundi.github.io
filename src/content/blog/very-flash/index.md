@@ -1,6 +1,8 @@
 ---
 title: "Very Flash!"
 pubDate: 2021-10-27 05:15:29
+categories:
+  - rant
 ---
 Just starting to use the new V5 of FlashPrint from FlashForge.
 

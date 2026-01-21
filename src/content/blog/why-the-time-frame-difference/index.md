@@ -1,6 +1,8 @@
 ---
 title: "Why the time frame difference?"
 pubDate: 2017-06-13 14:26:45
+categories:
+  - rant
 ---
 I am about to give up building emqttd on my OZiP installation (for the moment).  I am having to run make over and over again, during the DEP stage, as it keeps loosing contact with github.
 We have seen that before haven't we kiddies.

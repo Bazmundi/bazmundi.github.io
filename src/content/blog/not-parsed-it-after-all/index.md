@@ -1,6 +1,9 @@
 ---
 title: "Not parsed it after all"
 pubDate: 2018-10-24 11:42:44
+categories:
+  - javascript
+  - opensprinklette
 ---
 Play on words.
 Now I have a reliable OPiZ server and a drawer full of quad and single EPS8266 relay setups I am moving full steam on opensprinklette again. That and I have burnt out writing papers for journals.

@@ -1,6 +1,8 @@
 ---
 title: "Monsta PC build"
 pubDate: 2023-04-27 07:44:06
+categories:
+  - monsta-pc-build
 ---
 [![](./97ccf3ab-fd14-462f-a530-4ccca14e62ca.jpg)](./97ccf3ab-fd14-462f-a530-4ccca14e62ca.jpg)
 

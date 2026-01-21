@@ -1,6 +1,8 @@
 ---
 title: "Killing time - Quadcopter Frenzy!"
 pubDate: 2016-10-03 11:03:19
+categories:
+  - general-niff-naff-and-trivia
 ---
 Because it is a long weekend here, the stores aren't open and so we couldn't get up the road to get the loose bits and pieces you find you need along the way when building these Chinese Robocat kits - given the complete absence of complete instructions.
 Will need a couple of 3s batteries in any event, more lock nut, some heavy wire for power connections, and ...

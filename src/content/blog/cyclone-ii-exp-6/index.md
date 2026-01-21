@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.6"
 pubDate: 2014-04-02 12:56:42
+categories:
+  - cyclone-ii-experiments
 ---
 Okay, so I thought I might toddle through the whole set of examples anyway to bed down some things and to not get too ahead of myself and ta da!
 [caption id="attachment\_1024" align="aligncenter" width="450"][![Grrrr](./exp6.png)](./exp6.png) Grrrr[/caption]

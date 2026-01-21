@@ -1,6 +1,10 @@
 ---
 title: "Upgrading game pad"
 pubDate: 2014-04-08 11:52:54
+categories:
+  - android
+  - python-rules
+  - the-downside-of-opensource
 ---
 So, the [game pad my friend gave me for use as a wireless terminal](http://organicmonkeymotion.wordpress.com/2012/12/16/as-luck-would-have-it/ "As luck would have it …") from my robotics projects but alas the wifi on it appears to have died.
 The JXD S7800B I ordered to replace it turned up.

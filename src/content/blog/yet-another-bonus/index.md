@@ -1,6 +1,8 @@
 ---
 title: "Yet another bonus!"
 pubDate: 2016-10-12 11:57:36
+categories:
+  - raspberry-pirate
 ---
 Mate at work, the one that handed me his Odroid C1 when he decided he would dump the small PC approach to media replay for a service provider, mentioned he was bringing in his Raspberry Pirate for me.
 Now this is a bonus as I was using one of my ODROID W as a MQTT and node-red host.  I would much rather use the ODROID W for other things, so I will rebuild my thingime-box clone with a Raspberry Pirate.

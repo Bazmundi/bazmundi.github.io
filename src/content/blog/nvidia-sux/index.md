@@ -1,6 +1,8 @@
 ---
 title: "Nvidia SUX"
 pubDate: 2014-04-06 07:56:59
+categories:
+  - parallel-talk
 ---
 Not really, but I do hope they sort out there anti-FreeTrade thinking by not selling things like Shield and [TK1](http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html "Why not in Australia?") in Australia.
 Now if a country can be forced, under free-trade, to [export commodities](http://en.wikipedia.org/wiki/Water_export "Two rules in in Free Trade systems"), why are companies on the Internet not policed for failing to sell into countries with free-trade agreements with the source of the technology?

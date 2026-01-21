@@ -1,6 +1,8 @@
 ---
 title: "Working on template"
 pubDate: 2023-12-31 06:41:12
+categories:
+  - animations-for-the-fun-of-it
 ---
 Just playing with geometry nodes to animate the tail of my video intro, since I have been opting to add new intros. Need to keep the branding though. Hence the bouncing logo. Still needs scaling and the text added, but not bad.
 

@@ -1,6 +1,8 @@
 ---
 title: "Seems good ..."
 pubDate: 2019-07-27 06:11:04
+categories:
+  - opensprinklette
 ---
 I did a retake on the components required for the 24VAC to xVDC boards, used in opensprinklette, and realized that I had bought 100uF instead of 1000uF electrolytic. Little wonder it wasn't helping in filtering the spikes caused in hot end because of solenoid activation/deactivation.
 

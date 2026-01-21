@@ -1,6 +1,8 @@
 ---
 title: "Now we have some horsepower!!"
 pubDate: 2012-05-23 01:52:12
+categories:
+  - vision
 ---
 [![800px-Samsung_Galaxy_S_II_3](./800px-samsung_galaxy_s_ii_31.jpg)](http://organicmonkeymotion.wordpress.com/2012/05/23/now-we-have-some-horsepower/800px-samsung_galaxy_s_ii_3-2/)
 

@@ -1,6 +1,10 @@
 ---
 title: "Cylone II-Exp.11-Epiphany!  Or ah ha!"
 pubDate: 2014-05-04 08:15:21
+categories:
+  - cyclone-ii-experiments
+  - nios-ii-experiments
+  - the-downside-of-software-development
 ---
 I pinged the board vendor to see if there were any gothchas when setting up this board.
 Turns out, a couple of steps missing from the tutorial from Altera - go figure, you have to have priori knowledge to be a Newbee.  I hate the idea of Newbee, I am not sure why in a world of liberal education the idea persists.  If an educator was to take the viewpoint that someone 'new' was to be left to the devices of people not more knowledgeable than they for help then parents would be rioting and burning schools down I suspect.  Once you're out of school, it is okay to make people put on a dunce's cap and make them stand in the corner.

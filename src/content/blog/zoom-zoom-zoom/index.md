@@ -1,6 +1,10 @@
 ---
 title: "Zoom, zoom, zoom!"
 pubDate: 2021-10-28 07:07:33
+categories:
+  - openmv
+  - sensing
+  - vision
 ---
 [![](./success-1.png)](./success-1.png)
 

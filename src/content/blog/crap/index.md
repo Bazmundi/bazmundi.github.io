@@ -1,6 +1,9 @@
 ---
 title: "Crap!"
 pubDate: 2018-11-11 07:07:43
+categories:
+  - rant
+  - the-downside-of-opensource
 ---
 So, found I couldn't run tensorflow on my laptop as the older i5 I am running is missing an instruction extension to support vectorisations.
 I thought then to try to get cuda toolkit up so I could use pyCuda or Cuda accelerated pyTorch.

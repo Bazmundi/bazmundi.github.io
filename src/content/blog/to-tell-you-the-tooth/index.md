@@ -1,6 +1,12 @@
 ---
 title: "To tell you the tooth ..."
 pubDate: 2026-01-19 07:01:29
+categories:
+  - esp32
+  - mqtt
+  - pcbway-sponsored
+  - pick-plaz-port
+  - smt-feeders
 ---
 [![](./wp-1768805196061999703458144264248.jpg)](./wp-1768805196061999703458144264248.jpg)
 

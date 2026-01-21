@@ -1,6 +1,9 @@
 ---
 title: "I am so touched ..."
 pubDate: 2022-12-13 14:35:32
+categories:
+  - esp32
+  - moisture-wand
 ---
 ... by the capacitive inputs of the ESP32, as this is my first time.
 

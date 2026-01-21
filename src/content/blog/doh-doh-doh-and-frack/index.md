@@ -1,6 +1,11 @@
 ---
 title: "DOH! DOH! DOH! and FRACK!"
 pubDate: 2016-11-27 07:15:56
+categories:
+  - opensprinklette
+  - rant
+  - sucky-wucky-raspingbreathburry
+  - the-downside-of-opensource
 ---
 So, I ripped out node-red from my PC and re-installed.  I then re-added node-red-node-google.
 Now the behaviour of google nodes in the PC variant was different to the google nodes on TheThingBox.  When I went to the properties of the PC variation I got the following:

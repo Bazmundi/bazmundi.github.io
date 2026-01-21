@@ -1,6 +1,9 @@
 ---
 title: "FORTH in FPGA-EXP1"
 pubDate: 2014-05-03 05:36:08
+categories:
+  - forth-is-it-dead-or-isnt-it
+  - fpga
 ---
 So, study over and I was wondering ...
 So, the [HIVE](http://opencores.org/project,hive "Too tight") code sucks up into Quartus 10.1 fine (it appears to have been written for 9.x).

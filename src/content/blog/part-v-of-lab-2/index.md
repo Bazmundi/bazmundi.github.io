@@ -1,6 +1,9 @@
 ---
 title: "Part V of Lab 2"
 pubDate: 2016-06-13 03:49:16
+categories:
+  - altera-labs
+  - cyclone-ii-experiments
 ---
 So a few things need sorting before I could program my Cyclone II board again.  The problem it appears was actually that the USB ports on the back of my PC had died.
 So, what about the Quartus v OS story.

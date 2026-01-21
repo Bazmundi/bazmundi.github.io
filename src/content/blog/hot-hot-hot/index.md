@@ -1,6 +1,9 @@
 ---
 title: "Hot, hot, hot!"
 pubDate: 2021-09-24 07:58:24
+categories:
+  - 3d-printing
+  - bear-build
 ---
 Just doing the last sprint on my Bear build.
 

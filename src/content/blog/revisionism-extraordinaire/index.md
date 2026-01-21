@@ -1,6 +1,8 @@
 ---
 title: "Revisionism Extraordinaire"
 pubDate: 2021-03-13 04:59:19
+categories:
+  - rant
 ---
 There are some [extraordinary](https://www.cbinsights.com/research/report/future-open-source/) examples of revisionist interpretations of history around software development, entirely missing the impetus set by the criminality behind software piracy and that era which rolled with the mantra that "software was art" and therefore should be "free". Really just trying to rationalise the criminality.
 

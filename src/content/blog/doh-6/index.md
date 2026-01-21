@@ -1,6 +1,10 @@
 ---
 title: "Doh"
 pubDate: 2024-08-17 01:57:54
+categories:
+  - manual-pnp
+  - pnp
+  - pnp-trays
 ---
 So, the two reel halves have "alignment pins".
 

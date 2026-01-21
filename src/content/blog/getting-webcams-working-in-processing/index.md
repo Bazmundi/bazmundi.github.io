@@ -1,6 +1,9 @@
 ---
 title: "Getting webcams working in Processing..."
 pubDate: 2015-08-22 09:30:26
+categories:
+  - processing
+  - the-downside-of-opensource
 ---
 ... when processing video library does not help.
 Some webcams don't appear to work with Processing video library.

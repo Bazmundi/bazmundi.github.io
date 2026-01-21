@@ -1,6 +1,11 @@
 ---
 title: "Here's the theory ..."
 pubDate: 2017-04-29 03:12:33
+categories:
+  - arduino
+  - beaglebone-black
+  - c-h-i-p
+  - general-niff-naff-and-trivia
 ---
 ... straight forward really.
 [MOOS-IVP](http://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php) happily compiles and runs on on of my [Beaglebone Black](https://beagleboard.org/black)s.

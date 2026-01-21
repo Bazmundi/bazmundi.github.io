@@ -1,6 +1,10 @@
 ---
 title: "Un-Crap!"
 pubDate: 2024-09-02 06:45:56
+categories:
+  - pneumatics
+  - pnp
+  - solder-paste-robot
 ---
 Maybe I fixed me problem with me regulator.
 

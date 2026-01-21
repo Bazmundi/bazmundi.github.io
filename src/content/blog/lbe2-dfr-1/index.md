@@ -1,6 +1,8 @@
 ---
 title: "LBE=2, DFR=-1"
 pubDate: 2016-12-12 08:07:24
+categories:
+  - rant
 ---
 I just got notification from LBE that they have refunded the money for the Genuino 101 that neither of my computers can see it on any of their USB ports.
 DFR are still insisting I delete IDE, re-install drivers, all the things I have already done ad nauseum.

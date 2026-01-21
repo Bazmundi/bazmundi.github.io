@@ -1,6 +1,11 @@
 ---
 title: "Hot damn!"
 pubDate: 2016-01-03 03:05:36
+categories:
+  - mqtt
+  - networking
+  - node-red
+  - odroid-w
 ---
 ![node-red-pi](./node-red-pi.png)
 node-red running on my odroid-w.

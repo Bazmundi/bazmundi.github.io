@@ -1,6 +1,13 @@
 ---
 title: "Piece by piece"
 pubDate: 2025-12-24 00:55:49
+categories:
+  - esp32
+  - mqtt
+  - pcb-design
+  - pcbway-sponsored
+  - pick-plaz-port
+  - smt-feeders
 ---
 Porting of pick-plaz over to ESP32 on its way.
 

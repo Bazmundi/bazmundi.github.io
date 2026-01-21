@@ -1,6 +1,9 @@
 ---
 title: "Punked it!"
 pubDate: 2017-07-30 06:30:08
+categories:
+  - c-h-i-p
+  - networking
 ---
 So, the joke I had with Mike Brady, the chap who maintains shairport-sync, was that the problem I was having with dropping of audio was that I was listening to my wife's punk music.
 The acid test for the fix I have used (basic interpolation and longer background buffer) was to pump The Living End to two of the C.H.I.P.

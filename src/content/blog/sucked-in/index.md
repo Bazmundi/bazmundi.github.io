@@ -1,6 +1,9 @@
 ---
 title: "Sucked in!"
 pubDate: 2021-10-07 07:03:01
+categories:
+  - design-musings
+  - pnp
 ---
 ![](./20211007_1713497068122293382047719.jpg)
 

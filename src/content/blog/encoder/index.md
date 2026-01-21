@@ -1,6 +1,9 @@
 ---
 title: "Encoder"
 pubDate: 2021-10-09 08:08:09
+categories:
+  - design-musings
+  - pnp
 ---
 [![](./encoder.png)](./encoder.png)
 

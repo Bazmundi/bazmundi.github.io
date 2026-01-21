@@ -1,6 +1,9 @@
 ---
 title: "You call that a battery?"
 pubDate: 2021-02-05 07:03:00
+categories:
+  - pop-culture-reference
+  - the-after-market
 ---
 THIS is a battery!
 

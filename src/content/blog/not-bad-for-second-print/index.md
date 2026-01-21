@@ -1,6 +1,8 @@
 ---
 title: "Not bad for second print"
 pubDate: 2019-01-05 06:07:17
+categories:
+  - 3d-printing
 ---
 ![](./thumbnail_20190104_173009.jpg)
 

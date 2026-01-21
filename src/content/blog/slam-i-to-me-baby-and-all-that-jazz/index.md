@@ -1,6 +1,8 @@
 ---
 title: "SLAM IT TO ME BABY and all that Jazz"
 pubDate: 2011-12-28 10:38:58
+categories:
+  - software
 ---
 **Mobile Robot Course**
  [Introduction to Mobile Robotics (engl.) - Autonomous Mobile Systems](http://ais.informatik.uni-freiburg.de/teaching/ss09/robotics/ "It's in English, self study with Octave code examples").  You will need [Octave](http://www.gnu.org/software/octave/ "Download Octave from here") (the MATLAB clone).

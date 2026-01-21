@@ -1,6 +1,12 @@
 ---
 title: "3D printed parametric feeder tray"
 pubDate: 2021-11-04 22:15:13
+categories:
+  - da-vinci-award
+  - design-musings
+  - pnp
+  - pnp-trays
+  - recommendation
 ---
 The feeder tray for small strips I am using is [this one](https://www.thingiverse.com/thing:2506053), so thankyou [Michael G](https://www.thingiverse.com/michaelgr/designs).
 

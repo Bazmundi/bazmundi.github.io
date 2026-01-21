@@ -1,6 +1,10 @@
 ---
 title: "In hind sight"
 pubDate: 2015-05-15 23:21:17
+categories:
+  - arduino
+  - nostalgia
+  - wifi
 ---
 Looking at it realistically, OpenSprinkler hardware is likely a no-go for me.   Why?
 When I looked at it rationally, I have the skills and the technology and I have also lamented the "maker" mentality before (buying things and plugging them together rather than designing and constructing).

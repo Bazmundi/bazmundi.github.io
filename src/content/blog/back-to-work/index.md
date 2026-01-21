@@ -1,6 +1,14 @@
 ---
 title: "Back to work"
 pubDate: 2017-08-05 11:32:14
+categories:
+  - esp8266
+  - lua
+  - mqtt
+  - node-red
+  - opensprinklette
+  - orange-pi
+  - wemos-d1-r2
 ---
 So, at last, now that the OPiZ setup saga is over (fingers crossed) we begin over.
 I [built a new nodemcu firmware for the WeMOS](https://nodemcu-build.com/) to include:

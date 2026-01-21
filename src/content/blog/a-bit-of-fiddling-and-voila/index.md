@@ -1,6 +1,11 @@
 ---
 title: "A bit of fiddling and voila!"
 pubDate: 2021-11-08 05:47:45
+categories:
+  - 3d-printing
+  - design-musings
+  - pnp
+  - pnp-trays
 ---
 [![](./nopins.png)](./nopins.png)
 

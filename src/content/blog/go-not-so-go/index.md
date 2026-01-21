@@ -1,6 +1,10 @@
 ---
 title: "Go not so Go"
 pubDate: 2014-09-14 11:05:19
+categories:
+  - beaglebone-black
+  - concurrency
+  - go-language
 ---
 Well, I tried the flashing led example at Gobot for bbb.
 It seems they left out a little bit of information, you actually have to add an LED (it doesn't use one of the four USER LED provided on the board).

@@ -1,6 +1,8 @@
 ---
 title: "Opensource???"
 pubDate: 2014-12-02 09:33:10
+categories:
+  - the-downside-of-opensource
 ---
 [caption id="attachment\_1697" align="aligncenter" width="450"][![Exclusive Open Source](./xclusv.png)](./xclusv.png) Exclusive Open Source[/caption]
 Okay, so I'll bite.

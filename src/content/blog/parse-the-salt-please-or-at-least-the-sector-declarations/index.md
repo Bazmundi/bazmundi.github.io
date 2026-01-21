@@ -1,6 +1,9 @@
 ---
 title: "Parse the salt please, or at least the sector declarations"
 pubDate: 2017-08-10 03:23:10
+categories:
+  - mqtt
+  - opensprinklette
 ---
 So, I spent some time on how to parse zone commands for the sprinklers in the form "sector1=1,sector3=4,sector2=0,sector3=1", from the google calendar event titles, into mqtt commands for the WeMOS nodes.
 Regex have never been a favourite of mine, being a clunky solution from hackers for hackers.

@@ -1,6 +1,11 @@
 ---
 title: "Working from home has is ups ..."
 pubDate: 2021-11-25 10:52:35
+categories:
+  - 3d-printing
+  - handheld-solder-paste-dispenser
+  - pnp
+  - tools-for-the-job
 ---
 ... so, in the middle of meetings I can listen in while fiddling with bits and bobs.
 

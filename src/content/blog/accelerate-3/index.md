@@ -1,6 +1,9 @@
 ---
 title: "Accelerate 3"
 pubDate: 2014-04-21 02:30:42
+categories:
+  - parallel-talk
+  - python-rules
 ---
 Just ran a couple of examples from a [pyOpenCL tutorial site](https://github.com/benshope/PyOpenCL-Tutorial "Step by step").
 I tried running the [optimized matrix multiply](https://github.com/benshope/PyOpenCL-Tutorial/blob/master/06_optimized_matrix_multiply.py "Nope") but it clapped out.  I had to change the "blocksize = 32" to "blocksize=16" before it would work on my GPU.  Otherwise it didn't offer any impressive numbers.

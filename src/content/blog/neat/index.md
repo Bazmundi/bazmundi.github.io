@@ -1,6 +1,8 @@
 ---
 title: "Neat!"
 pubDate: 2020-02-08 07:59:18
+categories:
+  - opensprinklette
 ---
 ![](./20200208_1822052478234931333874328.jpg)
 

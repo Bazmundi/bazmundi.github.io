@@ -1,6 +1,10 @@
 ---
 title: "Goop dry"
 pubDate: 2023-12-23 22:43:48
+categories:
+  - 3d-printing
+  - manual-pnp
+  - pnp-trays
 ---
 [![](./20231224_090621.jpg)](./20231224_090621.jpg)
 

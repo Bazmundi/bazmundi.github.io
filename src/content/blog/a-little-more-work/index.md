@@ -1,6 +1,10 @@
 ---
 title: "A little more work."
 pubDate: 2021-04-26 05:54:21
+categories:
+  - design-musings
+  - hardware
+  - usb-microscope-xy-bed
 ---
 Yep I did talk about rotary encoders and I suppose the image with a breakout of an encoder would suggest I had bought the following:
 

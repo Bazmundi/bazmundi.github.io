@@ -1,6 +1,8 @@
 ---
 title: "It all falls down ..."
 pubDate: 2014-09-26 11:08:45
+categories:
+  - the-downside-of-opensource
 ---
 So, a little digging and I am appalled.
 The response from some members of the Raspberry Pi Foundation forums to ODROID-W was caustic.  They felt that Hardkernel had "jumped on back the good work of the Foundation" in a bad way - "stealing" from the Foundation.

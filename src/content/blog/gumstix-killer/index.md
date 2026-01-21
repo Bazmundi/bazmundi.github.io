@@ -1,6 +1,8 @@
 ---
 title: "Gumstix Killer"
 pubDate: 2012-10-04 10:38:52
+categories:
+  - hardware
 ---
 **GUMSTIX (the old way)**
 I had been holding off on buying a [gumstix](http://www.gumstix.org/ "there was a time") because they are quite expensive for the horsepower.

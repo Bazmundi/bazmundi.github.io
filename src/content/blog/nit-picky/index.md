@@ -1,6 +1,12 @@
 ---
 title: "Nit Picky"
 pubDate: 2021-03-19 13:00:46
+categories:
+  - 3d-printing
+  - handheld-solder-paste-dispenser
+  - hardware
+  - pnp
+  - tools-for-the-job
 ---
 So, I did actually change my mind on the ATMEGA328P based paste dispenser [from](https://www.thingiverse.com/thing:1119914) really a PnP tool based:
 

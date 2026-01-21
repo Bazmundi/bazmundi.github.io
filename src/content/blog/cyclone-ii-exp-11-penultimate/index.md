@@ -1,6 +1,9 @@
 ---
 title: "Cyclone II-Exp.11- Complete"
 pubDate: 2014-05-04 11:49:26
+categories:
+  - cyclone-ii-experiments
+  - nios-ii-experiments
 ---
 Nailed the tutorial up to and including the Assembly  and C steps with monitor.
 I also jumped into a second tutorial to try building software with the Eclipse based Nios II SBT.

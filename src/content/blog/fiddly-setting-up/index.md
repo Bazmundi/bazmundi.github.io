@@ -1,6 +1,9 @@
 ---
 title: "Fiddly setting up"
 pubDate: 2021-08-03 22:50:22
+categories:
+  - pnp
+  - recommendation
 ---
 Running the destructions for setting up of [this](https://makr.zone/new-all-3d-printed-tapereel-feeder/399/) feeder option.
 

@@ -1,6 +1,9 @@
 ---
 title: "Bloggie lens hack"
 pubDate: 2021-10-13 12:44:36
+categories:
+  - robotics
+  - vision
 ---
 So, the point of all the bloggie 360o lenses is in Figure 1.
 

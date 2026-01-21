@@ -1,6 +1,9 @@
 ---
 title: "Who knows why?"
 pubDate: 2016-12-28 07:12:52
+categories:
+  - google-api-blues
+  - linux
 ---
 So a raw install of node-red on PC, an install of node-red-node-google, a google calendar api account, a bit of fiddling and half an hour tops and node-red was reporting google calendar events.
 So an hour of attempting different install mechanisms for node-red (to get anything to work) - plagued somewhat by bits that reported deprecation and a couple of kaputs - the same google calendar api account from previous step, two days of failure to get the google calendar out to register with the api.   I lowered myself to go onto stackexchange, got an "Answer" which I cannot correct because I don't have kudos, a hostile dill who's Answer I have torn down.

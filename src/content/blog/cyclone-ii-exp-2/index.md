@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.2"
 pubDate: 2014-03-29 09:51:38
+categories:
+  - cyclone-ii-experiments
 ---
 No red wine this time.  Some stout instead.
 So experiment 2 - adding a switch to turn the led on and off.  Gripping stuff!

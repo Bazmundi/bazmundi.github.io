@@ -1,6 +1,8 @@
 ---
 title: "Slowed up again."
 pubDate: 2021-03-22 00:04:18
+categories:
+  - rant
 ---
 All I am after is 5 molex mini USB sockets, am I [nit picking](https://organicmonkeymotion.wordpress.com/2021/03/19/nit-picky/)?
 

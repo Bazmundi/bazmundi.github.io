@@ -1,6 +1,8 @@
 ---
 title: "New boards have arrived"
 pubDate: 2020-02-02 08:22:40
+categories:
+  - opensprinklette
 ---
 ![](./20200201_185140.jpg)
 

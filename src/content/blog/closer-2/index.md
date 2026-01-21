@@ -1,6 +1,8 @@
 ---
 title: "Closer , but no banana"
 pubDate: 2021-08-03 11:10:21
+categories:
+  - pnp
 ---
 https://www.youtube.com/watch?v=QfrxxnzTJik
 

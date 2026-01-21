@@ -1,6 +1,8 @@
 ---
 title: "DOH!"
 pubDate: 2023-11-04 22:08:21
+categories:
+  - monsta-pc-build
 ---
 Got to here with my Monsta PC build.
 

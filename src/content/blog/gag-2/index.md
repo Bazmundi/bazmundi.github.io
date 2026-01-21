@@ -1,6 +1,8 @@
 ---
 title: "Gag!"
 pubDate: 2016-07-25 11:44:35
+categories:
+  - networking
 ---
 So, bombed a C.H.I.P. with [shairport-sync](https://github.com/mikebrady/shairport-sync).  This is a neat Airplay client app.
 Only problem is my old house seems to throttle back the wifi throughput with its double brick walls.

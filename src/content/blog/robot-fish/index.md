@@ -1,6 +1,10 @@
 ---
 title: "Robot fish"
 pubDate: 2013-09-18 14:06:18
+categories:
+  - arduino
+  - prototyping
+  - sea
 ---
 [![robo fish](./robofish2.jpg)](./robofish2.jpg)
  

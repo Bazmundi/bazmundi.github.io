@@ -1,6 +1,8 @@
 ---
 title: "My run-in with Synapse and SNAP"
 pubDate: 2012-08-05 06:54:45
+categories:
+  - the-downside-of-software-development
 ---
 So, were did we come from:
 

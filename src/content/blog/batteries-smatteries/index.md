@@ -1,6 +1,10 @@
 ---
 title: "Batteries smatteries"
 pubDate: 2014-10-02 09:12:09
+categories:
+  - embedded
+  - erlang
+  - raspberry-pirate
 ---
 Gag!
 I ordered a couple of extra ODROID-W without base board - just to have on hand for those spontaneous projects.

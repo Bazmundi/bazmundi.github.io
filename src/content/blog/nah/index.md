@@ -1,6 +1,9 @@
 ---
 title: "Nah"
 pubDate: 2022-08-20 13:02:41
+categories:
+  - 3d-printing
+  - bear-build
 ---
 Decided [this was the case for my Bear's mobo](https://www.printables.com/model/64977-vertical-case-skr-mini-e3/files).
 

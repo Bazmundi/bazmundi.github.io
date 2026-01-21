@@ -1,6 +1,9 @@
 ---
 title: "Erlang on C.H.I.P."
 pubDate: 2016-07-30 12:07:49
+categories:
+  - embedded
+  - erlang
 ---
 Well, with github and nerves-project.org down (for some dangblasted reason) I tried building Erlang on one of my C.H.I.P. from instructions [here](http://elinux.org/Erlang) (for RaspbreathyPiklette).
 ![CHIPerl](./chiperl.png)

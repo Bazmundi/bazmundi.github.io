@@ -1,6 +1,8 @@
 ---
 title: "Surrealist Humour"
 pubDate: 2022-02-07 08:26:04
+categories:
+  - jokes-as-ai-generated-art
 ---
 Why is a duck?
 

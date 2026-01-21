@@ -1,6 +1,8 @@
 ---
 title: "We are there, yet!"
 pubDate: 2023-06-03 06:35:23
+categories:
+  - manual-pnp
 ---
 [![](./20230603_144123-2.jpg)](./20230603_144123-2.jpg)
 

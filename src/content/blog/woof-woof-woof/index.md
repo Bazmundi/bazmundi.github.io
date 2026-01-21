@@ -1,6 +1,10 @@
 ---
 title: "Woof woof woof"
 pubDate: 2017-06-18 13:25:21
+categories:
+  - arduino
+  - mqtt
+  - sensing
 ---
 A neighbor complained that the dogs were barking all day.
 Likely cause all the renovation work going on (late into the night as well).

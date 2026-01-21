@@ -1,6 +1,8 @@
 ---
 title: "Small steps"
 pubDate: 2016-12-24 07:32:25
+categories:
+  - opensprinklette
 ---
 Going from hints provided, I added 1.2kohm pull-up resisters to 3.3v on a breadboard shield that currently sits between the Wemos D1 R2 and what appears to be a clone of the Seeeduino Relay Shield V2.
 The pullups need to go on D3 and D4 (GPIO0 and GPIO2) of the Wemos board.

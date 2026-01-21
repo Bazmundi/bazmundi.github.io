@@ -1,6 +1,8 @@
 ---
 title: "A little bit of this and a little bit of that."
 pubDate: 2021-08-03 09:00:32
+categories:
+  - pnp
 ---
 [![](./processed3.jpeg)](./processed3.jpeg)
 

@@ -1,6 +1,8 @@
 ---
 title: "Smooth work"
 pubDate: 2022-02-12 06:06:40
+categories:
+  - pnp
 ---
 [![](./20220212_152128.jpg)](./20220212_152128.jpg)
 

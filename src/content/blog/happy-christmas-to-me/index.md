@@ -1,6 +1,8 @@
 ---
 title: "Happy Christmas to me!"
 pubDate: 2019-12-24 01:41:01
+categories:
+  - test-bench
 ---
 So, the wife was pestering me to give me hints as to what I wanted for Christmas.
 

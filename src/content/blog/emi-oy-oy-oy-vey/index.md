@@ -1,6 +1,11 @@
 ---
 title: "EMI oy, oy, oy vey"
 pubDate: 2022-12-18 23:03:51
+categories:
+  - esp32
+  - manual-pnp
+  - pnp
+  - wireless-manual-pnp-pump
 ---
 The idea was, actually, to run the ESP32 pair (pedal and pump) off battery - for the portable aspect.
 

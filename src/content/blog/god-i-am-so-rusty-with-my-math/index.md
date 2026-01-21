@@ -1,6 +1,9 @@
 ---
 title: "God I am so rusty with my math"
 pubDate: 2016-03-08 18:45:53
+categories:
+  - altera-labs
+  - cyclone-ii-experiments
 ---
 Not to mention the twists when doing math in VHDL.
 Okay, I will mention it.

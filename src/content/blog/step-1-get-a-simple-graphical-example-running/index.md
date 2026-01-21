@@ -1,6 +1,9 @@
 ---
 title: "Step 1 - get a simple graphical example running"
 pubDate: 2024-10-22 11:39:04
+categories:
+  - esp32
+  - esp32-cyd
 tags:
   - arduino
   - esp-cyd

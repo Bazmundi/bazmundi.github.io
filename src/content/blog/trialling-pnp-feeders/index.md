@@ -1,6 +1,9 @@
 ---
 title: "Trialling PnP feeders"
 pubDate: 2021-08-02 10:31:37
+categories:
+  - 3d-printing
+  - pnp
 ---
 I have printed out a couple of 8mm and a couple of 24mm PnP feeders from the source design.
 

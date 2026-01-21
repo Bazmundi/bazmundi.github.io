@@ -1,6 +1,9 @@
 ---
 title: "Still not right"
 pubDate: 2014-11-01 14:57:47
+categories:
+  - altera-labs
+  - cyclone-ii-experiments
 ---
 [Following on ...](http://organicmonkeymotion.wordpress.com/2014/10/22/not-quite-right/ "Not quite right")
 Near as I can figure:

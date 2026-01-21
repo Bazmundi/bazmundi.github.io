@@ -1,6 +1,8 @@
 ---
 title: "Dissapointing"
 pubDate: 2018-01-29 10:12:08
+categories:
+  - buyer-beware
 ---
 Have poor eyes nowadaze.  So I have a few gadgets to help out.  I have a large plastic fresnel lens, a jeweler's monocle, a hands free mag glass with light, namely:
 ![](./headmag.jpg)

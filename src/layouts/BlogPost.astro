@@ -6,11 +6,13 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION } from '../consts';
+import { getCategoryLinks } from '../lib/blog';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, categories } = Astro.props;
 const metaDescription = description ?? SITE_DESCRIPTION;
+const categoryLinks = getCategoryLinks(categories ?? []);
 ---
 
 <html lang="en">
@@ -54,6 +56,23 @@ const metaDescription = description ?? SITE_DESCRIPTION;
 			.last-updated-on {
 				font-style: italic;
 			}
+			.category-list {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: center;
+				gap: 0.5rem;
+				list-style: none;
+				margin: 0.5rem 0 0;
+				padding: 0;
+			}
+			.category-list a {
+				color: rgb(var(--gray-dark));
+				text-decoration: none;
+				font-size: 0.9em;
+			}
+			.category-list a:hover {
+				color: var(--accent);
+			}
 		</style>
 	</head>
 
@@ -76,6 +95,15 @@ const metaDescription = description ?? SITE_DESCRIPTION;
 								)
 							}
 						</div>
+						{categoryLinks.length ? (
+							<ul class="category-list">
+								{categoryLinks.map((category) => (
+									<li>
+										<a href={`/blog/category/${category.slug}/`}>{category.name}</a>
+									</li>
+								))}
+							</ul>
+						) : null}
 						<h1>{title}</h1>
 						<hr />
 					</div>

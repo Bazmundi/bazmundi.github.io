@@ -1,6 +1,8 @@
 ---
 title: "Halp!"
 pubDate: 2017-04-05 21:33:32
+categories:
+  - help-request
 ---
 Why have I strange red circles now on my Android desktop?
 Just floating above everything.  Not reacting to anything?

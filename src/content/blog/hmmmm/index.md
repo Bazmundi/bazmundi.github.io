@@ -1,6 +1,8 @@
 ---
 title: "Hmmmm"
 pubDate: 2012-09-06 14:17:05
+categories:
+  - hardware
 ---
 Now, you'll recall that I used the 3volt FTDI dongle to power the Razor IMU and connect it to the COM port.
 Just based on the [Razor tutorial](https://dev.qu.tu-berlin.de/projects/sf-razor-9dof-ahrs/wiki/Tutorial "A blue tooth wireless IMU") there is a straight forward approach to setting up the IMU with a bluetooth connection.  But I had a wild idea.  Using an [XBee Explorer Regulated](https://www.sparkfun.com/products/9132? "Hmmmmm") I should be able to pump the IMU data out to a SNAP network.

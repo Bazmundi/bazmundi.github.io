@@ -1,6 +1,8 @@
 ---
 title: "OH NO!"
 pubDate: 2022-03-26 04:46:16
+categories:
+  - 3d-printing
 ---
 Found my next project (post Bear Build and Automatic corexy PnP build).
 

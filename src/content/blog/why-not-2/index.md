@@ -1,6 +1,10 @@
 ---
 title: "Why not"
 pubDate: 2024-11-26 06:49:25
+categories:
+  - animatronics-for-the-fun-of-it
+  - cnc
+  - pcb-design
 tags:
   - animatronics
   - kicad

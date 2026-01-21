@@ -1,6 +1,8 @@
 ---
 title: "A little hacking and voila!"
 pubDate: 2025-02-22 01:17:00
+categories:
+  - bear-build
 ---
 [![](./large_display_view3.webp)](./large_display_view3.webp)
 

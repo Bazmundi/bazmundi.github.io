@@ -1,6 +1,8 @@
 ---
 title: "Cheap crap!"
 pubDate: 2025-08-01 23:35:25
+categories:
+  - soldering-robot
 ---
 My own fault, as you sorta kinda know right?
 

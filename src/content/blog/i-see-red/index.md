@@ -1,6 +1,9 @@
 ---
 title: "I SEE RED ..."
 pubDate: 2023-09-19 10:06:00
+categories:
+  - esp32
+  - vision
 ---
 ... NO I DON'T
 

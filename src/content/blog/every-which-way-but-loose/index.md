@@ -1,6 +1,8 @@
 ---
 title: "Every which way but loose ..."
 pubDate: 2014-12-27 07:58:51
+categories:
+  - doodling
 ---
 ... that was a movie weren't it?
 [![everyway](./everyway.png)](./everyway.png)

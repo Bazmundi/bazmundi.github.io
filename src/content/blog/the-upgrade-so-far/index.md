@@ -1,6 +1,8 @@
 ---
 title: "The upgrade, so far, ..."
 pubDate: 2024-10-19 06:28:40
+categories:
+  - manual-pnp
 ---
 Outside upgrading the larger manul PnP machine, with it's [own vacuum pump setup](https://organicmonkeymotion.wordpress.com/2024/10/19/like-da-a-k-a-doh/), I had an accident moving it to/from the makerspace, and broke the linear rail posts.
 

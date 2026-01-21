@@ -1,6 +1,8 @@
 ---
 title: "Amazing!"
 pubDate: 2021-05-19 13:49:21
+categories:
+  - test-bench
 ---
 On ebay, I sold another batch of underutilised niff naff out of my drawers, so on the way now from Aliexpress, for my test/workbench, are a couple of upgrades.
 

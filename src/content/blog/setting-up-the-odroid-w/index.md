@@ -1,6 +1,11 @@
 ---
 title: "Setting up the ODROID-W"
 pubDate: 2014-10-10 07:59:29
+categories:
+  - embedded
+  - erlang
+  - odroid-w
+  - raspberry-pirate
 ---
 A second package turned up in my PO box from Hardkernel.  It was the extra ODROID-W for my parts drawer and also the [connector](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G140610379462 "Whoops!") sets I forgot to get.  Trying out the ODROID-W plus base board was a little hard without the connectors, yes?
 [caption id="attachment\_1615" align="aligncenter" width="300"][![Ah! That's better.](./201407241646239359.jpg)](./201407241646239359.jpg) Ah! That's better.[/caption]

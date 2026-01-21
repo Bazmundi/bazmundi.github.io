@@ -1,6 +1,8 @@
 ---
 title: "Defeasible"
 pubDate: 2022-02-07 08:01:15
+categories:
+  - jokes-as-ai-generated-art
 ---
 Here is a joke that is used to explain Defeasible Reasoning:
 

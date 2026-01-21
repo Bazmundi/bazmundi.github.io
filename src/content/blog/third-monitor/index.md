@@ -1,6 +1,8 @@
 ---
 title: "Third monitor"
 pubDate: 2024-11-30 07:27:32
+categories:
+  - animations-for-the-fun-of-it
 tags:
   - blender
   - touch-screen

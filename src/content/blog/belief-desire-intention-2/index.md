@@ -1,6 +1,8 @@
 ---
 title: "Belief Desire Intention 2"
 pubDate: 2014-03-01 04:35:57
+categories:
+  - python-rules
 ---
 Go figure, by accident I came across a Python Library for BDI and even better it was based on AgentSpeak.
 [PROFETA](https://github.com/corradosantoro/profeta "Pythonic BDI")

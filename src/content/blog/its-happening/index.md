@@ -1,6 +1,8 @@
 ---
 title: "It's HAPPENING!"
 pubDate: 2021-10-19 06:11:39
+categories:
+  - pnp
 ---
 I picked up a package from the PO today. Turns out its the 2020 T-Slot extrusions for my corexy PnP idea!
 

@@ -1,6 +1,11 @@
 ---
 title: "3D Scanner 2 (follow up)"
 pubDate: 2013-06-19 14:21:49
+categories:
+  - android
+  - arduino
+  - hardware
+  - sensing
 ---
 *(\*breathing deeply into a paper bag\*)*
 I keep reading blogs, user groups etc where people want to voice "confusion" about laser importing laws in Australia.

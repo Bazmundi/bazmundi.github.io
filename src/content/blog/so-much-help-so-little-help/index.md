@@ -1,6 +1,8 @@
 ---
 title: "So much help, so little help"
 pubDate: 2017-12-08 06:01:28
+categories:
+  - the-downside-of-software-development
 ---
 So, I stupidly thought I would upgrade my elixir and crack open my book on Phoenix and plod through the examples while home sick with the flu.
 Book is Programming Phoenix (eBook) P1.0 from PragProg

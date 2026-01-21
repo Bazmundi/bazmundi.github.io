@@ -1,6 +1,10 @@
 ---
 title: "Simple paste dispenser"
 pubDate: 2021-09-30 00:21:50
+categories:
+  - 3d-printing
+  - handheld-solder-paste-dispenser
+  - pnp
 ---
 [![](./20210930_092119.jpg)](./20210930_092119.jpg)
 

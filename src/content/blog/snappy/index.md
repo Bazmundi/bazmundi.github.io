@@ -1,6 +1,10 @@
 ---
 title: "Snappy!"
 pubDate: 2018-09-01 21:11:41
+categories:
+  - mqtt
+  - node-red
+  - thingbox
 ---
 So, yes.  I have been playing with Snap while doing the Docker course.
 I did install Ubuntu Core on the OPi and managed to get Mosquitto snap running.  But the node-red snap keeps failing to connect or install (with time-outs reported).   It is 6 am on Saturday, so is that indicative of northern hemisphere loading on the Net?  Who knows, wife, sister in law and two of there friends just finished their party.  I was woken when the retrobates left.  So, I am dabbling.

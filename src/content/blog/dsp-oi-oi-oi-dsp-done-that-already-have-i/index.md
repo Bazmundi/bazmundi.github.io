@@ -1,6 +1,9 @@
 ---
 title: "DSP oi, oi, oi, DSP ... done that already have I?"
 pubDate: 2014-06-10 09:45:11
+categories:
+  - dsp
+  - dsp-laboratory
 ---
 Author/lecturer has made his text on digital signal processing available online [here](http://eceweb1.rutgers.edu/~orfanidi/intro2sp "Very good, well tested against students").
 The wild thing, he has a [lab book based on the ADSP 2181 EZKIT LITE](http://www.ece.rutgers.edu/~orfanidi/ezkitl/man.pdf "What are the chances?"), aka:

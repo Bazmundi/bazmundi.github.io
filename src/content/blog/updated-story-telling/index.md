@@ -1,6 +1,9 @@
 ---
 title: "Updated story telling"
 pubDate: 2022-01-04 00:24:26
+categories:
+  - 3d-printing
+  - pnp
 ---
 How about something like this?
 

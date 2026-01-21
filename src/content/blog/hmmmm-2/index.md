@@ -1,6 +1,10 @@
 ---
 title: "Hmmmm ..."
 pubDate: 2017-06-01 09:55:24
+categories:
+  - erlang
+  - mqtt
+  - orange-pi
 ---
 ... so the sage seems to be continuing.
 I was able to get erlang going on the OPiZ.  I tossed up whether I was going to put RabbitMQ or emqttd onto the gadget - going for emqttd since it didn't need to carry all the protocols you can play with using RabbitMQ.

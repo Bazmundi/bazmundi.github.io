@@ -1,6 +1,9 @@
 ---
 title: "j1 - almost"
 pubDate: 2015-09-16 13:10:57
+categories:
+  - forth-is-it-dead-or-isnt-it
+  - fpga
 ---
 A while back I had a poke at porting the [J1 FORTH](http://www.excamera.com/sphinx/fpga-j1.html) softcore to Altera.
 Yep, ahead of my meanderings with the Altera LABS but I have spent years in software development and real-time DSP and other systems so the LABS are just me being methodical and giving back to the community.  My main aim, eventually, is DSP and vision experiments.

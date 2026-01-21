@@ -1,6 +1,9 @@
 ---
 title: "Why priori knowledge is so irritating"
 pubDate: 2017-05-20 11:25:21
+categories:
+  - factor-programming-language
+  - forth-is-it-dead-or-isnt-it
 ---
 Something so simple, if you have example code on your blog why on earth do you not included the includes.  Priori knowledge is not immediately explicit.
 I bumbled through the example of [constraint based programming in Factor](http://re-factor.blogspot.com.au/2017/02/711.html).  Go figure, the actual code should be:

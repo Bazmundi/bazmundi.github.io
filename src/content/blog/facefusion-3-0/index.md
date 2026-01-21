@@ -1,6 +1,8 @@
 ---
 title: "FaceFusion 3.0"
 pubDate: 2024-10-31 10:34:27
+categories:
+  - ai
 ---
 Installation steps for me MonstaPC:
 

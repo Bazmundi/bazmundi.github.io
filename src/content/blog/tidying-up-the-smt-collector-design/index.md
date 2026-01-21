@@ -1,6 +1,11 @@
 ---
 title: "Tidying up the SMT collector design"
 pubDate: 2021-11-21 06:12:57
+categories:
+  - 3d-printing
+  - design-musings
+  - pnp
+  - smt-cover-tape-collector
 ---
 Brilliant, should have thought of this in the first place, but there are [belt length calculators out there](https://www.omnicalculator.com/physics/belt-length). So, I lucked in (I think) to a standard 188mm belt assuming the 70tooth is about 47mm diameter and the 20tooth is around 15mm.
 

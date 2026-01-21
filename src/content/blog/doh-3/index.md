@@ -1,6 +1,8 @@
 ---
 title: "DOH!"
 pubDate: 2016-11-27 05:08:19
+categories:
+  - the-downside-of-opensource
 ---
 So, apart from TheThingBox install woes on the RaspingBreathBurry (now I just have lotsa cupsa tea while waiting for booting) I find trying to connect to Google Calendar ain't happening without pain.
 Apart from the failures to connect to the Calendar on my gmail account - until the fourth attempt at rebooting the sluggish RaspingBreathBurry.

@@ -1,6 +1,12 @@
 ---
 title: "Tidier"
 pubDate: 2025-03-03 00:26:31
+categories:
+  - 3d-modelling
+  - 3d-printing
+  - cnc
+  - cnc-machining
+  - tools-for-the-job
 ---
 1/8" bit bin.
 

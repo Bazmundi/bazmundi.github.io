@@ -1,6 +1,8 @@
 ---
 title: "Bloggies for sale"
 pubDate: 2021-10-11 21:25:50
+categories:
+  - recycling
 ---
 So I have a collection of Bloggies, Figure 1, one is not in the shot as I am trying to recharge them before sale.
 

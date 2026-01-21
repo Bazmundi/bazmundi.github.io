@@ -1,6 +1,8 @@
 ---
 title: "Simple!"
 pubDate: 2020-02-17 09:25:12
+categories:
+  - opensprinklette
 ---
 ![](./by-sun-time.png)
 

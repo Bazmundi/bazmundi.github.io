@@ -1,6 +1,8 @@
 ---
 title: "DrRacket is a racket"
 pubDate: 2015-12-06 13:26:08
+categories:
+  - everything-old-is-new-again
 ---
 What a way to get people through their prejudices.
 Change the name from Scheme to Racket and bank on people not having a history of being misinformed to believe Lisp and Scheme are dead.

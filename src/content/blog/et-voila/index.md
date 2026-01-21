@@ -1,6 +1,8 @@
 ---
 title: "Et Voila!"
 pubDate: 2019-12-29 13:42:50
+categories:
+  - opensprinklette
 ---
 So, I rebuilt [a brand new single relay opensprinklette board](https://organicmonkeymotion.wordpress.com/2019/12/28/brown-outs-and-all-that-jazz/). I did notice, as I stripped the original, that the end of the electrolytic was a tad "swollen", oh dear, oh well.
 

@@ -1,6 +1,9 @@
 ---
 title: "Here's the thing"
 pubDate: 2014-09-17 14:41:48
+categories:
+  - cyclone-ii-experiments
+  - forth-is-it-dead-or-isnt-it
 ---
 Forth in hardware on FPGA!
 So, of all the options found [uCore](http://www.microcore.org/ "Not a bad version") seems best as it compiles on my [EP2C5T144C8](http://www.aliexpress.com/item/Free-shipping-ALTERA-FPGA-EP2C5T144C8N-fpga-board-USB-BLASTER-fpga-development-board-fpga-altera-board/793643076.html "Tight squeeze"), voila!:

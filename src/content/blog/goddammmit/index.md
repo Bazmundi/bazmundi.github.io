@@ -1,6 +1,8 @@
 ---
 title: "Goddammmit!"
 pubDate: 2017-05-31 12:11:28
+categories:
+  - orange-pi
 ---
 So, go figure.  One is told One should either ssh into the OPiZ via ethernet OR the other option is the three pin serial connection on the board.  Examples included wiring instructions and the use of a 3.3v USB to serial board (like the Sparkfun one I have in my comms box).
 So when you startup Teraterm, for example, you can select a COM po ... hang on, there is two COM ports sho ... DOH!

@@ -1,6 +1,10 @@
 ---
 title: "To ESP or not to ESP, that is the question"
 pubDate: 2021-04-06 00:06:56
+categories:
+  - esp12ebee
+  - esp8266
+  - esphome
 ---
 So, I have been putting older development boards up on Ebay to clear out some of my drawers of things I don't use no more ... OH I don't ever use no morrrrRRREEEeeee!
 

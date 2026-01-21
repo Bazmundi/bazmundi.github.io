@@ -1,6 +1,10 @@
 ---
 title: "ODROID-C1 dropping internet"
 pubDate: 2016-12-26 22:44:21
+categories:
+  - linux
+  - odroid-c1
+  - the-downside-of-opensource
 ---
 I found I was having problems with the ODROID-C1, which I am building up as the node-red, mqtt, Phoenix server for home automation, was loosing internet connection a time after boot.
 I am building the machine on top of odrobian vanilla - I am using Debian based Linux on all my boxes by preference - which does leave me out in the cold with some software yes.

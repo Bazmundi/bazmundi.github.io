@@ -1,6 +1,9 @@
 ---
 title: "Merch?"
 pubDate: 2024-12-19 21:46:00
+categories:
+  - cnc-machining
+  - grbl
 tags:
   - easel
   - jb-hifi

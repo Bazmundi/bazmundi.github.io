@@ -1,6 +1,8 @@
 ---
 title: "Cyclone II-Exp.1 - followup"
 pubDate: 2014-03-29 09:08:54
+categories:
+  - cyclone-ii-experiments
 ---
 Coming back to the board I half expected when it started that it would simply light up the LED from the previous experiment.
 However, it jumped back up into counting up seconds on the 7-Segment displays.

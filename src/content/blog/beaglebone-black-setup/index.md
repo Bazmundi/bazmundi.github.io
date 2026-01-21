@@ -1,6 +1,11 @@
 ---
 title: "Beaglebone Black Setup"
 pubDate: 2013-06-15 03:19:08
+categories:
+  - development
+  - hardware
+  - linux
+  - networking
 ---
 [![bbb setup](./bbb-setup2.png)](./bbb-setup2.png)
 

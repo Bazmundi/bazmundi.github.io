@@ -1,6 +1,10 @@
 ---
 title: "So wearing ..."
 pubDate: 2017-06-16 15:09:52
+categories:
+  - linux
+  - orange-pi
+  - the-downside-of-opensource
 ---
 ... goddamm fracking frack!
 So, again different versions of versions of linux.

@@ -1,6 +1,9 @@
 ---
 title: "Magnets and work area"
 pubDate: 2021-10-01 13:44:18
+categories:
+  - design-musings
+  - pnp
 ---
 To avoid too much fiddling I am opting for a 300x380x1mm steel sheet for the working area per Figure 1 (see red area). Now this is a nice trade off as the actual working area is 310x310 but the cost of sheet and guillotining bumps the price up somewhat.
 

@@ -1,6 +1,8 @@
 ---
 title: "3 Hours of fiddling, and ..."
 pubDate: 2023-11-15 12:41:53
+categories:
+  - monsta-pc-build
 ---
 ... some progress on the Monsta PC build. Yeah, I got board with the setting up of a build video, as I just want the Monsta built. It wasn't a tutorial in any event, so no shakes giving up on that grand plan.
 

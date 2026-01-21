@@ -1,6 +1,8 @@
 ---
 title: "Limits on panels at PCBWay"
 pubDate: 2024-11-24 22:32:42
+categories:
+  - general-niff-naff-and-trivia
 tags:
   - pcb-way
 ---

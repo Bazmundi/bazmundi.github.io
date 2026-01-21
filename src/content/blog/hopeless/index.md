@@ -1,6 +1,11 @@
 ---
 title: "Hopeless!"
 pubDate: 2025-07-14 04:18:11
+categories:
+  - 3d-modelling
+  - 3d-printing
+  - freecad
+  - soldering-robot
 ---
 Can't help but start new projects. So, in the background, I am pulling together the BOM for:
 

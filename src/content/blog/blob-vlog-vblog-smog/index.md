@@ -1,6 +1,8 @@
 ---
 title: "BLOG, VLOG, VBLOG, SMOG ..."
 pubDate: 2021-12-25 22:57:27
+categories:
+  - vblog
 ---
 So, yes we now have a video build log, or VBLOG!
 

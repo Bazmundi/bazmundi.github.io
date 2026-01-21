@@ -1,6 +1,8 @@
 ---
 title: "Ping!!"
 pubDate: 2014-04-08 12:56:14
+categories:
+  - hardware
 ---
 I was looking for/at waterproof ultrasonic transducers and look what I found!
 [caption id="attachment\_1117" align="aligncenter" width="450"][![PinG!!](./ping.png)](./ping.png) PinG!![/caption]

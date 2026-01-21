@@ -1,6 +1,10 @@
 ---
 title: "Triple Gag!"
 pubDate: 2017-05-30 09:18:02
+categories:
+  - linux
+  - orange-pi
+  - the-downside-of-opensource
 ---
 So, can't install node nor npm from apt-get on either armbian (ubuntu or debian) for Orange Pi Zero.
 The Googledrive links on the Orange Pi page were duds so I reluctantly went to the Baidu Cloud link.  Baidu Cloud is so slow that for the longest time I thought it had no files at that location - it took upwards of 5 minutes to load the webpage.  That was the reason for going to the armbian distro.

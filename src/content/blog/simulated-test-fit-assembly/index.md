@@ -1,6 +1,9 @@
 ---
 title: "Simulated test fit assembly"
 pubDate: 2021-09-26 07:19:09
+categories:
+  - design-musings
+  - pnp
 ---
 So, I threw the parred back Voron Legacy, with both a feed and a spool holder to find not a bad fit without having to fiddle, though I expect once beds and other things go in that there'll be fiddling.
 

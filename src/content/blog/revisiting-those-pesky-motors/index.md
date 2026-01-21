@@ -1,6 +1,8 @@
 ---
 title: "Revisiting those pesky motors"
 pubDate: 2016-10-11 12:41:57
+categories:
+  - robocatus-maximus
 ---
 So, wife has gone to bed, so I have a vodka and soda in hand, while swapping the wiring and then the motors on the front of the Robocat - so that they turn the right way.
 ![20161011_221155](./20161011_221155.jpeg)

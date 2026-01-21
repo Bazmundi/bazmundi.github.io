@@ -1,6 +1,8 @@
 ---
 title: "VGA and FPGA"
 pubDate: 2014-04-24 07:06:16
+categories:
+  - cyclone-ii-experiments
 ---
 Actually, turns out it is easy to drive a [VGA output with an FPGA](http://www.fpga4fun.com/PongGame.html "Easy as ...").
 Rather than fiddling with soldering, or buying a bigger board if you don't want to, you can still probably do simple VGA work with a VGA breakout and your CPLD/FPGA.

@@ -1,6 +1,10 @@
 ---
 title: "BOOF working on Processing for Android!"
 pubDate: 2015-07-31 23:20:00
+categories:
+  - android
+  - processing
+  - vision
 ---
 A little work and a little sweat and the help of Peter Abeles (the author of BOOFCV) and BOOFCV can compile in Processing for Android.
 The fix is to break into the boofcv\_dependencies.jar and delete the xmlpull entry under: boofcv\_dependencies/org

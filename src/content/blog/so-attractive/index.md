@@ -1,6 +1,8 @@
 ---
 title: "So attractive!"
 pubDate: 2025-11-16 07:57:36
+categories:
+  - tools-for-the-job
 ---
 So I had double sided taped a steel plate used for pcb wrangling, mitt the typical magnetic pcb holder widgets. However, I'd often want to rotate the dang thang and opted out of that since the double sided tape was not budging without a lot of stripping and cleaning.
 

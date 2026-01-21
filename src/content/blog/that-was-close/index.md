@@ -1,6 +1,8 @@
 ---
 title: "That was close (retraction)"
 pubDate: 2017-08-17 04:30:36
+categories:
+  - windoze10
 ---
 I went to start my PC yesterday to find the dopey thing had fallen into an auto-update.
 I had turned off auto-update and refused to update my Windoze 10 because three times in a row the update froze.

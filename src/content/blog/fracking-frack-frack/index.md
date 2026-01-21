@@ -1,6 +1,10 @@
 ---
 title: "Fracking frack frack ..."
 pubDate: 2017-06-14 12:12:22
+categories:
+  - linux
+  - orange-pi
+  - the-downside-of-opensource
 ---
 So, got the emqttd and node-red running from separate console sessions on the OPiZ to checkout the mqtt messaging is working and voila!
 ![mqtt](./mqtt.png)

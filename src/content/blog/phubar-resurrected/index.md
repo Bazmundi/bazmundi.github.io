@@ -1,6 +1,9 @@
 ---
 title: "Phubar resurrected!"
 pubDate: 2021-03-20 01:34:43
+categories:
+  - air
+  - phubar
 ---
 So, way back there was a hack using a Parallax Propeller chip called [Phubar](https://code.google.com/archive/p/phubar/).
 

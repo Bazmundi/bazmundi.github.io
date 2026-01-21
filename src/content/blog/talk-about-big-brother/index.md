@@ -1,6 +1,10 @@
 ---
 title: "Talk about Big Brother!"
 pubDate: 2021-12-07 12:29:39
+categories:
+  - cheap-obsolete-tech
+  - home-assistant
+  - vision
 ---
 No not that crass one, the ominous one.
 

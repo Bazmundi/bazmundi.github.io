@@ -1,6 +1,9 @@
 ---
 title: "Tool Changer"
 pubDate: 2021-10-09 22:04:04
+categories:
+  - design-musings
+  - pnp
 ---
 Hmmm. Just came across an [open source tool changer](https://www.thingiverse.com/thing:3880296). So, if my basic idea for a magnetic tool head doesn't pan out then I have a fall back option. Though, this build doesn't really warrant anything to exotic.
 

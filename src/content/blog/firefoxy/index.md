@@ -1,6 +1,8 @@
 ---
 title: "Firefoxy!"
 pubDate: 2016-12-18 05:12:14
+categories:
+  - sucky-service-providers
 ---
 Got back from run to Jaycar for parts for OpenSprinklette prototype.
 Wife was browsing using FireFox.

@@ -1,6 +1,13 @@
 ---
 title: "Candidate 8mm auto feeders"
 pubDate: 2025-11-21 01:24:27
+categories:
+  - esp32
+  - mqtt
+  - pcb-design
+  - pcbway-sponsored
+  - pick-plaz-port
+  - smt-feeders
 tags:
   - bambu-labs
   - openpnp

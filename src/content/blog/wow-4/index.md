@@ -1,6 +1,11 @@
 ---
 title: "WoW!"
 pubDate: 2020-04-18 05:17:15
+categories:
+  - google-is-anti-australia
+  - google-sucks
+  - odroid-vs-raspingbreathburry
+  - raspingbreathburrydoodlepi
 ---
 [Clusterised heavon!](https://www.mininodes.com/product/5-node-raspberry-pi-3-com-carrier-board/) Except they are blown out of the water by a new option, more modules, more features and [cheaper](https://turingpi.com/)! JESUS! Everyone [is now doing it](https://www.cnx-software.com/2018/02/01/pine64-clusterboard-is-now-available-for-100-with-one-sopine-a64-system-on-module/)!
 

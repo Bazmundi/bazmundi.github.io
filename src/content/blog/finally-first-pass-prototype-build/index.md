@@ -1,6 +1,10 @@
 ---
 title: "Finally, first pass prototype build"
 pubDate: 2021-09-17 22:46:14
+categories:
+  - 3d-printing
+  - pnp
+  - pushpullfeeder
 ---
 [![](./working.jpg)](./working.jpg)
 

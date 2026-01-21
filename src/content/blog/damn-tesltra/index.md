@@ -1,6 +1,8 @@
 ---
 title: "Telstra SUX"
 pubDate: 2014-02-13 12:54:15
+categories:
+  - sucky-service-providers
 ---
 So, finally, Internet access after 9 weeks.
 How?  The replacement modem was replaced.
